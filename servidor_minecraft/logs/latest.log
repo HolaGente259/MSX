@@ -4346,3 +4346,124 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [
   ";Nb\\Ic)meu28,0+/$(k#'g93=<5/p24.ip.gl.ply.gg"
 ]
+[10Feb2025 05:06:47.711] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Feb2025 05:06:47.712] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003Ǯ�H",
+  "f_134722_": 32298,
+  "fmlVersion": "NONE"
+}
+[10Feb2025 05:06:47.712] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 128 extra bytes: 
+[10Feb2025 05:06:47.712] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "tILqP`> o029xEPBU|b\"vg&+/,0/524.ip.gl.ply.gg"
+]
+[10Feb2025 05:06:49.151] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Feb2025 05:06:49.151] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003�\u0018��",
+  "f_134722_": 35042,
+  "fmlVersion": "NONE"
+}
+[10Feb2025 05:06:49.151] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 121 extra bytes: 
+[10Feb2025 05:06:49.151] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "p}yqp\\( 8Gc<tG\\KH&+/,0/524.ip.gl.ply.gg"
+]
+[10Feb2025 05:07:05.713] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Feb2025 05:07:05.714] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003q������J�ì�sMo�",
+  "f_134722_": 10438,
+  "fmlVersion": "NONE"
+}
+[10Feb2025 05:07:05.714] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 95 extra bytes: 
+[10Feb2025 05:07:05.714] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "#X4D0S4F~]&>>!0+/,0/5#'<"
+]
+[10Feb2025 05:07:06.060] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Feb2025 05:07:06.060] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 225,
+  "f_134721_": "",
+  "f_134722_": 221,
+  "fmlVersion": "NONE"
+}
+[10Feb2025 05:07:06.060] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 111 extra bytes: 
+[10Feb2025 05:07:06.060] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "uECDvS'y0Ho&h@j29</k'g,f83$="
+]
+[10Feb2025 05:07:35.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loko384[/127.133.119.214:50051] logged in with entity id 59370 at (-879.6578552587779, 64.0, -2950.2456231827755)
+[10Feb2025 05:07:35.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 joined the game
+[10Feb2025 05:07:35.854] [Server thread/INFO] [Jade/]: Syncing config to Loko384 (3bf84b8b-38e4-36e4-9466-bc45342fedf3)
+[10Feb2025 05:07:38.198] [Server thread/INFO] [ping-wheel/]: Channel update: Loko384 -> default
+[10Feb2025 05:08:15.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loko384 lost connection: Disconnected
+[10Feb2025 05:08:15.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 left the game
+[10Feb2025 05:09:12.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliamDios[/127.67.90.126:43045] logged in with entity id 59633 at (-1017.3629744937936, -3.0, -3211.052516503426)
+[10Feb2025 05:09:12.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios joined the game
+[10Feb2025 05:09:12.866] [Server thread/INFO] [Jade/]: Syncing config to EliamDios (091b65e0-e0ee-3e6c-98c9-315e5dba24b4)
+[10Feb2025 05:09:16.049] [Server thread/INFO] [ping-wheel/]: Channel update: EliamDios -> default
+[10Feb2025 05:09:44.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios burned to death
+[10Feb2025 05:09:50.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1004.500000, -3.500000, -3214.500000]
+[10Feb2025 05:10:44.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Blast Protection Not Included]
+[10Feb2025 05:10:44.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Gave 1 [Brimstone Claymore] to EliamDios]
+[10Feb2025 05:10:57.542] [IO-Worker-166/ERROR] [net.minecraft.world.level.chunk.storage.IOWorker/]: Failed to store chunk [2, -196]
+java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$MapIterator.nextEntry(Object2ObjectOpenHashMap.java:631) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$KeyIterator.next(Object2ObjectOpenHashMap.java:1034) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:133) ~[server-1.20.1-20230612.114412-srg.jar%23859!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23859!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23859!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63708_(RegionFileStorage.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23859!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63535_(IOWorker.java:260) ~[server-1.20.1-20230612.114412-srg.jar%23859!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63553_(IOWorker.java:250) ~[server-1.20.1-20230612.114412-srg.jar%23859!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23859!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23859!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23859!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23859!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[10Feb2025 05:11:12.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loko384[/127.133.119.214:57377] logged in with entity id 61011 at (-880.2351689965973, 64.0, -2950.309703683224)
+[10Feb2025 05:11:12.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 joined the game
+[10Feb2025 05:11:12.933] [Server thread/INFO] [Jade/]: Syncing config to Loko384 (3bf84b8b-38e4-36e4-9466-bc45342fedf3)
+[10Feb2025 05:11:14.557] [Server thread/INFO] [ping-wheel/]: Channel update: Loko384 -> default
+[10Feb2025 05:11:27.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 05:11:40.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Blast Protection Not Included]
+[10Feb2025 05:13:48.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Spawner Carrier
+[10Feb2025 05:13:51.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Spawner Carrier
+[10Feb2025 05:13:52.751] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[10Feb2025 05:13:52.751] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 11 is dual wielding: false
+[10Feb2025 05:13:52.752] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[10Feb2025 05:13:52.752] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[10Feb2025 05:13:52.752] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[10Feb2025 05:13:56.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -987.500000, -3.500000, -3210.500000]
+[10Feb2025 05:14:02.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Spawner Carrier
+[10Feb2025 05:14:08.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -985.500000, -3.500000, -3218.500000]
+[10Feb2025 05:14:22.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 05:15:09.001] [Worker-Main-160/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[10Feb2025 05:18:41.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Let it Glow!]
+[10Feb2025 05:18:41.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Crops of the Wild]
+[10Feb2025 05:19:18.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has completed the challenge [Overkill]
+[10Feb2025 05:19:36.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Penteconter]
+[10Feb2025 05:19:56.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Local Brewery]
+[10Feb2025 05:22:09.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has reached the goal [When the Stew is Sus]
+[10Feb2025 05:22:09.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios withered away
+[10Feb2025 05:22:15.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -992.500000, -3.500000, -3211.500000]
+[10Feb2025 05:22:58.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 05:27:21.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Hollow
+[10Feb2025 05:27:25.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 05:27:54.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Hollow
+[10Feb2025 05:27:59.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 05:28:23.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Zombie
+[10Feb2025 05:28:26.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 05:29:03.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Pot Crab
+[10Feb2025 05:29:06.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 05:30:04.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 05:31:30.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was shot by Loko384
+[10Feb2025 05:31:37.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -942.500000, -3.500000, -3209.500000]
