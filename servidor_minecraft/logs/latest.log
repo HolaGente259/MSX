@@ -4207,3 +4207,22 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [10Feb2025 03:29:28.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
 [10Feb2025 03:30:40.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -879.500000, 64.500000, -2942.500000]
 [10Feb2025 03:30:49.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1209.500000, 37.500000, -2610.500000]
+[10Feb2025 03:32:18.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Fallen Chaos Knight
+[10Feb2025 03:32:21.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 03:32:24.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 fell from a high place
+[10Feb2025 03:32:26.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 03:33:33.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 03:35:01.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -877.500000, 64.500000, -2940.500000]
+[10Feb2025 03:35:27.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Dark Metallurgy]
+[10Feb2025 03:36:21.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -584.500000, 67.500000, -2630.500000]
+[10Feb2025 03:37:30.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -582.500000, 68.500000, -2555.500000]
+[10Feb2025 03:37:42.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -876.500000, 64.500000, -2945.500000]
+[10Feb2025 03:39:27.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by EliamDios
+[10Feb2025 03:39:32.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 03:40:09.524] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/52553, l='ServerLevel[world]', x=-1021.50, y=22.00, z=-3158.50] as it would cause deadlock
+[10Feb2025 03:40:28.781] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/52652, l='ServerLevel[world]', x=-1018.50, y=-28.00, z=-3178.50] as it would cause deadlock
+[10Feb2025 03:40:28.787] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/52654, l='ServerLevel[world]', x=-1014.50, y=-3.00, z=-3176.50] as it would cause deadlock
+[10Feb2025 03:40:34.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [The Wind Darkening]
+[10Feb2025 03:40:40.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Not Today, Thank You]
+[10Feb2025 03:40:51.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was blown up by Dripstone Creeper
+[10Feb2025 03:40:55.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
