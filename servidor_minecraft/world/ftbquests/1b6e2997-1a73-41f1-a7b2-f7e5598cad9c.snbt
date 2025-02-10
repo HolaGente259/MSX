@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "1b6e29971a7341f1a7b2f7e5598cad9c"
+	name: "EliamDios_s_Party#1b6e2997"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

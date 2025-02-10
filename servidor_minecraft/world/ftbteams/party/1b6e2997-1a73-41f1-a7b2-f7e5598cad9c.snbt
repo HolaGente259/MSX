@@ -1,0 +1,32 @@
+{
+	id: "1b6e2997-1a73-41f1-a7b2-f7e5598cad9c"
+	type: "party"
+	owner: "091b65e0-e0ee-3e6c-98c9-315e5dba24b4"
+	ranks: {
+		091b65e0-e0ee-3e6c-98c9-315e5dba24b4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "EliamDios's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59A4"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1738912043819L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"EliamDios\"}]}" }
+		{ from: "091b65e0-e0ee-3e6c-98c9-315e5dba24b4", date: 1738912114338L, text: "{\"text\":\"/invite\"}" }
+	]
+	extra: { }
+}

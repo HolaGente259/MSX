@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "69bd9d00d4394febaa75ee646173f70b"
+	name: "Loko384_s_Party#69bd9d00"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

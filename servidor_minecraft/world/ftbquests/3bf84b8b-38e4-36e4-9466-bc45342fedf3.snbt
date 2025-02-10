@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "3bf84b8b38e436e49466bc45342fedf3"
+	name: "Loko384#3bf84b8b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "091b65e0e0ee3e6c98c9315e5dba24b4"
+	name: "EliamDios#091b65e0"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
