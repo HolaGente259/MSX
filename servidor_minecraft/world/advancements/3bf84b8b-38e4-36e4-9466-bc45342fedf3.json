@@ -661,6 +661,8 @@
       "minecraft:deep_cold_ocean": "2025-02-07 07:25:15 +0000",
       "minecraft:ocean": "2025-02-07 07:22:50 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-07 07:21:47 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-10 01:49:25 +0000",
+      "minecraft:meadow": "2025-02-10 01:50:07 +0000",
       "minecraft:plains": "2025-02-07 07:09:50 +0000"
     },
     "done": false
@@ -5189,6 +5191,12 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-02-10 01:53:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 01:43:54 +0000"
@@ -5237,11 +5245,28 @@
     },
     "done": true
   },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "shrubland": "2025-02-10 01:55:10 +0000",
+      "redstone_caves": "2025-02-10 01:53:24 +0000",
+      "highland_fields": "2025-02-10 01:50:14 +0000",
+      "temperate_grove": "2025-02-10 01:52:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-02-10 01:43:20 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "shrubland": "2025-02-10 01:55:10 +0000",
+      "highland_fields": "2025-02-10 01:50:14 +0000",
+      "temperate_grove": "2025-02-10 01:52:02 +0000"
+    },
+    "done": false
   },
   "artifacts:amateur_archaeologist": {
     "criteria": {

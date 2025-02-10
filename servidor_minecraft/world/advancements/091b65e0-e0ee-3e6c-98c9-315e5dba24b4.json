@@ -661,6 +661,7 @@
       "minecraft:ocean": "2025-02-07 07:22:50 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-07 07:21:46 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-07 08:08:31 +0000",
+      "minecraft:meadow": "2025-02-10 01:50:14 +0000",
       "minecraft:plains": "2025-02-07 07:10:46 +0000"
     },
     "done": false
@@ -5092,11 +5093,82 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-02-10 01:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-10 01:45:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-10 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-02-10 01:53:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-10 01:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-10 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-10 01:45:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2025-02-10 01:44:44 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-10 01:51:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "shrubland": "2025-02-10 01:55:04 +0000",
+      "redstone_caves": "2025-02-10 01:53:25 +0000",
+      "highland_fields": "2025-02-10 01:50:24 +0000",
+      "temperate_grove": "2025-02-10 01:52:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-10 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "shrubland": "2025-02-10 01:55:04 +0000",
+      "highland_fields": "2025-02-10 01:50:24 +0000",
+      "temperate_grove": "2025-02-10 01:52:05 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
@@ -5110,6 +5182,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2025-02-10 01:45:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2025-02-10 01:44:44 +0000"
@@ -5119,6 +5197,12 @@
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-10 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-10 01:45:52 +0000"
     },
     "done": true
   },
