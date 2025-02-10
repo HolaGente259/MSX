@@ -5144,6 +5144,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-10 02:13:37 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/tools/golden_machete": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 01:43:54 +0000"
@@ -5153,6 +5159,12 @@
   "everycomp:recipes/building_blocks/db/biomesoplenty/jacaranda_seat": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-02-10 02:13:37 +0000"
     },
     "done": true
   },
@@ -5180,6 +5192,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-10 02:13:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 01:43:54 +0000"
@@ -5204,6 +5222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-10 02:07:19 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/fd/biomesoplenty/jacaranda_cabinet": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
@@ -5213,6 +5237,12 @@
   "everycomp:recipes/decorations/ru/biomesoplenty/jacaranda_branch": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
+    "criteria": {
+      "has_light_brown_bark_mushroom": "2025-02-10 02:14:36 +0000"
     },
     "done": true
   },
@@ -5297,6 +5327,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 01:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-02-10 02:10:22 +0000"
     },
     "done": true
   },
@@ -5393,6 +5429,12 @@
   "woodworks:recipes/decorations/oak_ladder_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-10 02:07:20 +0000"
     },
     "done": true
   },
@@ -5557,6 +5599,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-10 02:13:37 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/acacia_drawers": {
     "criteria": {
       "has_chest": "2025-02-10 02:01:13 +0000"
@@ -5659,9 +5707,21 @@
     },
     "done": true
   },
+  "projectvibrantjourneys:recipes/building_blocks/oak_planks_from_oak_hollow_log": {
+    "criteria": {
+      "has_oak_hollow_log": "2025-02-10 02:13:36 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/oak_button_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-10 02:13:37 +0000"
     },
     "done": true
   },
@@ -5737,6 +5797,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-02-10 02:07:21 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-10 02:13:37 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/db/biomesoplenty/jacaranda_support": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
@@ -5764,6 +5836,12 @@
   "everycomp:recipes/building_blocks/vs/biomesoplenty/cut_jacaranda_post": {
     "criteria": {
       "has_log": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-02-10 02:13:37 +0000"
     },
     "done": true
   },

@@ -657,6 +657,7 @@
       "minecraft:stony_shore": "2025-02-07 07:11:57 +0000",
       "minecraft:swamp": "2025-02-07 07:28:27 +0000",
       "minecraft:cold_ocean": "2025-02-07 07:26:11 +0000",
+      "minecraft:forest": "2025-02-10 02:14:41 +0000",
       "minecraft:deep_cold_ocean": "2025-02-07 07:25:15 +0000",
       "minecraft:ocean": "2025-02-07 07:22:50 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-07 07:21:46 +0000",
@@ -5099,6 +5100,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/birch_planks_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2025-02-10 02:14:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-02-10 01:51:11 +0000"
@@ -5111,9 +5118,21 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/birch_sign_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2025-02-10 02:14:55 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/cooking/cave_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-10 02:01:09 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_palisade": {
+    "criteria": {
+      "has_log": "2025-02-10 02:14:55 +0000"
     },
     "done": true
   },
@@ -5129,15 +5148,51 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2025-02-10 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-10 02:14:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:spelunker": {
     "criteria": {
       "redstone_caves": "2025-02-10 01:53:25 +0000"
     },
     "done": false
   },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_bark_mushroom": {
+    "criteria": {
+      "has_bark_mushroom": "2025-02-10 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/birch_trapdoor_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2025-02-10 02:14:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-02-10 01:51:11 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_stairs_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2025-02-10 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_boards_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2025-02-10 02:14:55 +0000"
     },
     "done": true
   },
@@ -5153,9 +5208,21 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/birch_fence_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2025-02-10 02:14:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2025-02-10 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_slab_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2025-02-10 02:14:55 +0000"
     },
     "done": true
   },
@@ -5200,6 +5267,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/birch_fence_gate_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2025-02-10 02:14:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-10 02:01:09 +0000"
@@ -5209,6 +5282,18 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2025-02-10 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/birch_pressure_plate_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2025-02-10 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-10 02:14:55 +0000"
     },
     "done": true
   },
@@ -5224,9 +5309,21 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/birch_button_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2025-02-10 02:14:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-10 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_ladder_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2025-02-10 02:14:55 +0000"
     },
     "done": true
   },
@@ -5248,6 +5345,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/birch_post": {
+    "criteria": {
+      "has_item": "2025-02-10 02:14:55 +0000"
+    },
+    "done": true
+  },
   "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
     "criteria": {
       "has_orange_bark_mushroom": "2025-02-10 02:01:11 +0000"
@@ -5260,6 +5363,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2025-02-10 02:14:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2025-02-10 02:01:09 +0000"
@@ -5269,6 +5378,12 @@
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-02-10 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/birch_door_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2025-02-10 02:14:55 +0000"
     },
     "done": true
   },

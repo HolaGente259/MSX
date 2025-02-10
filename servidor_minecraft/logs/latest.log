@@ -4087,3 +4087,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [10Feb2025 02:06:35.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-860, y=64, z=-2935} BlockPos{x=-859, y=63, z=-2935}
 [10Feb2025 02:06:36.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-860, y=64, z=-2935} BlockPos{x=-859, y=63, z=-2935}
 [10Feb2025 02:08:17.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-850, y=64, z=-2925} BlockPos{x=-849, y=63, z=-2927}
+[10Feb2025 02:09:55.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-835, y=63, z=-2920} BlockPos{x=-835, y=62, z=-2920}
+[10Feb2025 02:14:33.569] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-63, y=63, z=-4}
+[10Feb2025 02:15:33.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
