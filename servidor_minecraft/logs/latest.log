@@ -4492,3 +4492,33 @@ java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.Obj
 [10Feb2025 05:52:42.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Zombie
 [10Feb2025 05:52:48.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Zombie
 [10Feb2025 05:52:52.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Loko384> -
+[10Feb2025 05:52:54.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 05:53:25.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Zombie Clown
+[10Feb2025 05:54:48.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 05:55:01.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was doomed to fall
+[10Feb2025 05:55:01.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios fell from a high place
+[10Feb2025 05:55:48.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -794.500000, 12.500000, -3032.500000]
+[10Feb2025 05:56:45.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was shot by EliamDios
+[10Feb2025 05:56:59.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 05:57:05.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 06:00:32.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 06:03:25.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios burned to death
+[10Feb2025 06:03:29.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -759.500000, -30.500000, -3058.500000]
+[10Feb2025 06:11:41.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Zombie
+[10Feb2025 06:11:49.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -887.500000, -53.500000, -3083.500000]
+[10Feb2025 06:12:08.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Chest Slayer]
+[10Feb2025 06:12:09.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Amateur Archaeologist]
+[10Feb2025 06:12:56.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Corpse Maggot
+[10Feb2025 06:13:26.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has completed the challenge [What a Nugget, Once Again!]
+[10Feb2025 06:13:53.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Pot Crab
+[10Feb2025 06:14:01.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 06:14:03.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by EliamDios
+[10Feb2025 06:14:06.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 06:14:07.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Pot Crab
+[10Feb2025 06:14:11.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -915.500000, -53.500000, -3049.500000]
+[10Feb2025 06:19:31.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Cave Spider
+[10Feb2025 06:19:38.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 06:19:51.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -865.500000, -53.500000, -3142.500000]
+[10Feb2025 06:20:36.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Cover Me with Diamonds]
+[10Feb2025 06:21:22.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 06:22:22.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Let it Glow!]

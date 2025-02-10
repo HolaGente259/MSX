@@ -665,6 +665,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-02-07 07:21:47 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-10 01:49:25 +0000",
       "minecraft:meadow": "2025-02-10 01:50:07 +0000",
+      "minecraft:savanna": "2025-02-10 06:09:30 +0000",
       "minecraft:plains": "2025-02-07 07:09:50 +0000"
     },
     "done": false
@@ -5315,6 +5316,7 @@
     "criteria": {
       "shrubland": "2025-02-10 01:55:10 +0000",
       "redstone_caves": "2025-02-10 01:53:24 +0000",
+      "scorching_caves": "2025-02-10 06:19:38 +0000",
       "highland_fields": "2025-02-10 01:50:14 +0000",
       "deciduous_forest": "2025-02-10 03:51:26 +0000",
       "temperate_grove": "2025-02-10 01:52:02 +0000",
@@ -5334,7 +5336,8 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
-      "redstone_caves": "2025-02-10 01:53:24 +0000"
+      "redstone_caves": "2025-02-10 01:53:24 +0000",
+      "scorching_caves": "2025-02-10 06:19:38 +0000"
     },
     "done": false
   },
@@ -8758,6 +8761,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/life_stealer": {
+    "criteria": {
+      "has_spawner_blade": "2025-02-10 06:16:14 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/diamond_shield": {
     "criteria": {
       "has_diamond": "2025-02-10 05:35:53 +0000"
@@ -8773,6 +8782,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-02-10 05:35:53 +0000"
+    },
+    "done": true
+  },
+  "additionaladditions:obtain_chicken_nugget": {
+    "criteria": {
+      "obtain": "2025-02-10 06:13:26 +0000"
     },
     "done": true
   },
@@ -8800,15 +8815,33 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_sword": {
+    "criteria": {
+      "has_spawner_blade": "2025-02-10 06:16:14 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/building_blocks/cave_carrot_crate": {
     "criteria": {
       "has_cave_carrot": "2025-02-10 05:18:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-10 05:50:47 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/spawner_leggings": {
     "criteria": {
       "has_spawner_frame": "2025-02-10 05:23:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-02-10 06:12:29 +0000"
     },
     "done": true
   },
@@ -8848,9 +8881,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-10 06:08:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "cabbage_seeds": "2025-02-10 05:18:41 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/skull_of_chaos": {
+    "criteria": {
+      "has_spawner_blade": "2025-02-10 06:16:14 +0000"
     },
     "done": true
   },
@@ -8878,6 +8923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-10 06:08:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_brick_slab": "2025-02-10 05:25:31 +0000"
@@ -8887,6 +8938,12 @@
   "miners_delight:recipes/food/baked_cave_carrot_campfire": {
     "criteria": {
       "has_cave_carrot": "2025-02-10 05:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-10 06:08:29 +0000"
     },
     "done": true
   },
@@ -9019,6 +9076,12 @@
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-02-10 05:41:55 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-02-10 06:18:40 +0000"
     },
     "done": true
   },
