@@ -4274,3 +4274,10 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [10Feb2025 03:49:13.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was spiked to death
 [10Feb2025 03:49:23.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to Loko384]
 [10Feb2025 03:51:30.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Diamonds!]
+[10Feb2025 03:51:49.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Penteconter]
+[10Feb2025 03:53:07.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Cover Me with Diamonds]
+[10Feb2025 03:55:48.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliamDios lost connection: Disconnected
+[10Feb2025 03:55:48.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios left the game
+[10Feb2025 03:55:52.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Zombie
+[10Feb2025 03:56:19.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loko384 lost connection: Disconnected
+[10Feb2025 03:56:19.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 left the game
