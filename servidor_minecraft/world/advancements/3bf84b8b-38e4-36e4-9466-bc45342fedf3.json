@@ -3585,6 +3585,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-10 02:23:58 +0000",
+      "minecraft:creeper": "2025-02-10 02:20:18 +0000",
       "minecraft:witch": "2025-02-07 07:39:43 +0000",
       "minecraft:zombie": "2025-02-07 07:55:34 +0000"
     },
@@ -5210,9 +5212,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
     "criteria": {
       "has_chest": "2025-02-10 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-10 02:24:11 +0000"
     },
     "done": true
   },
@@ -5228,9 +5248,27 @@
     },
     "done": true
   },
+  "biomemakeover:biomemakeover/cladding_template": {
+    "criteria": {
+      "get_disc": "2025-02-10 02:24:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/fd/biomesoplenty/jacaranda_cabinet": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
     },
     "done": true
   },
@@ -5264,6 +5302,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/orange_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/oak_boards_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2025-02-10 02:04:43 +0000"
@@ -5279,6 +5323,18 @@
   "everycomp:recipes/building_blocks/db/biomesoplenty/jacaranda_palisade": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
     },
     "done": true
   },
@@ -5318,9 +5374,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 01:43:54 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_button_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
     },
     "done": true
   },
@@ -5336,6 +5404,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/lime_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-02-10 02:04:43 +0000"
@@ -5348,6 +5422,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/oak_seat": {
+    "criteria": {
+      "has_plank": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_items": "2025-02-10 01:43:54 +0000"
@@ -5357,6 +5437,12 @@
   "everycomp:recipes/building_blocks/db/biomesoplenty/jacaranda_beam": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
     },
     "done": true
   },
@@ -5390,9 +5476,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/oak_fence_gate_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
     },
     "done": true
   },
@@ -5420,6 +5518,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
     "criteria": {
       "has_raw_redstone_block": "2025-02-10 01:55:47 +0000"
@@ -5429,6 +5533,12 @@
   "woodworks:recipes/decorations/oak_ladder_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
     },
     "done": true
   },
@@ -5474,6 +5584,30 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_support": {
+    "criteria": {
+      "has_plank": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/oak_desk_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/sd/biomesoplenty/jacaranda_full_drawers_4": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
@@ -5504,9 +5638,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/gilded_beads": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 01:43:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
     },
     "done": true
   },
@@ -5528,6 +5674,18 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-02-10 01:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
     },
     "done": true
   },
@@ -5587,9 +5745,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 01:43:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
     },
     "done": true
   },
@@ -5623,6 +5799,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/faf/biomesoplenty/jacaranda_beehive": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
@@ -5641,9 +5823,21 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/oak_ladder_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/abnww/biomesoplenty/jacaranda_bookshelf": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:21:37 +0000"
     },
     "done": true
   },
@@ -5653,15 +5847,39 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
     "criteria": {
       "has_log": "2025-02-10 02:04:43 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/yellow_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/oak_drawers": {
     "criteria": {
       "has_chest": "2025-02-10 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
     },
     "done": true
   },
@@ -5683,15 +5901,39 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-02-10 02:04:43 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/vs/biomesoplenty/bundled_jacaranda_posts": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
     },
     "done": true
   },
@@ -5719,6 +5961,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/oak_fence_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-02-10 02:13:37 +0000"
@@ -5731,9 +5979,21 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/oak_stairs_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-02-10 01:43:20 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_boards_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
     },
     "done": true
   },
@@ -5746,6 +6006,18 @@
   "suppsquared:recipes/decorations/biomesoplenty/item_shelf_jacaranda": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:21:37 +0000"
     },
     "done": true
   },
@@ -5791,9 +6063,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
     "criteria": {
       "has_redstone_bulb": "2025-02-10 01:55:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
     },
     "done": true
   },
@@ -5827,6 +6117,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/redstone/abnww/biomesoplenty/trapped_jacaranda_chest": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
@@ -5857,6 +6159,18 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/oak_slab_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/oak_pressure_plate_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2025-02-10 02:04:43 +0000"
@@ -5869,9 +6183,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-02-10 02:23:58 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/oak_sign_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-02-10 02:21:37 +0000"
     },
     "done": true
   },

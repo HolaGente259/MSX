@@ -2061,6 +2061,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-10 02:24:01 +0000",
       "minecraft:skeleton": "2025-02-07 08:04:04 +0000",
       "minecraft:creeper": "2025-02-07 07:13:54 +0000",
       "minecraft:drowned": "2025-02-07 07:28:29 +0000"
@@ -5100,6 +5101,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-02-10 02:21:31 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/birch_planks_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2025-02-10 02:14:55 +0000"
@@ -5190,6 +5197,12 @@
     },
     "done": true
   },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "pine_log": "2025-02-10 02:21:31 +0000"
+    },
+    "done": false
+  },
   "woodworks:recipes/building_blocks/birch_boards_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2025-02-10 02:14:55 +0000"
@@ -5199,6 +5212,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-02-10 01:45:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2025-02-10 02:21:31 +0000"
     },
     "done": true
   },
@@ -5235,6 +5254,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-02-10 01:55:04 +0000",
+      "pine_taiga": "2025-02-10 02:16:47 +0000",
       "redstone_caves": "2025-02-10 01:53:25 +0000",
       "highland_fields": "2025-02-10 01:50:24 +0000",
       "temperate_grove": "2025-02-10 01:52:05 +0000"
@@ -5250,6 +5270,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2025-02-10 01:55:04 +0000",
+      "pine_taiga": "2025-02-10 02:16:47 +0000",
       "highland_fields": "2025-02-10 01:50:24 +0000",
       "temperate_grove": "2025-02-10 01:52:05 +0000"
     },
@@ -5267,6 +5288,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-02-10 02:21:31 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/birch_fence_gate_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2025-02-10 02:14:55 +0000"
@@ -5276,6 +5303,12 @@
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-10 02:01:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2025-02-10 02:22:34 +0000"
     },
     "done": true
   },
@@ -5297,6 +5330,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-02-10 02:22:34 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/gardening_table": {
     "criteria": {
       "has_flower": "2025-02-10 01:45:57 +0000"
@@ -5312,6 +5351,12 @@
   "woodworks:recipes/redstone/birch_button_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2025-02-10 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_shrub": {
+    "criteria": {
+      "has_pine_sapling": "2025-02-10 02:21:31 +0000"
     },
     "done": true
   },
