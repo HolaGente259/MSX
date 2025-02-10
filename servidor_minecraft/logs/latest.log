@@ -4100,3 +4100,8 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [10Feb2025 02:22:16.416] [Worker-Main-14/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17463, l='ServerLevel[world]', x=-981.50, y=-28.00, z=-3159.50] as it would cause deadlock
 [10Feb2025 02:24:11.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Voluntary Exile]
 [10Feb2025 02:24:12.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Clad to See You]
+[10Feb2025 02:46:29.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Voluntary Exile]
+[10Feb2025 02:46:30.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Clad to See You]
+[10Feb2025 02:49:01.274] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/29139, l='ServerLevel[world]', x=-1021.50, y=22.00, z=-3150.50] as it would cause deadlock
+[10Feb2025 02:49:01.680] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/29149, l='ServerLevel[world]', x=-1043.50, y=-28.00, z=-3137.50] as it would cause deadlock
+[10Feb2025 02:49:01.695] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/29151, l='ServerLevel[world]', x=-1051.50, y=-28.00, z=-3137.50] as it would cause deadlock
