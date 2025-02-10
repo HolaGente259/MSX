@@ -2013,6 +2013,7 @@
       "bread": "2025-02-10 02:35:15 +0000",
       "golden_apple": "2025-02-10 05:14:36 +0000",
       "melon_slice": "2025-02-07 07:10:06 +0000",
+      "golden_carrot": "2025-02-10 06:21:58 +0000",
       "carrot": "2025-02-10 03:47:46 +0000"
     },
     "done": false
@@ -8012,6 +8013,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-02-10 06:20:36 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_upgrade_smithing_template": {
     "criteria": {
       "has_silver_upgrade_smithing_template": "2025-02-10 05:38:04 +0000"
@@ -8681,6 +8688,12 @@
   "stoneworks:recipes/building_blocks/basalt_plate_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-10 06:19:13 +0000"
+    },
+    "done": true
+  },
+  "additionaladditions:obtain_glow_stick": {
+    "criteria": {
+      "obtain": "2025-02-10 06:22:22 +0000"
     },
     "done": true
   },
