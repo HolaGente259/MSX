@@ -4079,3 +4079,11 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [10Feb2025 01:56:37.514] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-864, y=-4, z=-3145}
 [10Feb2025 01:56:37.515] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-864, y=-3, z=-3143}
 [10Feb2025 01:58:04.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 01:59:34.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-883, y=65, z=-2937} BlockPos{x=-884, y=65, z=-2937}
+[10Feb2025 02:00:48.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-902, y=71, z=-2957} BlockPos{x=-902, y=70, z=-2956}
+[10Feb2025 02:00:48.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-902, y=71, z=-2958} BlockPos{x=-902, y=70, z=-2956}
+[10Feb2025 02:05:23.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-865, y=64, z=-2903} BlockPos{x=-864, y=63, z=-2903}
+[10Feb2025 02:05:45.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-845, y=63, z=-2919} BlockPos{x=-845, y=63, z=-2920}
+[10Feb2025 02:06:35.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-860, y=64, z=-2935} BlockPos{x=-859, y=63, z=-2935}
+[10Feb2025 02:06:36.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-860, y=64, z=-2935} BlockPos{x=-859, y=63, z=-2935}
+[10Feb2025 02:08:17.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-850, y=64, z=-2925} BlockPos{x=-849, y=63, z=-2927}

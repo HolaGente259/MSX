@@ -2698,6 +2698,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-02-07 07:38:27 +0000",
+      "pumpkin_pie": "2025-02-10 02:02:48 +0000",
       "bread": "2025-02-10 01:45:06 +0000",
       "melon_slice": "2025-02-07 07:19:04 +0000"
     },
@@ -5149,6 +5150,24 @@
     },
     "done": true
   },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/jacaranda_seat": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/vs/biomesoplenty/jacaranda_post": {
+    "criteria": {
+      "has_log": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vf/biomesoplenty/jacaranda_chair": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 01:43:54 +0000"
@@ -5173,9 +5192,33 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-10 02:01:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 01:43:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/biomesoplenty/jacaranda_cabinet": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/ru/biomesoplenty/jacaranda_branch": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-10 02:01:13 +0000"
     },
     "done": true
   },
@@ -5191,11 +5234,59 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/oak_boards_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-10 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/jacaranda_palisade": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnww/biomesoplenty/jacaranda_chest": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-02-10 01:55:38 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:spelunker": {
     "criteria": {
       "redstone_caves": "2025-02-10 01:53:24 +0000"
     },
     "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-10 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-02-10 01:55:47 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/vs/biomesoplenty/cut_stripped_jacaranda_post": {
+    "criteria": {
+      "has_log": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
@@ -5209,9 +5300,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_items": "2025-02-10 01:43:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/jacaranda_beam": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
     },
     "done": true
   },
@@ -5221,9 +5330,45 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/abnww/biomesoplenty/jacaranda_ladder": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-02-10 01:43:20 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vf/biomesoplenty/hay_jacaranda_chair": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/biomesoplenty/jacaranda_trim": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_fence_gate_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-10 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:01:08 +0000"
     },
     "done": true
   },
@@ -5236,6 +5381,84 @@
   "supplementaries:recipes/gold_trapdoor": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 01:43:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-02-10 01:55:47 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_ladder_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/biomesoplenty/jacaranda_half_drawers_1": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/biomesoplenty/jacaranda_half_drawers_2": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/biomesoplenty/jacaranda_half_drawers_4": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_jacaranda": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-10 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/biomesoplenty/jacaranda_full_drawers_4": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/biomesoplenty/jacaranda_full_drawers_2": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/biomesoplenty/jacaranda_full_drawers_1": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_trapdoor_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-02-10 02:01:08 +0000"
     },
     "done": true
   },
@@ -5253,6 +5476,12 @@
       "temperate_grove": "2025-02-10 01:52:02 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
@@ -5286,6 +5515,30 @@
     },
     "done": true
   },
+  "everycomp:recipes/building_blocks/vs/biomesoplenty/bundled_stripped_jacaranda_posts": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vf/biomesoplenty/jacaranda_desk": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnww/biomesoplenty/jacaranda_beehive": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 01:43:54 +0000"
@@ -5298,9 +5551,123 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-10 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/biomesoplenty/jacaranda_window_pane": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/ls/biomesoplenty/jacaranda_shutter": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/biomesoplenty/jacaranda_beehive": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/biomesoplenty/jacaranda_window": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 01:43:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/abnww/biomesoplenty/jacaranda_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-02-10 01:56:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-10 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vf/biomesoplenty/jacaranda_stool": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vf/biomesoplenty/jacaranda_table": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/vs/biomesoplenty/bundled_jacaranda_posts": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_planks_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_button_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_fence_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2025-02-10 02:04:43 +0000"
     },
     "done": true
   },
@@ -5310,9 +5677,123 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/oak_door_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_jacaranda": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-10 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-10 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_stairs_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/vs/biomesoplenty/stripped_jacaranda_post": {
+    "criteria": {
+      "has_log": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_slab_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-10 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/abnww/biomesoplenty/chiseled_jacaranda_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-02-10 01:55:38 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/jacaranda_support": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vf/biomesoplenty/jacaranda_desk_drawer": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnww/biomesoplenty/jacaranda_boards": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/redstone/abnww/biomesoplenty/trapped_jacaranda_chest": {
+    "criteria": {
+      "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/vs/biomesoplenty/cut_jacaranda_post": {
+    "criteria": {
+      "has_log": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/oak_post": {
+    "criteria": {
+      "has_item": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_pressure_plate_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/golden_shield": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 01:43:54 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_sign_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2025-02-10 02:04:43 +0000"
     },
     "done": true
   },
