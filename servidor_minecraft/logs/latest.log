@@ -4558,3 +4558,25 @@ java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.Obj
 [10Feb2025 06:34:41.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
 [10Feb2025 06:40:18.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Who is Cutting Onions?]
 [10Feb2025 06:43:08.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Breaking the Seal]
+[10Feb2025 06:44:20.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Chaos Spawner
+[10Feb2025 06:44:25.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -957.500000, -53.500000, -3160.500000]
+[10Feb2025 06:45:42.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Chaos Spawner
+[10Feb2025 06:45:44.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Chaos Spawner
+[10Feb2025 06:45:45.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 06:45:47.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -955.500000, -53.500000, -3160.500000]
+[10Feb2025 06:49:43.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Chaos Spawner
+[10Feb2025 06:49:47.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -972.500000, -53.500000, -3155.500000]
+[10Feb2025 06:50:32.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Chaos Spawner
+[10Feb2025 06:50:36.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -970.500000, -53.500000, -3155.500000]
+[10Feb2025 06:50:58.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Chaos Spawner
+[10Feb2025 06:50:58.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Chaos Spawner
+[10Feb2025 06:50:59.073] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[10Feb2025 06:50:59.074] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[10Feb2025 06:50:59.074] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[10Feb2025 06:50:59.074] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[10Feb2025 06:50:59.074] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[10Feb2025 06:51:02.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -963.500000, -53.500000, -3152.500000]
+[10Feb2025 06:52:56.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliamDios lost connection: Disconnected
+[10Feb2025 06:52:56.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios left the game
+[10Feb2025 06:53:00.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loko384 lost connection: Disconnected
+[10Feb2025 06:53:00.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 left the game
