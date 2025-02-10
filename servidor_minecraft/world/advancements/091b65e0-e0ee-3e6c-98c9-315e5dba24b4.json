@@ -2001,6 +2001,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-02-10 02:53:12 +0000",
       "bread": "2025-02-10 02:35:15 +0000",
       "melon_slice": "2025-02-07 07:10:06 +0000"
     },
@@ -5145,9 +5146,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-10 02:46:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-02-10 01:45:57 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/cladding_template": {
+    "criteria": {
+      "get_disc": "2025-02-10 02:46:30 +0000"
     },
     "done": true
   },

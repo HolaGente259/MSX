@@ -4105,3 +4105,15 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [10Feb2025 02:49:01.274] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/29139, l='ServerLevel[world]', x=-1021.50, y=22.00, z=-3150.50] as it would cause deadlock
 [10Feb2025 02:49:01.680] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/29149, l='ServerLevel[world]', x=-1043.50, y=-28.00, z=-3137.50] as it would cause deadlock
 [10Feb2025 02:49:01.695] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/29151, l='ServerLevel[world]', x=-1051.50, y=-28.00, z=-3137.50] as it would cause deadlock
+[10Feb2025 02:57:57.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1081.500000, 40.500000, -2051.500000]
+[10Feb2025 02:58:23.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1063.500000, 70.500000, -1750.500000]
+[10Feb2025 02:58:33.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1236.500000, 63.500000, -1748.500000]
+[10Feb2025 02:58:45.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1362.500000, 71.500000, -1591.500000]
+[10Feb2025 02:58:50.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1673.500000, 71.500000, -1159.500000]
+[10Feb2025 02:58:58.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1732.500000, 71.500000, -947.500000]
+[10Feb2025 02:59:03.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35633, l='ServerLevel[world]', x=-1708.50, y=74.00, z=-954.50]
+[10Feb2025 02:59:07.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1795.500000, 63.500000, -633.500000]
+[10Feb2025 02:59:10.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1783.500000, 63.500000, -283.500000]
+[10Feb2025 02:59:12.703] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/35857, l='ServerLevel[world]', x=-1923.50, y=-28.00, z=-603.50] as it would cause deadlock
+[10Feb2025 02:59:21.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1081.500000, 40.500000, -2051.500000]
+[10Feb2025 02:59:34.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -883.500000, 64.500000, -2938.500000]
