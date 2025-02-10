@@ -2001,6 +2001,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-02-10 02:35:15 +0000",
       "melon_slice": "2025-02-07 07:10:06 +0000"
     },
     "done": false

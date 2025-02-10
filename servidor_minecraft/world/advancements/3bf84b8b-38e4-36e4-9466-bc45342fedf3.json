@@ -5146,6 +5146,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/prismoss": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-02-10 02:13:37 +0000"
@@ -5221,6 +5227,12 @@
   "valhelsia_furniture:recipes/decorations/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
     },
     "done": true
   },
@@ -5320,6 +5332,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingle_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/db/biomesoplenty/jacaranda_palisade": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
@@ -5341,6 +5359,12 @@
   "everycomp:recipes/decorations/abnww/biomesoplenty/jacaranda_chest": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tile_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
     },
     "done": true
   },
@@ -5452,6 +5476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/abnww/biomesoplenty/jacaranda_ladder": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
@@ -5530,6 +5560,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/oak_ladder_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2025-02-10 02:04:43 +0000"
@@ -5566,6 +5602,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_pillar_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_jacaranda": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
@@ -5596,6 +5644,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/oak_desk": {
     "criteria": {
       "has_oak_planks": "2025-02-10 02:21:37 +0000"
@@ -5605,6 +5665,12 @@
   "valhelsia_furniture:recipes/decorations/oak_desk_drawer": {
     "criteria": {
       "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
     },
     "done": true
   },
@@ -5656,6 +5722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-02-10 01:55:10 +0000",
@@ -5689,6 +5761,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_plate_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2025-02-10 01:55:10 +0000",
@@ -5697,15 +5775,39 @@
     },
     "done": false
   },
+  "stoneworks:recipes/building_blocks/stone_plate_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/stone_pillar": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-02-10 01:43:59 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_plate_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-02-10 01:43:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
     },
     "done": true
   },
@@ -5730,6 +5832,18 @@
   "everycomp:recipes/decorations/abnww/biomesoplenty/jacaranda_beehive": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_pavers_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
     },
     "done": true
   },
@@ -5781,9 +5895,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/acacia_drawers": {
     "criteria": {
       "has_chest": "2025-02-10 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tile_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
     },
     "done": true
   },
@@ -5796,6 +5934,24 @@
   "everycomp:recipes/decorations/ls/biomesoplenty/jacaranda_shutter": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
     },
     "done": true
   },
@@ -5829,6 +5985,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/abnww/biomesoplenty/jacaranda_bookshelf": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
@@ -5838,6 +6000,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
     },
     "done": true
   },
@@ -5913,6 +6081,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-02-10 02:04:43 +0000"
@@ -5925,6 +6099,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/vs/biomesoplenty/bundled_jacaranda_posts": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
@@ -5934,6 +6114,12 @@
   "valhelsia_furniture:recipes/decorations/magenta_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_shingle_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
     },
     "done": true
   },
@@ -6003,6 +6189,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
   "suppsquared:recipes/decorations/biomesoplenty/item_shelf_jacaranda": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
@@ -6036,6 +6228,12 @@
   "woodworks:recipes/building_blocks/oak_stairs_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
     },
     "done": true
   },
@@ -6099,6 +6297,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingle_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/db/biomesoplenty/jacaranda_support": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
@@ -6120,6 +6324,12 @@
   "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
     },
     "done": true
   },
@@ -6153,9 +6363,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-10 02:28:14 +0000"
     },
     "done": true
   },
