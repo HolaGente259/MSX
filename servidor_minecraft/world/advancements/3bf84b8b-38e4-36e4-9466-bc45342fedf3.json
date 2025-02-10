@@ -6910,6 +6910,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "interact_subterranodon": "2025-02-10 03:28:17 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/vs/biomesoplenty/bundled_jacaranda_posts": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"

@@ -5155,6 +5155,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2025-02-10 03:27:19 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-02-10 02:56:13 +0000"
@@ -5537,6 +5543,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-02-10 03:21:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-10 02:56:13 +0000"
@@ -5873,6 +5885,12 @@
   "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-10 02:56:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "interact_subterranodon": "2025-02-10 03:28:05 +0000"
     },
     "done": true
   },
