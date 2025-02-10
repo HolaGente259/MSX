@@ -4117,3 +4117,32 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [10Feb2025 02:59:12.703] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/35857, l='ServerLevel[world]', x=-1923.50, y=-28.00, z=-603.50] as it would cause deadlock
 [10Feb2025 02:59:21.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1081.500000, 40.500000, -2051.500000]
 [10Feb2025 02:59:34.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -883.500000, 64.500000, -2938.500000]
+[10Feb2025 03:03:45.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Engineering Marvel]
+[10Feb2025 03:04:34.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Engineering Marvel]
+[10Feb2025 03:05:12.464] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Feb2025 03:05:12.465] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003�TD",
+  "f_134722_": 40302,
+  "fmlVersion": "NONE"
+}
+[10Feb2025 03:05:12.465] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 128 extra bytes: 
+[10Feb2025 03:05:12.466] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "]WY8{ zzcja+ y,3X;p&+/0/524.ip.gl.ply.gg"
+]
+[10Feb2025 03:05:14.043] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Feb2025 03:05:14.044] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003r\u0007�4",
+  "f_134722_": 44143,
+  "fmlVersion": "NONE"
+}
+[10Feb2025 03:05:14.044] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 142 extra bytes: 
+[10Feb2025 03:05:14.044] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "8P~* <P`1Hz?;d},WE&+/,0/524.ip.gl.ply.gg"
+]
+[10Feb2025 03:09:38.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Too Many Bows]
