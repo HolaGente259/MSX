@@ -3587,9 +3587,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-10 02:23:58 +0000",
+      "minecraft:skeleton": "2025-02-10 03:40:45 +0000",
       "minecraft:spider": "2025-02-10 03:35:08 +0000",
       "minecraft:creeper": "2025-02-10 02:20:18 +0000",
       "minecraft:witch": "2025-02-07 07:39:43 +0000",
+      "minecraft:cave_spider": "2025-02-10 03:45:32 +0000",
       "minecraft:zombie": "2025-02-07 07:55:34 +0000",
       "minecraft:drowned": "2025-02-10 03:18:00 +0000",
       "minecraft:zombie_villager": "2025-02-10 03:32:14 +0000"
@@ -5192,6 +5194,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_iron_bars": "2025-02-10 03:44:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-02-10 02:56:40 +0000"
@@ -5570,6 +5578,18 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-10 03:47:18 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-10 03:47:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_shingle_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-10 02:28:14 +0000"
@@ -5606,6 +5626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-10 03:47:18 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-02-10 02:56:40 +0000"
@@ -5621,6 +5647,12 @@
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-10 02:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-10 03:47:18 +0000"
     },
     "done": true
   },
@@ -5744,6 +5776,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-02-10 03:43:21 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-02-10 02:56:40 +0000"
@@ -5807,6 +5845,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-10 02:54:20 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/decorations/cobblestone_from_rocks": {
+    "criteria": {
+      "has_rocks": "2025-02-10 03:46:21 +0000"
     },
     "done": true
   },
@@ -6053,6 +6097,12 @@
   "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-02-10 03:40:08 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core": {
+    "criteria": {
+      "has_item": "2025-02-10 03:47:18 +0000"
     },
     "done": true
   },
@@ -6386,6 +6436,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-02-10 03:43:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-02-10 03:40:08 +0000"
@@ -6428,6 +6484,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-02-10 03:46:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-02-10 03:40:08 +0000"
@@ -6437,6 +6499,12 @@
   "woodworks:recipes/building_blocks/birch_slab_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2025-02-10 02:56:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-02-10 03:43:37 +0000"
     },
     "done": true
   },
@@ -6521,6 +6589,12 @@
   "woodworks:recipes/redstone/oak_trapdoor_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-10 03:47:18 +0000"
     },
     "done": true
   },
@@ -6709,6 +6783,18 @@
     },
     "done": true
   },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-10 03:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-10 03:47:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-10 02:54:20 +0000"
@@ -6844,6 +6930,12 @@
   "create:recipes/building_blocks/birch_window": {
     "criteria": {
       "has_ingredient": "2025-02-10 02:56:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-02-10 03:41:12 +0000"
     },
     "done": true
   },
@@ -7045,6 +7137,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-02-10 03:44:35 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/c/biomesoplenty/jacaranda_window_pane": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
@@ -7060,6 +7158,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-10 03:40:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-10 03:47:18 +0000"
     },
     "done": true
   },
@@ -7198,6 +7302,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-02-10 02:56:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_brick": "2025-02-10 03:43:37 +0000"
     },
     "done": true
   },
@@ -7531,6 +7641,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-02-10 03:41:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_lamp": {
     "criteria": {
       "has_stone": "2025-02-10 02:28:14 +0000"
@@ -7786,6 +7902,12 @@
   "woodworks:recipes/redstone/oak_door_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2025-02-10 02:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-02-10 03:43:37 +0000"
     },
     "done": true
   },
@@ -8335,9 +8457,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-02-10 03:43:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-02-10 03:40:08 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-02-10 03:44:35 +0000"
     },
     "done": true
   },

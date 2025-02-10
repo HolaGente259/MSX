@@ -4226,3 +4226,51 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [10Feb2025 03:40:40.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Not Today, Thank You]
 [10Feb2025 03:40:51.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was blown up by Dripstone Creeper
 [10Feb2025 03:40:55.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 03:41:38.864] [Worker-Main-14/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/53229, l='ServerLevel[world]', x=-1018.50, y=-28.00, z=-3186.50] as it would cause deadlock
+[10Feb2025 03:41:54.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [The Wind Darkening]
+[10Feb2025 03:41:58.773] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/53383, l='ServerLevel[world]', x=-979.50, y=-28.00, z=-3206.50] as it would cause deadlock
+[10Feb2025 03:42:05.512] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1043, y=-29, z=-3181}
+[10Feb2025 03:42:05.512] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1044, y=-29, z=-3181}
+[10Feb2025 03:42:05.512] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1044, y=-28, z=-3180}
+[10Feb2025 03:42:05.512] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1043, y=-29, z=-3181}
+[10Feb2025 03:42:05.512] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1044, y=-29, z=-3181}
+[10Feb2025 03:42:05.512] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1044, y=-28, z=-3180}
+[10Feb2025 03:42:05.552] [Worker-Main-8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1024, y=-4, z=-3214}
+[10Feb2025 03:42:05.552] [Worker-Main-8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1023, y=-4, z=-3215}
+[10Feb2025 03:42:05.553] [Worker-Main-8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1024, y=-4, z=-3214}
+[10Feb2025 03:42:05.553] [Worker-Main-8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1023, y=-4, z=-3215}
+[10Feb2025 03:42:05.585] [Worker-Main-8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1025, y=-4, z=-3215}
+[10Feb2025 03:42:05.585] [Worker-Main-8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1025, y=-4, z=-3214}
+[10Feb2025 03:42:05.586] [Worker-Main-8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1025, y=-4, z=-3215}
+[10Feb2025 03:42:05.586] [Worker-Main-8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1025, y=-4, z=-3214}
+[10Feb2025 03:42:05.914] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/53579, l='ServerLevel[world]', x=-1062.50, y=-53.00, z=-3137.50] as it would cause deadlock
+[10Feb2025 03:42:30.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Labyrinth]
+[10Feb2025 03:43:21.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Labyrinth]
+[10Feb2025 03:43:22.443] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-996, y=15, z=-3228}
+[10Feb2025 03:43:22.443] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-995, y=15, z=-3228}
+[10Feb2025 03:43:22.443] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-996, y=16, z=-3228}
+[10Feb2025 03:43:22.443] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-996, y=15, z=-3228}
+[10Feb2025 03:43:22.443] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-995, y=15, z=-3228}
+[10Feb2025 03:43:22.443] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-996, y=16, z=-3228}
+[10Feb2025 03:43:22.444] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1001, y=21, z=-3219}
+[10Feb2025 03:43:22.444] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1001, y=21, z=-3219}
+[10Feb2025 03:43:24.360] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1059, y=-4, z=-3177}
+[10Feb2025 03:43:24.361] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1057, y=-4, z=-3176}
+[10Feb2025 03:43:24.361] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1059, y=-4, z=-3177}
+[10Feb2025 03:43:24.361] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1057, y=-4, z=-3176}
+[10Feb2025 03:43:37.633] [Worker-Main-14/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/54092, l='ServerLevel[world]', x=-1072.50, y=22.00, z=-3150.50] as it would cause deadlock
+[10Feb2025 03:43:54.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Enderman
+[10Feb2025 03:43:57.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 03:44:10.641] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/54495, l='ServerLevel[world]', x=-1072.50, y=22.00, z=-3158.50] as it would cause deadlock
+[10Feb2025 03:45:17.593] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/54980, l='ServerLevel[world]', x=-1071.50, y=-28.00, z=-3229.50] as it would cause deadlock
+[10Feb2025 03:45:18.365] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/54996, l='ServerLevel[world]', x=-1071.50, y=-28.00, z=-3237.50] as it would cause deadlock
+[10Feb2025 03:48:25.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was spiked to death
+[10Feb2025 03:48:29.603] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1517, y=82, z=743}
+[10Feb2025 03:48:32.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -959.500000, -4.500000, -3105.500000]
+[10Feb2025 03:48:34.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was spiked to death
+[10Feb2025 03:48:59.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -959.500000, -4.500000, -3104.500000]
+[10Feb2025 03:49:01.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was spiked to death
+[10Feb2025 03:49:10.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -959.500000, -4.500000, -3104.500000]
+[10Feb2025 03:49:13.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was spiked to death
+[10Feb2025 03:49:23.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to Loko384]
+[10Feb2025 03:51:30.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Diamonds!]
