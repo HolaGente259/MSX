@@ -2002,6 +2002,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-02-10 03:10:55 +0000",
       "apple": "2025-02-10 02:53:12 +0000",
       "pumpkin_pie": "2025-02-10 02:56:33 +0000",
       "bread": "2025-02-10 02:35:15 +0000",
@@ -5292,6 +5293,12 @@
     },
     "done": false
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-02-10 03:17:13 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/birch_ladder_from_birch_planks_sawing": {
     "criteria": {
       "has_birch_planks": "2025-02-10 02:56:13 +0000"
@@ -5361,6 +5368,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-02-10 02:56:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-02-10 03:13:05 +0000"
     },
     "done": true
   },
@@ -5490,6 +5503,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-02-10 03:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-02-10 01:51:11 +0000"
@@ -5529,6 +5548,12 @@
       "has_stone": "2025-02-10 02:56:58 +0000"
     },
     "done": true
+  },
+  "too_many_bows:master_bow_collector": {
+    "criteria": {
+      "ironclad_bow": "2025-02-10 03:10:56 +0000"
+    },
+    "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
@@ -5617,6 +5642,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-02-10 03:11:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-10 02:01:09 +0000"
@@ -5626,6 +5657,12 @@
   "valhelsia_furniture:recipes/decorations/gray_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-02-10 02:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-10 03:14:52 +0000"
     },
     "done": true
   },
@@ -5686,6 +5723,12 @@
   "stoneworks:recipes/building_blocks/stone_tile_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-10 02:56:58 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-02-10 03:14:29 +0000"
     },
     "done": true
   },
@@ -5752,6 +5795,18 @@
   "valhelsia_furniture:recipes/decorations/red_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-02-10 02:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-10 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-10 03:14:52 +0000"
     },
     "done": true
   },
@@ -5833,6 +5888,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-02-10 03:19:59 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/birch_ladder_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2025-02-10 02:14:55 +0000"
@@ -5908,6 +5969,12 @@
   "valhelsia_furniture:recipes/decorations/birch_desk": {
     "criteria": {
       "has_birch_planks": "2025-02-10 02:56:13 +0000"
+    },
+    "done": true
+  },
+  "too_many_bows:root": {
+    "criteria": {
+      "has_any_bow": "2025-02-10 03:10:56 +0000"
     },
     "done": true
   },

@@ -3588,7 +3588,8 @@
       "minecraft:pillager": "2025-02-10 02:23:58 +0000",
       "minecraft:creeper": "2025-02-10 02:20:18 +0000",
       "minecraft:witch": "2025-02-07 07:39:43 +0000",
-      "minecraft:zombie": "2025-02-07 07:55:34 +0000"
+      "minecraft:zombie": "2025-02-07 07:55:34 +0000",
+      "minecraft:drowned": "2025-02-10 03:18:00 +0000"
     },
     "done": false
   },
@@ -5380,6 +5381,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-10 03:12:28 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/ru/biomesoplenty/jacaranda_branch": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
@@ -5800,6 +5807,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-10 03:12:28 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/jungle_drawers": {
     "criteria": {
       "has_chest": "2025-02-10 02:01:13 +0000"
@@ -5863,6 +5876,12 @@
   "decorative_blocks:recipes/building_blocks/birch_support": {
     "criteria": {
       "has_plank": "2025-02-10 02:56:40 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-02-10 03:12:47 +0000"
     },
     "done": true
   },
@@ -6118,6 +6137,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-02-10 03:16:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-10 02:54:20 +0000"
@@ -6303,6 +6328,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-02-10 03:12:28 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-02-10 03:12:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_shingle_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-10 02:54:20 +0000"
@@ -6435,6 +6472,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-02-10 03:12:47 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-02-10 02:56:40 +0000"
@@ -6498,6 +6541,12 @@
   "everycomp:recipes/building_blocks/c/biomesoplenty/jacaranda_window_pane": {
     "criteria": {
       "has_item": "2025-02-10 02:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-10 03:16:47 +0000"
     },
     "done": true
   },
@@ -6822,6 +6871,12 @@
   "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-02-10 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-02-10 03:16:49 +0000"
     },
     "done": true
   },

@@ -4146,3 +4146,36 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
   "8P~* <P`1Hz?;d},WE&+/,0/524.ip.gl.ply.gg"
 ]
 [10Feb2025 03:09:38.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Too Many Bows]
+[10Feb2025 03:10:56.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Too Many Bows]
+[10Feb2025 03:12:17.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1081.500000, 40.500000, -2051.500000]
+[10Feb2025 03:12:33.657] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-920, y=-29, z=-2181}
+[10Feb2025 03:12:33.657] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-920, y=-29, z=-2181}
+[10Feb2025 03:12:45.101] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-935, y=-54, z=-2207}
+[10Feb2025 03:12:45.101] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-934, y=-53, z=-2208}
+[10Feb2025 03:12:45.101] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-935, y=-54, z=-2207}
+[10Feb2025 03:12:45.101] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-934, y=-53, z=-2208}
+[10Feb2025 03:13:00.538] [Worker-Main-14/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/38851, l='ServerLevel[world]', x=-940.50, y=-53.00, z=-2223.50] as it would cause deadlock
+[10Feb2025 03:13:05.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Junior Summoner]
+[10Feb2025 03:13:28.118] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/39054, l='ServerLevel[world]', x=-886.50, y=-28.00, z=-2215.50] as it would cause deadlock
+[10Feb2025 03:13:28.119] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-896, y=-29, z=-2214}
+[10Feb2025 03:13:28.119] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-896, y=-29, z=-2214}
+[10Feb2025 03:14:29.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [What Was That!?]
+[10Feb2025 03:15:49.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1225.500000, 110.500000, -2549.500000]
+[10Feb2025 03:15:54.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 03:16:01.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has reached the goal [The Cave That Time Forgot]
+[10Feb2025 03:16:06.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has reached the goal [The Cave That Time Forgot]
+[10Feb2025 03:16:11.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was doomed to fall
+[10Feb2025 03:16:19.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1237.500000, 65.500000, -2558.500000]
+[10Feb2025 03:17:13.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Good Demoman]
+[10Feb2025 03:17:24.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Door Knight
+[10Feb2025 03:17:28.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1222.500000, 75.500000, -2549.500000]
+[10Feb2025 03:17:32.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Door Knight
+[10Feb2025 03:17:36.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1218.500000, 75.500000, -2549.500000]
+[10Feb2025 03:17:38.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Dread Hound
+[10Feb2025 03:17:46.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Nightmare Stalker
+[10Feb2025 03:18:00.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Nightmare Stalker
+[10Feb2025 03:18:13.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1216.500000, 75.500000, -2547.500000]
+[10Feb2025 03:18:14.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Dread Hound
+[10Feb2025 03:19:16.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 hit the ground too hard whilst trying to escape Door Knight
+[10Feb2025 03:19:48.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1216.500000, 75.500000, -2546.500000]
+[10Feb2025 03:19:59.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Life turned out to be a comedy]
