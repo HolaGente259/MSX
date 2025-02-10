@@ -4467,3 +4467,15 @@ java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.Obj
 [10Feb2025 05:30:04.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
 [10Feb2025 05:31:30.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was shot by Loko384
 [10Feb2025 05:31:37.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -942.500000, -3.500000, -3209.500000]
+[10Feb2025 05:33:01.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was shot by Skeleton
+[10Feb2025 05:33:05.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -932.500000, -9.500000, -3237.500000]
+[10Feb2025 05:34:05.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Zombie
+[10Feb2025 05:34:20.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 05:34:47.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was shot by Skeleton
+[10Feb2025 05:34:51.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -901.500000, -3.500000, -3232.500000]
+[10Feb2025 05:35:11.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was blown up by Creeper
+[10Feb2025 05:35:53.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Diamonds!]
+[10Feb2025 05:36:52.828] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/68442, l='ServerLevel[world]', x=-888.27, y=-4.00, z=-3192.50] died: Angry Creeper blew up
+[10Feb2025 05:37:30.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to Loko384]
+[10Feb2025 05:41:56.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [The Beginning of An Adventure]
+[10Feb2025 05:41:56.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Need A Map?]

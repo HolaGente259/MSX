@@ -2076,6 +2076,7 @@
       "minecraft:skeleton": "2025-02-07 08:04:04 +0000",
       "minecraft:spider": "2025-02-10 03:41:45 +0000",
       "minecraft:creeper": "2025-02-07 07:13:54 +0000",
+      "minecraft:husk": "2025-02-10 05:34:05 +0000",
       "minecraft:cave_spider": "2025-02-10 03:46:44 +0000",
       "minecraft:enderman": "2025-02-10 03:43:55 +0000",
       "minecraft:zombie": "2025-02-10 02:42:29 +0000",
@@ -7972,9 +7973,63 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/vegan_hamburger": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_upgrade_smithing_template": {
+    "criteria": {
+      "has_silver_upgrade_smithing_template": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/cave_carrots_from_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/decorations/cobblestone_from_rocks": {
+    "criteria": {
+      "has_rocks": "2025-02-10 05:33:06 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/spawner_boots": {
     "criteria": {
       "has_spawner_frame": "2025-02-10 05:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-02-10 05:38:04 +0000"
     },
     "done": true
   },
@@ -7990,6 +8045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-02-10 05:22:09 +0000"
@@ -8002,15 +8063,45 @@
     },
     "done": true
   },
+  "miners_delight:recipes/building_blocks/cave_carrot_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/spawner_leggings": {
     "criteria": {
       "has_spawner_frame": "2025-02-10 05:22:30 +0000"
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/misc/skull_of_chaos": {
     "criteria": {
       "has_spawner_blade": "2025-02-10 05:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot_campfire": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-10 05:38:04 +0000"
     },
     "done": true
   },
@@ -8026,15 +8117,63 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/vegan_wrap": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-02-10 05:22:09 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-02-10 05:38:21 +0000"
+    },
+    "done": true
+  },
   "simplyswords:brimstone": {
     "criteria": {
       "requirement": "2025-02-10 05:10:44 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot_smoking": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/pasta_with_veggieballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/improvised_barbecue_stick": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-10 05:38:04 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_steak_and_potatoes": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-10 05:38:04 +0000"
     },
     "done": true
   },
