@@ -4554,3 +4554,7 @@ java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.Obj
 [10Feb2025 06:33:01.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -958.500000, -53.500000, -3129.500000]
 [10Feb2025 06:33:11.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Zombie
 [10Feb2025 06:33:15.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 06:34:38.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Corpse Maggot
+[10Feb2025 06:34:41.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[10Feb2025 06:40:18.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Who is Cutting Onions?]
+[10Feb2025 06:43:08.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Breaking the Seal]
