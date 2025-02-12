@@ -4041,3 +4041,7 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [12Feb2025 09:57:34.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was blown up by Creeper
 [12Feb2025 10:02:47.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Double Trouble]
 [12Feb2025 10:03:39.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has reached the goal [Big Boy]
+[12Feb2025 10:09:44.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has completed the challenge [Chaos Knight]
+[12Feb2025 10:11:23.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has reached the goal [Exorcism]
+[12Feb2025 10:12:08.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliamDios moved wrongly!
+[12Feb2025 10:13:31.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has reached the goal [Fighting Nightmares]

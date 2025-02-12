@@ -9239,15 +9239,33 @@
     },
     "done": false
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-02-12 10:03:39 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:experienced_engineer": {
     "criteria": {
       "have_experience_nugget": "2025-02-12 09:16:41 +0000"
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-02-12 10:02:47 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:recipes/experience_rotor": {
     "criteria": {
       "has_item": "2025-02-12 09:16:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:chaos_knight": {
+    "criteria": {
+      "chaos_knight_0": "2025-02-12 10:09:44 +0000"
     },
     "done": true
   },
