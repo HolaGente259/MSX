@@ -9420,5 +9420,11 @@
     },
     "done": true
   },
+  "additionaladditions:obtain_chicken_nugget": {
+    "criteria": {
+      "obtain": "2025-02-12 23:25:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
