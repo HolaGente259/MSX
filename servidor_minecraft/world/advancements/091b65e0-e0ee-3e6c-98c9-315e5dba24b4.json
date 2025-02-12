@@ -9232,47 +9232,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:charm_collector": {
-    "criteria": {
-      "charm_collector_1": "2025-02-12 09:56:12 +0000",
-      "charm_collector_0": "2025-02-12 09:42:38 +0000",
-      "charm_collector_4": "2025-02-12 09:42:38 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:big_boy": {
-    "criteria": {
-      "big_boy_0": "2025-02-12 10:03:39 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-02-12 10:13:31 +0000"
-    },
-    "done": true
-  },
   "create_enchantment_industry:experienced_engineer": {
     "criteria": {
       "have_experience_nugget": "2025-02-12 09:16:41 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:double_trouble": {
-    "criteria": {
-      "double_trouble_0": "2025-02-12 10:02:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/master_chef": {
-    "criteria": {
-      "steak_and_potatoes": "2025-02-12 10:16:57 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2025-02-12 10:11:23 +0000"
     },
     "done": true
   },
@@ -9282,45 +9244,9 @@
     },
     "done": true
   },
-  "majruszsdifficulty:undead_army_treasure_bag": {
-    "criteria": {
-      "bag_opened": "2025-02-12 10:18:15 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:undead_army": {
-    "criteria": {
-      "army_defeated": "2025-02-12 10:16:33 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:recipes/misc/tattered_armor": {
-    "criteria": {
-      "has_cloth": "2025-02-12 10:18:15 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:chaos_knight": {
-    "criteria": {
-      "chaos_knight_0": "2025-02-12 10:09:44 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
     "criteria": {
       "has_item": "2025-02-12 09:16:41 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:recipes/misc/bandage_golden": {
-    "criteria": {
-      "has_bandage": "2025-02-12 10:18:15 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_creator": {
-    "criteria": {
-      "dark_creator_0": "2025-02-12 09:42:35 +0000"
     },
     "done": true
   },
@@ -9330,9 +9256,23 @@
     },
     "done": true
   },
-  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
+  "born_in_chaos_v1:dark_creator": {
     "criteria": {
-      "has_cloth": "2025-02-12 10:18:15 +0000"
+      "dark_creator_0": "2025-02-12 09:42:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_1": "2025-02-12 09:56:12 +0000",
+      "charm_collector_0": "2025-02-12 09:42:38 +0000",
+      "charm_collector_4": "2025-02-12 09:42:38 +0000"
+    },
+    "done": false
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-02-12 09:43:29 +0000"
     },
     "done": true
   },
@@ -9342,21 +9282,141 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-02-12 10:02:47 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-02-12 10:03:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:chaos_knight": {
+    "criteria": {
+      "chaos_knight_0": "2025-02-12 10:09:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-02-12 10:11:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-02-12 10:13:31 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2025-02-12 10:16:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "steak_and_potatoes": "2025-02-12 10:16:57 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-02-12 10:16:57 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-02-12 10:18:15 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2025-02-12 10:18:15 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bandage_golden": {
+    "criteria": {
+      "has_bandage": "2025-02-12 10:18:15 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
+    "criteria": {
+      "has_cloth": "2025-02-12 10:18:15 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:recipes/misc/string_from_cloth": {
     "criteria": {
       "has_cloth": "2025-02-12 10:18:15 +0000"
     },
     "done": true
   },
-  "netherexp:nether/overkill": {
+  "simplyswords:caelestis": {
     "criteria": {
-      "overkill": "2025-02-12 09:43:29 +0000"
+      "requirement": "2025-02-12 10:25:42 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/eat_nourishing_food": {
+  "simplyswords:magiscythe": {
     "criteria": {
-      "nourishment": "2025-02-12 10:16:57 +0000"
+      "requirement": "2025-02-12 10:25:49 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:sunfire": {
+    "criteria": {
+      "requirement": "2025-02-12 10:26:48 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:magispear": {
+    "criteria": {
+      "requirement": "2025-02-12 10:27:21 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:magiblade": {
+    "criteria": {
+      "requirement": "2025-02-12 10:27:28 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:harbinger": {
+    "criteria": {
+      "requirement": "2025-02-12 10:27:54 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:emberblade": {
+    "criteria": {
+      "requirement": "2025-02-12 10:28:14 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:bramblethorn": {
+    "criteria": {
+      "requirement": "2025-02-12 10:28:16 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:ribboncleaver": {
+    "criteria": {
+      "requirement": "2025-02-12 10:28:51 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:tempest": {
+    "criteria": {
+      "requirement": "2025-02-12 10:29:28 +0000"
     },
     "done": true
   },
