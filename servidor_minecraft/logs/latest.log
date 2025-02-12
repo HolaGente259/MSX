@@ -4031,3 +4031,7 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [
   "BEh*7y=Ze,l/h,j/+2k@5<3g'f#809"
 ]
+[12Feb2025 09:39:38.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Gave 2000 experience points to EliamDios]
+[12Feb2025 09:41:35.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Gave 2000 experience points to EliamDios]
+[12Feb2025 09:42:35.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has reached the goal [Dark Creator]
+[12Feb2025 09:43:29.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has completed the challenge [Overkill]
