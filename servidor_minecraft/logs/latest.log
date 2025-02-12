@@ -4036,3 +4036,8 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [12Feb2025 09:42:35.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has reached the goal [Dark Creator]
 [12Feb2025 09:43:29.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has completed the challenge [Overkill]
 [12Feb2025 09:51:29.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Gave 2000 experience points to EliamDios]
+[12Feb2025 09:54:33.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Gave 2000 experience points to EliamDios]
+[12Feb2025 09:56:21.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has completed the challenge [Soul Eater]
+[12Feb2025 09:57:34.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was blown up by Creeper
+[12Feb2025 10:02:47.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Double Trouble]
+[12Feb2025 10:03:39.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has reached the goal [Big Boy]

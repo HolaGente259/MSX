@@ -9233,6 +9233,7 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
+      "charm_collector_1": "2025-02-12 09:56:12 +0000",
       "charm_collector_0": "2025-02-12 09:42:38 +0000",
       "charm_collector_4": "2025-02-12 09:42:38 +0000"
     },
@@ -9265,6 +9266,12 @@
   "create:recipes/misc/crafting/materials/experience_block": {
     "criteria": {
       "has_item": "2025-02-12 09:16:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:soul_eater": {
+    "criteria": {
+      "soul_eater_0": "2025-02-12 09:56:21 +0000"
     },
     "done": true
   },
