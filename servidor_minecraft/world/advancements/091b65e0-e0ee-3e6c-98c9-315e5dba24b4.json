@@ -9231,6 +9231,13 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2025-02-12 09:42:38 +0000",
+      "charm_collector_4": "2025-02-12 09:42:38 +0000"
+    },
+    "done": false
+  },
   "create_enchantment_industry:experienced_engineer": {
     "criteria": {
       "have_experience_nugget": "2025-02-12 09:16:41 +0000"
@@ -9249,9 +9256,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-02-12 09:42:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/experience_block": {
     "criteria": {
       "has_item": "2025-02-12 09:16:41 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-02-12 09:43:29 +0000"
     },
     "done": true
   },
