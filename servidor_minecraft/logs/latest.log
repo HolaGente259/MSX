@@ -517,3 +517,24 @@ java.util.ConcurrentModificationException: null
 [13Feb2025 04:36:37.513] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
 [13Feb2025 04:42:56.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 104.500000, 40.500000, -494.500000]
 [13Feb2025 04:43:02.015] [Worker-Main-113/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/67623, l='ServerLevel[world]', x=45.00, y=31.00, z=-617.00] as it would cause deadlock
+[13Feb2025 04:43:40.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Nightmare Fuel]
+[13Feb2025 04:45:07.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has reached the goal [Piglin Pillage]
+[13Feb2025 04:45:41.204] [Worker-Main-209/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/69259, l='ServerLevel[world]', x=327.00, y=31.00, z=-441.00] as it would cause deadlock
+[13Feb2025 04:45:44.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Miner'/67568, l='ServerLevel[world]', x=172.50, y=52.00, z=-503.89] died: Village Miner was killed by EliamDios using magic
+[13Feb2025 04:47:48.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/67566, l='ServerLevel[world]', x=152.82, y=55.00, z=-539.30] died: Piglin Civilian was killed by EliamDios using magic
+[13Feb2025 04:47:50.601] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/65756, l='ServerLevel[world]', x=156.26, y=54.25, z=-540.40] died: Piglin Civilian was slain by EliamDios
+[13Feb2025 04:47:52.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/70063, l='ServerLevel[world]', x=155.33, y=54.00, z=-539.56] died: Piglin Civilian was slain by EliamDios
+[13Feb2025 04:48:03.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to Loko384]
+[13Feb2025 04:50:38.447] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[13Feb2025 04:50:47.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9015ms or 180 ticks behind
+[13Feb2025 04:51:03.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -891.500000, 64.500000, -2939.500000]
+[13Feb2025 04:52:28.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported EliamDios to Loko384]
+[13Feb2025 04:52:39.846] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[13Feb2025 04:52:44.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -894.500000, 64.500000, -2937.500000]
+[13Feb2025 04:54:27.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: The difficulty has been set to Peaceful]
+[13Feb2025 04:54:44.601] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[13Feb2025 04:54:49.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[13Feb2025 04:56:19.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1308.500000, 118.500000, -2497.500000]
+[13Feb2025 04:57:12.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -895.500000, 64.500000, -2937.500000]
+[13Feb2025 05:02:31.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Enchanter]
+[13Feb2025 05:03:16.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -766.500000, 65.500000, -2766.500000]

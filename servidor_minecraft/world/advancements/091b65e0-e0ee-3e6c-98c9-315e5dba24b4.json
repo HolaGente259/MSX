@@ -3344,6 +3344,7 @@
     "criteria": {
       "shrubland": "2025-02-13 01:57:23 +0000",
       "rocky_shrubland": "2025-02-07 08:06:22 +0000",
+      "scrubland": "2025-02-13 04:50:47 +0000",
       "highland": "2025-02-07 07:53:38 +0000",
       "marsh": "2025-02-07 07:37:17 +0000",
       "clover_patch": "2025-02-07 07:58:37 +0000",
@@ -10453,6 +10454,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/crimson_support": {
+    "criteria": {
+      "has_plank": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-02-13 04:29:42 +0000"
@@ -10464,6 +10477,12 @@
       "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-02-13 04:42:56 +0000"
+    },
+    "done": false
   },
   "upgrade_aquatic:recipes/building_blocks/chiseled_driftwood_bookshelf": {
     "criteria": {
@@ -10483,6 +10502,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
@@ -10492,6 +10517,12 @@
   "stoneworks:recipes/building_blocks/mossy_granite_brick_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -10531,6 +10562,18 @@
       "infernal_holt": "2025-02-13 04:29:34 +0000"
     },
     "done": false
+  },
+  "valhelsia_furniture:recipes/decorations/green_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
   },
   "lootr:1cart": {
     "criteria": {
@@ -10586,6 +10629,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_item": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/crimson_ladder_from_crimson_planks_sawing": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-02-13 03:52:53 +0000"
@@ -10628,6 +10683,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_pavers_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
@@ -10637,6 +10698,24 @@
   "netherdepthsupgrade:main/root": {
     "criteria": {
       "entered_nether": "2025-02-13 04:28:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/loot_piglin_village": {
+    "criteria": {
+      "incendium:medium": "2025-02-13 04:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -10718,6 +10797,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_gray_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
@@ -10742,9 +10827,21 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/crimson_fence_from_crimson_planks_sawing": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-02-13 03:52:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -10787,6 +10884,18 @@
   "valhelsia_furniture:recipes/decorations/orange_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/crimson_boards_from_crimson_planks_sawing": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
     },
     "done": true
   },
@@ -10853,6 +10962,12 @@
   "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-02-13 03:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -11012,6 +11127,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/chiseled_birch_bookshelf": {
     "criteria": {
       "has_book": "2025-02-13 03:52:03 +0000"
@@ -11096,6 +11223,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/crimson_table": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/decorations/blackstone_stove": {
     "criteria": {
       "has_nether_brick": "2025-02-13 04:36:20 +0000"
@@ -11105,6 +11238,12 @@
   "miners_delight:recipes/food/baked_squid": {
     "criteria": {
       "has_squid": "2025-02-13 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/crimson_desk_drawer": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -11186,6 +11325,18 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/crimson_slab_from_crimson_planks_sawing": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_shingle_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
@@ -11210,9 +11361,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -11255,6 +11418,12 @@
   "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -11330,6 +11499,18 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/crimson_stairs_from_crimson_planks_sawing": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_crimson": {
+    "criteria": {
+      "has_item": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "endrem:main/magical_eye": {
     "criteria": {
       "magical_eye": "2025-02-13 03:50:27 +0000"
@@ -11345,6 +11526,12 @@
   "stoneworks:recipes/building_blocks/granite_plate_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -11366,6 +11553,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
@@ -11381,6 +11574,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -11402,6 +11601,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-02-13 04:28:50 +0000"
@@ -11411,6 +11616,12 @@
   "valhelsia_furniture:recipes/decorations/green_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -11438,9 +11649,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/crimson_desk": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-02-13 04:28:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -11468,6 +11691,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/orange_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-13 04:28:49 +0000"
@@ -11477,6 +11706,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -11507,6 +11742,12 @@
   "oceansdelight:recipes/oceansdelight/seagrass_salad": {
     "criteria": {
       "has_seagrass": "2025-02-13 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -11558,6 +11799,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
@@ -11570,9 +11823,27 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/crimson_seat": {
+    "criteria": {
+      "has_plank": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/decorations/sticky_basket": {
     "criteria": {
       "has_cobweb": "2025-02-13 03:11:13 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/red_mixed_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-02-13 04:40:30 +0000"
     },
     "done": true
   },
@@ -11702,9 +11973,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-13 03:14:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-02-13 04:43:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -11798,6 +12093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
@@ -11810,9 +12111,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {
       "horror_underthe_mantle_0": "2025-02-13 04:03:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -11882,6 +12195,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
       "bypassingthe_expiration_date_0": "2025-02-13 03:37:16 +0000"
@@ -11903,6 +12240,12 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -11936,6 +12279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-02-13 03:37:45 +0000"
@@ -11945,6 +12294,18 @@
   "stoneworks:recipes/building_blocks/granite_paver_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -11963,6 +12324,12 @@
   "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/crimson_button_from_crimson_planks_sawing": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -11987,6 +12354,18 @@
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -12032,6 +12411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
@@ -12065,6 +12450,12 @@
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2025-02-13 02:39:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
