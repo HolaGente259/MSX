@@ -3522,6 +3522,7 @@
       "lavender_forest": "2025-02-07 07:57:59 +0000",
       "lavender_field": "2025-02-07 07:34:11 +0000",
       "grassland": "2025-02-07 08:05:41 +0000",
+      "glowing_grotto": "2025-02-13 03:36:52 +0000",
       "crag": "2025-02-07 07:53:19 +0000"
     },
     "done": false
@@ -10339,6 +10340,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-13 03:37:46 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/lunar_stone_helmet": {
     "criteria": {
       "has_item": "2025-02-13 02:58:51 +0000"
@@ -10573,6 +10580,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-02-13 03:33:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-13 02:55:18 +0000"
@@ -10696,6 +10709,12 @@
   "supplementaries:recipes/jar": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-02-13 03:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-13 03:37:46 +0000"
     },
     "done": true
   },
