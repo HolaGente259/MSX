@@ -10487,6 +10487,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-02-13 04:05:21 +0000"
+    },
+    "done": true
+  },
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-02-13 02:57:42 +0000"
@@ -10910,6 +10916,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:protectedby_darkness": {
+    "criteria": {
+      "protectedby_darkness_0": "2025-02-13 04:07:06 +0000"
     },
     "done": true
   },
@@ -11399,6 +11411,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-02-13 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-13 04:05:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
@@ -11504,6 +11528,12 @@
   "woodworks:recipes/building_blocks/chiseled_mangrove_bookshelf": {
     "criteria": {
       "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-02-13 04:03:46 +0000"
     },
     "done": true
   },
@@ -11750,6 +11780,12 @@
   "miners_delight:recipes/cooking/stuffed_squid": {
     "criteria": {
       "has_any_ingredient": "2025-02-13 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-02-13 04:05:21 +0000"
     },
     "done": true
   },
