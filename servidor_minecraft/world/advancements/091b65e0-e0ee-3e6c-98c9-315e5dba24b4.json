@@ -10397,9 +10397,51 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_plates_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
       "has_salmon": "2025-02-13 02:23:21 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_granite_brick_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
   },
@@ -10421,15 +10463,75 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-13 03:10:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_pavers_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-02-13 02:45:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-02-13 03:10:52 +0000"
     },
     "done": true
   },
@@ -10451,6 +10553,30 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_tile_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_tiles_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
@@ -10460,6 +10586,12 @@
   "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/paper_wall": {
+    "criteria": {
+      "has_bamboo": "2025-02-13 03:10:52 +0000"
     },
     "done": true
   },
@@ -10487,6 +10619,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-13 03:10:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_tile_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
@@ -10505,15 +10655,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_paver_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/cooking/takoyaki": {
     "criteria": {
       "has_squid": "2025-02-13 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
   },
@@ -10529,9 +10709,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-13 03:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-02-13 03:10:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_brick_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-02-13 03:10:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_shingle_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-13 03:14:48 +0000"
     },
     "done": true
   },
@@ -10559,6 +10781,36 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_granite_tiles_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_plate_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/building_blocks/scute_shingles": {
     "criteria": {
       "has_scute": "2025-02-13 02:30:49 +0000"
@@ -10571,15 +10823,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_brick_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_granite_brick_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "oceansdelight:recipes/oceansdelight/seagrass_salad": {
     "criteria": {
       "has_seagrass": "2025-02-13 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_plate_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
   },
@@ -10595,9 +10907,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_shingle_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/decorations/sticky_basket": {
+    "criteria": {
+      "has_cobweb": "2025-02-13 03:11:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_granite_brick_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
   },
@@ -10607,9 +10949,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_tile_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_brick_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:angler_treasure_bag": {
     "criteria": {
       "bag_opened": "2025-02-13 02:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-13 03:14:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
   },
@@ -10619,9 +10991,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/squid_sandwich": {
     "criteria": {
       "has_squid": "2025-02-13 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
   },
@@ -10631,15 +11015,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_paver_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
       "has_scute": "2025-02-13 02:30:49 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_shingles_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
   },
@@ -10655,9 +11063,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_shingle_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_plate_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_paver_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/lunar_stone_leggings": {
     "criteria": {
       "has_item": "2025-02-13 02:57:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
   },
@@ -10667,15 +11105,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2025-02-13 02:39:47 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-13 03:14:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/building_blocks/scute_block": {
     "criteria": {
       "has_scute": "2025-02-13 02:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-02-13 03:10:52 +0000"
     },
     "done": true
   },
