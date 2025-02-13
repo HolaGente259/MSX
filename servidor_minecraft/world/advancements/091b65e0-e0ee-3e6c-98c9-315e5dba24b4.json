@@ -9420,6 +9420,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/glass_pane_from_framed_glass_pane": {
+    "criteria": {
+      "has_item": "2025-02-13 00:14:56 +0000"
+    },
+    "done": true
+  },
   "additionaladditions:obtain_chicken_nugget": {
     "criteria": {
       "obtain": "2025-02-12 23:25:13 +0000"
