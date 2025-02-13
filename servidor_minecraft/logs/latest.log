@@ -201,3 +201,14 @@
 [13Feb2025 02:46:58.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 joined the game
 [13Feb2025 02:46:58.836] [Server thread/INFO] [Jade/]: Syncing config to Loko384 (3bf84b8b-38e4-36e4-9466-bc45342fedf3)
 [13Feb2025 02:47:01.724] [Server thread/INFO] [ping-wheel/]: Channel update: Loko384 -> default
+[13Feb2025 02:54:53.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 68.500000, 70.500000, -2023.500000]
+[13Feb2025 02:55:00.834] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31707, l='ServerLevel[world]', x=78.50, y=72.00, z=-2120.50]
+[13Feb2025 02:55:12.888] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31749, l='ServerLevel[world]', x=109.50, y=79.00, z=-2106.50]
+[13Feb2025 02:56:03.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has reached the goal [Senior Summoner]
+[13Feb2025 02:57:42.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Tunnel Treasures]
+[13Feb2025 02:57:42.334] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32496, l='ServerLevel[world]', x=82.50, y=72.00, z=-2106.50]
+[13Feb2025 02:58:16.182] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/32594, l='ServerLevel[world]', x=119.50, y=62.00, z=-2234.50]
+[13Feb2025 02:58:46.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[13Feb2025 02:58:49.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Tunnel Treasures]
+[13Feb2025 02:59:42.781] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32956, l='ServerLevel[world]', x=79.50, y=72.00, z=-2120.50]
+[13Feb2025 03:00:48.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
