@@ -2083,6 +2083,7 @@
     "criteria": {
       "minecraft:pillager": "2025-02-10 02:24:01 +0000",
       "minecraft:skeleton": "2025-02-07 08:04:04 +0000",
+      "minecraft:hoglin": "2025-02-13 04:31:09 +0000",
       "minecraft:vindicator": "2025-02-13 03:48:53 +0000",
       "minecraft:spider": "2025-02-10 03:41:45 +0000",
       "minecraft:creeper": "2025-02-07 07:13:54 +0000",
@@ -2091,6 +2092,7 @@
       "minecraft:witch": "2025-02-13 03:48:45 +0000",
       "minecraft:husk": "2025-02-10 05:34:05 +0000",
       "minecraft:cave_spider": "2025-02-10 03:46:44 +0000",
+      "minecraft:piglin": "2025-02-13 04:32:58 +0000",
       "minecraft:enderman": "2025-02-10 03:43:55 +0000",
       "minecraft:stray": "2025-02-12 10:12:42 +0000",
       "minecraft:vex": "2025-02-13 03:50:26 +0000",
@@ -3353,6 +3355,7 @@
       "fir_clearing": "2025-02-13 01:57:39 +0000",
       "grassland": "2025-02-07 08:05:41 +0000",
       "glowing_grotto": "2025-02-13 01:51:18 +0000",
+      "undergrowth": "2025-02-13 04:35:47 +0000",
       "crag": "2025-02-07 07:53:40 +0000",
       "ominous_woods": "2025-02-13 01:57:28 +0000"
     },
@@ -5222,6 +5225,7 @@
       "highland_fields": "2025-02-10 01:50:24 +0000",
       "mountains": "2025-02-13 01:54:33 +0000",
       "deciduous_forest": "2025-02-10 03:51:29 +0000",
+      "blackstone_basin": "2025-02-13 04:39:12 +0000",
       "infernal_holt": "2025-02-13 04:29:34 +0000",
       "temperate_grove": "2025-02-10 01:52:05 +0000",
       "pine_slopes": "2025-02-13 01:54:53 +0000",
@@ -10467,6 +10471,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-13 04:36:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-13 04:28:49 +0000"
@@ -10517,6 +10527,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "blackstone_basin": "2025-02-13 04:39:12 +0000",
       "infernal_holt": "2025-02-13 04:29:34 +0000"
     },
     "done": false
@@ -10560,6 +10571,12 @@
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-02-13 03:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-13 04:36:12 +0000"
     },
     "done": true
   },
@@ -10770,6 +10787,12 @@
   "valhelsia_furniture:recipes/decorations/orange_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2025-02-13 04:31:24 +0000"
     },
     "done": true
   },
@@ -11007,6 +11030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-02-13 04:36:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_paver_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
@@ -11049,6 +11078,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-13 04:36:12 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/solar_crystal_boots": {
     "criteria": {
       "has_item": "2025-02-13 04:29:19 +0000"
@@ -11058,6 +11093,12 @@
   "born_in_chaos_v1:protectedby_darkness": {
     "criteria": {
       "protectedby_darkness_0": "2025-02-13 04:07:06 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_stove": {
+    "criteria": {
+      "has_nether_brick": "2025-02-13 04:36:20 +0000"
     },
     "done": true
   },
@@ -11538,6 +11579,12 @@
   "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-13 04:36:12 +0000"
     },
     "done": true
   },
