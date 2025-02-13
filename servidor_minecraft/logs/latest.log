@@ -545,3 +545,69 @@ java.util.ConcurrentModificationException: null
 [13Feb2025 05:07:33.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Hidden in the Depths]
 [13Feb2025 05:10:01.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
 [13Feb2025 05:10:02.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -891.500000, 64.500000, -2937.500000]
+[13Feb2025 05:14:30.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[13Feb2025 05:19:54.133] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Feb2025 05:19:54.134] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003οu�",
+  "f_134722_": 12087,
+  "fmlVersion": "NONE"
+}
+[13Feb2025 05:19:54.134] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 247 extra bytes: 
+[13Feb2025 05:19:54.135] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "%n5(*;2D5LE U#o$#) >QWl&+/,0/524.p.gl.ply.gg+3&$k$7&=Y.;u7"
+]
+[13Feb2025 05:19:57.358] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Feb2025 05:19:57.358] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003l!�",
+  "f_134722_": 16553,
+  "fmlVersion": "NONE"
+}
+[13Feb2025 05:19:57.358] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 128 extra bytes: 
+[13Feb2025 05:19:57.359] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "yfNOi}A~y0 i>^y(HbXhk&+/,0/524.ip.gl.ply.gg"
+]
+[13Feb2025 05:19:57.438] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Feb2025 05:19:57.438] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003��=t",
+  "f_134722_": 48633,
+  "fmlVersion": "NONE"
+}
+[13Feb2025 05:19:57.438] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 130 extra bytes: 
+[13Feb2025 05:19:57.439] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "[\\6rnE }ASzmx1%Hvp a[Mt&+/,0/524.ip.gl.ply.gg"
+]
+[13Feb2025 05:19:57.993] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Feb2025 05:19:57.993] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003��\u0018�",
+  "f_134722_": 10745,
+  "fmlVersion": "NONE"
+}
+[13Feb2025 05:19:57.993] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 166 extra bytes: 
+[13Feb2025 05:19:57.994] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "o]\\\"O@|z x\"+=dcN!P}{&+/,0/24.ip.gl.ply.gg"
+]
+[13Feb2025 05:20:10.385] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Feb2025 05:20:10.385] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 225,
+  "f_134721_": "",
+  "f_134722_": 221,
+  "fmlVersion": "NONE"
+}
+[13Feb2025 05:20:10.386] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 22 extra bytes: 
+[13Feb2025 05:20:10.386] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "3s#-G;;N[e"
+]
