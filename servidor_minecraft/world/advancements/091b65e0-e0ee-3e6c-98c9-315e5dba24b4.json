@@ -9429,9 +9429,21 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/dark_oak_slab_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2025-02-13 01:24:13 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/dark_oak_stairs_from_dark_oak_planks_sawing": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-13 01:07:37 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_planks_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2025-02-13 01:24:13 +0000"
     },
     "done": true
   },
@@ -9468,6 +9480,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-13 01:07:37 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/dark_oak_fence_gate_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2025-02-13 01:24:13 +0000"
     },
     "done": true
   },
@@ -9510,6 +9528,12 @@
   "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-13 01:07:37 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_ladder_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2025-02-13 01:24:13 +0000"
     },
     "done": true
   },
@@ -9570,6 +9594,12 @@
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-02-13 00:20:55 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_stairs_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2025-02-13 01:24:13 +0000"
     },
     "done": true
   },
@@ -9671,8 +9701,13 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "cartographytable": "2025-02-13 01:19:42 +0000",
+      "fletchingtable": "2025-02-13 01:19:44 +0000",
+      "grindstone": "2025-02-13 01:19:49 +0000",
       "smoker": "2025-02-13 00:52:16 +0000",
-      "blastfurnace": "2025-02-13 01:14:25 +0000"
+      "smithingtable": "2025-02-13 01:19:45 +0000",
+      "blastfurnace": "2025-02-13 01:14:25 +0000",
+      "stonecutter": "2025-02-13 01:19:41 +0000"
     },
     "done": false
   },
@@ -9691,6 +9726,18 @@
   "valhelsia_furniture:recipes/decorations/red_crimson_table": {
     "criteria": {
       "has_red_carpet": "2025-02-13 00:31:31 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2025-02-13 01:24:13 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/dark_oak_trapdoor_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2025-02-13 01:24:13 +0000"
     },
     "done": true
   },
@@ -9778,6 +9825,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/dark_oak_button_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2025-02-13 01:24:13 +0000"
+    },
+    "done": true
+  },
   "suppsquared:recipes/decorations/item_shelf_dark_oak": {
     "criteria": {
       "has_item": "2025-02-13 01:07:37 +0000"
@@ -9832,9 +9885,27 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/dark_oak_pressure_plate_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2025-02-13 01:24:13 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_sign_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2025-02-13 01:24:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/glass_from_framed_glass": {
     "criteria": {
       "has_item": "2025-02-13 00:20:55 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2025-02-13 01:24:13 +0000"
     },
     "done": true
   },
@@ -9850,9 +9921,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-02-13 01:24:13 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-13 01:07:37 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/dark_oak_door_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2025-02-13 01:24:13 +0000"
     },
     "done": true
   },
@@ -9874,6 +9957,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/dark_oak_fence_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2025-02-13 01:24:13 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-13 01:07:37 +0000"
@@ -9889,6 +9978,12 @@
   "valhelsia_furniture:recipes/decorations/red_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-13 01:07:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/dark_oak_post": {
+    "criteria": {
+      "has_item": "2025-02-13 01:24:13 +0000"
     },
     "done": true
   },
@@ -10024,6 +10119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-13 01:24:13 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_mangrove_table": {
     "criteria": {
       "has_red_carpet": "2025-02-13 00:31:31 +0000"
@@ -10045,6 +10146,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-13 01:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-13 01:24:13 +0000"
     },
     "done": true
   },
