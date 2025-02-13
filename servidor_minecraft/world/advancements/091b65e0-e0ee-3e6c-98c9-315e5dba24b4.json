@@ -10393,5 +10393,35 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-13 02:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-13 02:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-13 02:23:21 +0000"
+    },
+    "done": true
+  },
+  "majruszsenchantments:fishing_fanatic": {
+    "criteria": {
+      "has_met_requirement": "2025-02-13 02:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-13 02:23:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
