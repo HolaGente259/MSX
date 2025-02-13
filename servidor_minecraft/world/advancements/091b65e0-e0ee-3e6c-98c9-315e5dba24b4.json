@@ -2085,11 +2085,13 @@
       "minecraft:vindicator": "2025-02-13 03:48:53 +0000",
       "minecraft:spider": "2025-02-10 03:41:45 +0000",
       "minecraft:creeper": "2025-02-07 07:13:54 +0000",
+      "minecraft:evoker": "2025-02-13 03:50:26 +0000",
       "minecraft:witch": "2025-02-13 03:48:45 +0000",
       "minecraft:husk": "2025-02-10 05:34:05 +0000",
       "minecraft:cave_spider": "2025-02-10 03:46:44 +0000",
       "minecraft:enderman": "2025-02-10 03:43:55 +0000",
       "minecraft:stray": "2025-02-12 10:12:42 +0000",
+      "minecraft:vex": "2025-02-13 03:50:26 +0000",
       "minecraft:zombie": "2025-02-10 02:42:29 +0000",
       "minecraft:drowned": "2025-02-07 07:28:29 +0000",
       "minecraft:zombie_villager": "2025-02-10 03:32:53 +0000"
@@ -10443,6 +10445,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/building_blocks/chiseled_driftwood_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
@@ -10491,6 +10499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
@@ -10512,6 +10526,12 @@
   "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-02-13 03:52:53 +0000"
     },
     "done": true
   },
@@ -10563,6 +10583,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/chiseled_dark_oak_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/palettes/scorchia": {
     "criteria": {
       "has_item": "2025-02-13 03:38:26 +0000"
@@ -10572,6 +10598,12 @@
   "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/chiseled_river_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
     },
     "done": true
   },
@@ -10623,6 +10655,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-13 03:52:50 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_cherry_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_tile_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
@@ -10638,6 +10682,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-02-13 03:32:01 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/river_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
     },
     "done": true
   },
@@ -10662,6 +10712,12 @@
   "galosphere:recipes/building_blocks/smooth_amethyst": {
     "criteria": {
       "has_amethyst_block": "2025-02-13 03:37:45 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
     },
     "done": true
   },
@@ -10713,6 +10769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-02-13 03:57:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-02-13 03:10:52 +0000"
@@ -10722,6 +10784,18 @@
   "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-13 03:50:48 +0000"
     },
     "done": true
   },
@@ -10746,6 +10820,12 @@
   "valhelsia_furniture:recipes/decorations/pink_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/cherry_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
     },
     "done": true
   },
@@ -10779,6 +10859,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/chiseled_birch_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
@@ -10794,6 +10880,12 @@
   "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
     },
     "done": true
   },
@@ -10827,6 +10919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-02-13 03:57:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-02-13 02:45:21 +0000"
@@ -10842,6 +10940,12 @@
   "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-02-13 03:37:45 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/jungle_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
     },
     "done": true
   },
@@ -10875,6 +10979,18 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/birch_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-13 03:52:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-02-13 03:10:52 +0000"
@@ -10884,6 +11000,12 @@
   "stoneworks:recipes/building_blocks/granite_shingle_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_spruce_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
     },
     "done": true
   },
@@ -10959,9 +11081,21 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/bamboo_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-02-13 03:57:01 +0000"
     },
     "done": true
   },
@@ -10986,6 +11120,12 @@
   "valhelsia_furniture:recipes/decorations/blue_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-02-13 03:50:27 +0000"
     },
     "done": true
   },
@@ -11016,6 +11156,18 @@
   "valhelsia_furniture:recipes/decorations/purple_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_acacia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
     },
     "done": true
   },
@@ -11061,9 +11213,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-02-13 03:56:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/acacia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
     },
     "done": true
   },
@@ -11076,6 +11240,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
     },
     "done": true
   },
@@ -11211,6 +11381,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/oak_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
@@ -11241,15 +11417,33 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/chiseled_crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
   },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-02-13 03:50:26 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/plant_rice": {
     "criteria": {
       "plant_rice": "2025-02-13 02:49:36 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_bamboo_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
     },
     "done": true
   },
@@ -11277,9 +11471,21 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/mangrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-02-13 02:23:21 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
     },
     "done": true
   },
@@ -11292,6 +11498,18 @@
   "valhelsia_furniture:recipes/decorations/black_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_mangrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
     },
     "done": true
   },
@@ -11409,6 +11627,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/chiseled_jungle_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/amethyst_stairs": {
     "criteria": {
       "has_amethyst_block": "2025-02-13 03:37:45 +0000"
@@ -11427,9 +11651,21 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "magical_eye": "2025-02-13 03:50:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/illunite_shard": {
+    "criteria": {
+      "get_stew": "2025-02-13 03:51:19 +0000"
     },
     "done": true
   },
@@ -11448,6 +11684,12 @@
   "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
     },
     "done": true
   },
