@@ -611,3 +611,19 @@ java.util.ConcurrentModificationException: null
 [
   "3s#-G;;N[e"
 ]
+[13Feb2025 05:28:16.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -851.500000, 64.500000, -2428.500000]
+[13Feb2025 05:28:19.440] [Worker-Main-108/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-927, y=-53, z=-2275}
+[13Feb2025 05:28:19.440] [Worker-Main-108/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-927, y=-53, z=-2275}
+[13Feb2025 05:28:21.179] [Worker-Main-208/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/84331, l='ServerLevel[world]', x=-876.50, y=-28.00, z=-2277.50] as it would cause deadlock
+[13Feb2025 05:28:21.179] [Worker-Main-208/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/84333, l='ServerLevel[world]', x=-868.50, y=-28.00, z=-2277.50] as it would cause deadlock
+[13Feb2025 05:28:22.368] [Worker-Main-146/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/84347, l='ServerLevel[world]', x=-985.50, y=-3.00, z=-2274.50] as it would cause deadlock
+[13Feb2025 05:28:23.374] [Worker-Main-157/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-894, y=-54, z=-2235}
+[13Feb2025 05:28:23.375] [Worker-Main-157/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-894, y=-54, z=-2235}
+[13Feb2025 05:28:32.980] [Worker-Main-108/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/84983, l='ServerLevel[world]', x=-833.50, y=-28.00, z=-2186.50] as it would cause deadlock
+[13Feb2025 05:29:49.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loko384 lost connection: Disconnected
+[13Feb2025 05:29:49.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 left the game
+[13Feb2025 05:29:54.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loko384[/127.133.119.214:36779] logged in with entity id 86224 at (-873.4779478171203, -42.0, -3043.2891697592418)
+[13Feb2025 05:29:54.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 joined the game
+[13Feb2025 05:29:54.535] [Server thread/INFO] [Jade/]: Syncing config to Loko384 (3bf84b8b-38e4-36e4-9466-bc45342fedf3)
+[13Feb2025 05:29:56.318] [Server thread/INFO] [ping-wheel/]: Channel update: Loko384 -> default
+[13Feb2025 05:33:21.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 41.500000, 79.500000, -3334.500000]
