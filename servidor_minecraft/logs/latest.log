@@ -291,3 +291,26 @@
 [13Feb2025 03:37:46.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Ice Bucket Challenge]
 [13Feb2025 03:39:34.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
 [13Feb2025 03:41:30.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[13Feb2025 03:43:09.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Deceived Hopes]
+[13Feb2025 03:44:28.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to Loko384]
+[13Feb2025 03:46:32.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -896.500000, 64.500000, -2931.500000]
+[13Feb2025 03:46:49.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[13Feb2025 03:48:34.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -575.500000, 71.500000, -2553.500000]
+[13Feb2025 03:48:45.310] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/46854, l='ServerLevel[world]', x=-599.50, y=70.00, z=-2545.50] died, message: 'Unemployed was killed'
+[13Feb2025 03:49:17.555] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/47053, l='ServerLevel[world]', x=-569.50, y=66.00, z=-2536.50] died, message: 'Unemployed was killed'
+[13Feb2025 03:49:27.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has completed the challenge [Centennial]
+[13Feb2025 03:50:27.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [The Beginning of An Adventure]
+[13Feb2025 03:50:27.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Fallen Sorcerer]
+[13Feb2025 03:50:29.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was killed by Evoker using magic
+[13Feb2025 03:50:39.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -564.500000, 52.500000, -2543.500000]
+[13Feb2025 03:50:48.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has reached the goal [Postmortal]
+[13Feb2025 03:50:51.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was killed by Evoker using magic
+[13Feb2025 03:50:51.961] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[13Feb2025 03:50:51.961] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 10 is dual wielding: false
+[13Feb2025 03:50:51.962] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[13Feb2025 03:50:51.962] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[13Feb2025 03:50:51.962] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[13Feb2025 03:50:56.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -570.500000, 52.500000, -2549.500000]
+[13Feb2025 03:51:00.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Vex
+[13Feb2025 03:51:05.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -570.500000, 52.500000, -2547.500000]
+[13Feb2025 03:51:19.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Sick Shard]
