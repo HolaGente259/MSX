@@ -2010,6 +2010,7 @@
       "cooked_beef": "2025-02-10 03:10:55 +0000",
       "suspicious_stew": "2025-02-10 05:22:09 +0000",
       "glow_berries": "2025-02-10 05:46:27 +0000",
+      "cooked_chicken": "2025-02-13 03:23:09 +0000",
       "cooked_mutton": "2025-02-13 03:09:02 +0000",
       "apple": "2025-02-10 02:53:12 +0000",
       "cooked_cod": "2025-02-13 02:34:30 +0000",
@@ -10709,6 +10710,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-02-13 03:29:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-02-13 03:10:52 +0000"
@@ -10841,6 +10848,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-13 03:29:59 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
@@ -10892,6 +10905,12 @@
   "stoneworks:recipes/building_blocks/granite_plate_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-02-13 03:20:37 +0000"
     },
     "done": true
   },

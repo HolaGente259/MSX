@@ -9439,6 +9439,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-02-13 03:27:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-13 03:21:29 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-13 02:55:18 +0000"
@@ -9529,6 +9541,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-02-13 03:27:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-13 02:55:18 +0000"
@@ -9613,6 +9631,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-02-13 03:27:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-02-13 02:55:17 +0000"
@@ -9673,6 +9697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-13 03:21:29 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_pillar_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-13 02:55:18 +0000"
@@ -9685,6 +9715,24 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-02-13 03:27:50 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_boards": {
+    "criteria": {
+      "has_oak_slab": "2025-02-13 03:27:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-02-13 03:27:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2025-02-13 03:04:08 +0000"
@@ -9694,6 +9742,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-13 02:55:18 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-02-13 03:27:50 +0000"
     },
     "done": true
   },
@@ -9793,15 +9847,33 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-02-13 03:27:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_paver_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-13 02:55:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-13 03:27:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_shingles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-13 02:55:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-13 03:27:50 +0000"
     },
     "done": true
   },
@@ -9853,6 +9925,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-02-13 03:27:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/deepslate_plates_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-02-13 02:55:17 +0000"
@@ -9874,6 +9952,12 @@
   "stoneworks:recipes/building_blocks/blackstone_tiles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-13 02:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-13 03:21:29 +0000"
     },
     "done": true
   },
@@ -10009,6 +10093,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-02-13 03:27:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-02-13 03:04:08 +0000"
@@ -10048,6 +10138,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-13 02:55:18 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-02-13 03:27:50 +0000"
     },
     "done": true
   },
@@ -10132,6 +10228,12 @@
   "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-02-13 02:55:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-02-13 03:27:50 +0000"
     },
     "done": true
   },
@@ -10279,6 +10381,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-13 03:27:50 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/tools/spectre_flare": {
     "criteria": {
       "has_silver_ingot": "2025-02-13 03:07:19 +0000"
@@ -10297,6 +10405,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-02-13 03:27:50 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
     "criteria": {
       "has_chain": "2025-02-13 03:09:53 +0000"
@@ -10312,6 +10426,12 @@
   "morevillagers:first_workstation_get": {
     "criteria": {
       "fletchingtable": "2025-02-13 03:10:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-13 03:21:29 +0000"
     },
     "done": true
   },
@@ -10363,6 +10483,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-02-13 03:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-13 03:21:29 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_paver_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:03:50 +0000"
@@ -10405,9 +10537,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-02-13 03:27:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-13 03:03:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-02-13 03:27:50 +0000"
     },
     "done": true
   },
@@ -10519,6 +10663,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_bricks": {
+    "criteria": {
+      "has_ash_brick": "2025-02-13 03:27:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-02-13 02:55:17 +0000"
@@ -10543,6 +10693,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-02-13 03:27:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:03:50 +0000"
@@ -10552,6 +10708,12 @@
   "stoneworks:recipes/building_blocks/cobbled_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-13 02:55:18 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-02-13 03:27:50 +0000"
     },
     "done": true
   },
