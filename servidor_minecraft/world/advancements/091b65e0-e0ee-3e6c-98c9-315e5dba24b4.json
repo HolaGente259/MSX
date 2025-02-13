@@ -9471,6 +9471,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-02-13 01:38:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-13 00:15:32 +0000"
@@ -9498,6 +9504,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-02-13 00:52:29 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/cooked_pike_from_campfire_cooking": {
+    "criteria": {
+      "has_pike": "2025-02-13 01:38:09 +0000"
     },
     "done": true
   },
@@ -9549,6 +9561,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/redstone/driftwood_pressure_plate_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-02-13 01:38:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-02-13 00:52:29 +0000"
@@ -9570,6 +9588,12 @@
   "valhelsia_furniture:recipes/decorations/red_acacia_table": {
     "criteria": {
       "has_red_carpet": "2025-02-13 00:31:31 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/driftwood_door_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-02-13 01:38:09 +0000"
     },
     "done": true
   },
@@ -9657,6 +9681,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/redstone/driftwood_button_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-02-13 01:38:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_dark_oak_table": {
     "criteria": {
       "has_red_carpet": "2025-02-13 00:31:31 +0000"
@@ -9681,6 +9711,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/building_blocks/driftwood": {
+    "criteria": {
+      "has_log": "2025-02-13 01:38:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_skillet": {
     "criteria": {
       "skillet": "2025-02-13 00:54:51 +0000"
@@ -9696,6 +9732,12 @@
   "valhelsia_furniture:recipes/decorations/dark_oak_desk_drawer": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-13 01:07:37 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_boards_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-02-13 01:38:09 +0000"
     },
     "done": true
   },
@@ -9738,6 +9780,12 @@
   "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
     "criteria": {
       "has_log": "2025-02-13 01:24:13 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/cooked_pike_from_smoking": {
+    "criteria": {
+      "has_pike": "2025-02-13 01:38:09 +0000"
     },
     "done": true
   },
@@ -9807,6 +9855,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/decorations/driftwood_ladder_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-02-13 01:38:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-13 01:07:37 +0000"
@@ -9837,6 +9891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-02-13 01:38:36 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/dark_oak_button_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2025-02-13 01:24:13 +0000"
@@ -9852,6 +9912,24 @@
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-02-13 00:52:29 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/driftwood_sign_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-02-13 01:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-02-13 01:38:36 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_slab_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-02-13 01:38:09 +0000"
     },
     "done": true
   },
@@ -9891,6 +9969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-02-13 01:38:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/lime_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-13 01:07:37 +0000"
@@ -9918,6 +10002,12 @@
   "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_logs_sawing": {
     "criteria": {
       "has_dark_oak_logs": "2025-02-13 01:24:13 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-02-13 01:38:36 +0000"
     },
     "done": true
   },
@@ -9951,9 +10041,21 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_planks_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-02-13 01:38:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-02-13 00:52:29 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_stairs_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-02-13 01:38:09 +0000"
     },
     "done": true
   },
@@ -10053,9 +10155,21 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/redstone/driftwood_fence_gate_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-02-13 01:38:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-13 01:07:37 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/cooked_pike": {
+    "criteria": {
+      "has_pike": "2025-02-13 01:38:09 +0000"
     },
     "done": true
   },
@@ -10080,6 +10194,18 @@
   "supplementaries:recipes/globe_sepia": {
     "criteria": {
       "has_globe": "2025-02-13 01:26:24 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/driftwood_trapdoor_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-02-13 01:38:09 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_planks": {
+    "criteria": {
+      "has_logs": "2025-02-13 01:38:09 +0000"
     },
     "done": true
   },
@@ -10200,6 +10326,12 @@
   "valhelsia_furniture:recipes/decorations/red_oak_table": {
     "criteria": {
       "has_red_carpet": "2025-02-13 00:31:31 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/driftwood_fence_from_driftwood_logs_sawing": {
+    "criteria": {
+      "has_driftwood_logs": "2025-02-13 01:38:09 +0000"
     },
     "done": true
   },
