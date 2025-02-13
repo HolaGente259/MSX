@@ -627,3 +627,46 @@ java.util.ConcurrentModificationException: null
 [13Feb2025 05:29:54.535] [Server thread/INFO] [Jade/]: Syncing config to Loko384 (3bf84b8b-38e4-36e4-9466-bc45342fedf3)
 [13Feb2025 05:29:56.318] [Server thread/INFO] [ping-wheel/]: Channel update: Loko384 -> default
 [13Feb2025 05:33:21.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 41.500000, 79.500000, -3334.500000]
+[13Feb2025 05:35:25.235] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/94200, l='ServerLevel[world]', x=-292.50, y=58.00, z=-3622.50]
+[13Feb2025 05:35:35.298] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-73, y=65, z=42}
+[13Feb2025 05:35:35.299] [Worker-Main-113/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=63, z=46}
+[13Feb2025 05:37:27.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -397.500000, 70.500000, -3847.500000]
+[13Feb2025 05:38:23.890] [pool-8-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / valhelsia_structures:castle_ruin], ResourceKey[minecraft:worldgen/structure / valhelsia_structures:castle], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau]] from pos BlockPos{x=-571, y=67, z=-4219}
+[13Feb2025 05:38:28.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4429ms or 88 ticks behind
+[13Feb2025 05:38:46.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -606.500000, 70.500000, -4266.500000]
+[13Feb2025 05:38:55.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [No Step on Snake]
+[13Feb2025 05:39:22.463] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element biomemakeover:mansion took 122 ms
+[13Feb2025 05:39:28.680] [Worker-Main-107/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[13Feb2025 05:39:32.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -3551.500000, 63.875000, -1023.500000]
+[13Feb2025 05:39:32.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5203ms or 104 ticks behind
+[13Feb2025 05:39:50.144] [pool-8-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / valhelsia_structures:castle]] from pos BlockPos{x=-3461, y=67, z=-1035}
+[13Feb2025 05:39:57.260] [Worker-Main-157/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/exclusives/mediterranean/villager_bishop
+[13Feb2025 05:39:57.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7119ms or 142 ticks behind
+[13Feb2025 05:40:30.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Hostile Neighbors]
+[13Feb2025 05:42:11.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[13Feb2025 05:42:12.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Hostile Neighbors]
+[13Feb2025 05:42:18.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has completed the challenge [Centennial]
+[13Feb2025 05:42:47.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loko384 lost connection: Disconnected
+[13Feb2025 05:42:47.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 left the game
+[13Feb2025 05:42:50.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliamDios lost connection: Disconnected
+[13Feb2025 05:42:50.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios left the game
+[13Feb2025 05:43:26.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Feb2025 05:43:26.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Feb2025 05:43:26.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Feb2025 05:43:26.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Feb2025 05:43:27.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Feb2025 05:43:27.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[13Feb2025 05:43:27.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[13Feb2025 05:43:27.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Feb2025 05:43:27.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/voidscape:void
+[13Feb2025 05:43:27.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Feb2025 05:43:27.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Feb2025 05:43:27.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[13Feb2025 05:43:27.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[13Feb2025 05:43:27.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Feb2025 05:43:27.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[13Feb2025 05:43:27.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Feb2025 05:43:27.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Feb2025 05:43:28.249] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Feb2025 05:43:28.253] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[13Feb2025 05:43:28.255] [Server thread/INFO] [Framework/]: Finished unloading server configs

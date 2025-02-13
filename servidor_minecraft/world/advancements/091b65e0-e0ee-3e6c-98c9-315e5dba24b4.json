@@ -655,6 +655,7 @@
       "minecraft:savanna_plateau": "2025-02-10 05:15:46 +0000",
       "minecraft:beach": "2025-02-10 02:59:00 +0000",
       "minecraft:dark_forest": "2025-02-13 00:58:01 +0000",
+      "minecraft:mangrove_swamp": "2025-02-13 05:37:47 +0000",
       "minecraft:sparse_jungle": "2025-02-07 07:00:17 +0000",
       "minecraft:lukewarm_ocean": "2025-02-07 07:21:24 +0000",
       "minecraft:river": "2025-02-07 07:20:21 +0000",
@@ -664,7 +665,9 @@
       "minecraft:cold_ocean": "2025-02-07 07:26:11 +0000",
       "minecraft:forest": "2025-02-10 02:14:41 +0000",
       "minecraft:deep_cold_ocean": "2025-02-07 07:25:15 +0000",
+      "minecraft:desert": "2025-02-13 05:38:47 +0000",
       "minecraft:ocean": "2025-02-07 07:22:50 +0000",
+      "minecraft:jungle": "2025-02-13 05:35:48 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-07 07:21:46 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-07 08:08:31 +0000",
       "minecraft:meadow": "2025-02-10 01:50:14 +0000",
@@ -3348,15 +3351,18 @@
       "highland": "2025-02-07 07:53:38 +0000",
       "marsh": "2025-02-07 07:37:17 +0000",
       "clover_patch": "2025-02-07 07:58:37 +0000",
+      "old_growth_woodland": "2025-02-13 05:34:58 +0000",
       "crystalline_chasm": "2025-02-13 04:28:08 +0000",
       "orchard": "2025-02-07 07:58:16 +0000",
       "lavender_forest": "2025-02-07 07:57:54 +0000",
       "coniferous_forest": "2025-02-13 01:57:27 +0000",
+      "rocky_rainforest": "2025-02-13 05:31:41 +0000",
       "lavender_field": "2025-02-07 07:34:45 +0000",
       "fir_clearing": "2025-02-13 01:57:39 +0000",
       "grassland": "2025-02-07 08:05:41 +0000",
       "glowing_grotto": "2025-02-13 01:51:18 +0000",
       "undergrowth": "2025-02-13 04:35:47 +0000",
+      "rainforest": "2025-02-13 05:32:47 +0000",
       "crag": "2025-02-07 07:53:40 +0000",
       "ominous_woods": "2025-02-13 01:57:28 +0000"
     },
@@ -10412,6 +10418,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/building_blocks/granite_plates_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
@@ -10689,6 +10767,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_cherry_chair": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
@@ -10704,6 +10788,12 @@
   "valhelsia_furniture:recipes/decorations/green_upholstered_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
     },
     "done": true
   },
@@ -10845,6 +10935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-02-13 04:44:57 +0000"
@@ -10896,6 +10992,12 @@
   "valhelsia_furniture:recipes/decorations/pink_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_jungle_stool": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
     },
     "done": true
   },
@@ -11007,6 +11109,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_warped_chair": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_acacia_chair": {
     "criteria": {
       "has_gray_wool": "2025-02-13 05:03:45 +0000"
@@ -11073,6 +11181,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_crimson_stool": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-13 04:28:49 +0000"
@@ -11109,6 +11223,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-02-13 05:38:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
@@ -11136,6 +11256,12 @@
   "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_mangrove_chair": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
     },
     "done": true
   },
@@ -11211,9 +11337,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_cherry_stool": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
     },
     "done": true
   },
@@ -11280,6 +11418,12 @@
   "stoneworks:recipes/building_blocks/granite_paver_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
     },
     "done": true
   },
@@ -11436,6 +11580,12 @@
   "woodworks:recipes/building_blocks/birch_bookshelf": {
     "criteria": {
       "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_stool": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
     },
     "done": true
   },
@@ -11655,6 +11805,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_plate_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
@@ -11754,6 +11910,12 @@
   "valhelsia_furniture:recipes/decorations/green_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_warped_chair": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
     },
     "done": true
   },
@@ -11931,6 +12093,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_birch_stool": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_mangrove_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
@@ -11991,6 +12159,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/red_sleeping_bag": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-02-13 04:44:57 +0000"
@@ -12024,6 +12198,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-02-13 04:29:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_warped_stool": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
     },
     "done": true
   },
@@ -12114,6 +12294,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
     },
     "done": true
   },
@@ -12264,6 +12450,12 @@
   "woodworks:recipes/building_blocks/mangrove_bookshelf": {
     "criteria": {
       "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_chair": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
     },
     "done": true
   },
@@ -12519,6 +12711,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_cherry_chair": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_paver_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
@@ -12540,6 +12738,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-02-13 04:28:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_curtain": {
+    "criteria": {
+      "has_item": "2025-02-13 05:40:21 +0000"
     },
     "done": true
   },
@@ -12585,6 +12789,12 @@
     },
     "done": true
   },
+  "biomemakeover:biomemakeover/mansion": {
+    "criteria": {
+      "ghost_town": "2025-02-13 05:40:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
@@ -12618,6 +12828,12 @@
   "valhelsia_furniture:recipes/decorations/gray_upholstered_warped_chair": {
     "criteria": {
       "has_gray_wool": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_acacia_chair": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
     },
     "done": true
   },
