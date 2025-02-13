@@ -8210,7 +8210,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "glow_berries": "2025-02-10 05:56:55 +0000"
+      "glow_berries": "2025-02-10 05:56:55 +0000",
+      "rice": "2025-02-13 02:49:36 +0000"
     },
     "done": false
   },
@@ -10400,6 +10401,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-02-13 02:45:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-02-13 02:23:21 +0000"
@@ -10436,6 +10443,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-02-13 02:45:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-02-13 02:39:47 +0000"
@@ -10460,9 +10473,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-02-13 02:45:21 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:angler_treasure_bag": {
     "criteria": {
       "bag_opened": "2025-02-13 02:30:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-02-13 02:49:36 +0000"
     },
     "done": true
   },
