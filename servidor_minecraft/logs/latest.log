@@ -212,3 +212,34 @@
 [13Feb2025 02:58:49.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Tunnel Treasures]
 [13Feb2025 02:59:42.781] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32956, l='ServerLevel[world]', x=79.50, y=72.00, z=-2120.50]
 [13Feb2025 03:00:48.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[13Feb2025 03:01:01.433] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33268, l='ServerLevel[world]', x=79.50, y=72.00, z=-2118.50]
+[13Feb2025 03:01:02.183] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33269, l='ServerLevel[world]', x=78.50, y=72.00, z=-2119.50]
+[13Feb2025 03:01:06.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Poison Pot Crab
+[13Feb2025 03:01:06.733] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33301, l='ServerLevel[world]', x=110.50, y=79.00, z=-2106.50]
+[13Feb2025 03:01:44.182] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33599, l='ServerLevel[world]', x=-61.50, y=74.00, z=-2179.50]
+[13Feb2025 03:02:00.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -21.500000, 24.500000, -2164.500000]
+[13Feb2025 03:02:10.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Lifestealer
+[13Feb2025 03:02:10.719] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[13Feb2025 03:02:10.720] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 13 is dual wielding: false
+[13Feb2025 03:02:10.721] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[13Feb2025 03:02:10.721] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[13Feb2025 03:02:10.721] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[13Feb2025 03:02:22.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -68.500000, 31.500000, -165.500000]
+[13Feb2025 03:02:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -23.500000, 23.500000, -2160.500000]
+[13Feb2025 03:03:10.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Lifestealer
+[13Feb2025 03:03:10.326] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[13Feb2025 03:03:10.326] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 8 is dual wielding: false
+[13Feb2025 03:03:10.326] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[13Feb2025 03:03:10.326] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[13Feb2025 03:03:10.326] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[13Feb2025 03:03:12.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Lifestealer
+[13Feb2025 03:03:17.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -20.500000, 22.500000, -2167.500000]
+[13Feb2025 03:03:54.781] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34672, l='ServerLevel[world]', x=-60.50, y=74.00, z=-2178.50]
+[13Feb2025 03:05:07.682] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35000, l='ServerLevel[world]', x=-59.50, y=74.00, z=-2179.50]
+[13Feb2025 03:05:50.833] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35175, l='ServerLevel[world]', x=-59.50, y=74.00, z=-2178.50]
+[13Feb2025 03:05:55.032] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35212, l='ServerLevel[world]', x=-59.50, y=74.00, z=-2180.50]
+[13Feb2025 03:06:21.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Hide and Seek]
+[13Feb2025 03:07:19.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Multi-Disciplined]
+[13Feb2025 03:08:33.782] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/35975, l='ServerLevel[world]', x=111.50, y=79.00, z=-2106.50]
+[13Feb2025 03:09:10.331] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/36114, l='ServerLevel[world]', x=106.50, y=73.00, z=-2057.50]
+[13Feb2025 03:10:48.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Let's Get To Work]
