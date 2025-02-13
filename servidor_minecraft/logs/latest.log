@@ -108,3 +108,22 @@
 [13Feb2025 01:47:26.882] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18782, l='ServerLevel[world]', x=83.50, y=72.00, z=-2106.50]
 [13Feb2025 01:49:17.581] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19093, l='ServerLevel[world]', x=30.50, y=76.00, z=-2121.50]
 [13Feb2025 01:49:43.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 90.500000, 94.500000, -1945.500000]
+[13Feb2025 01:50:27.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 99.500000, 99.500000, -1859.500000]
+[13Feb2025 01:50:36.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -101.500000, 72.500000, -2137.500000]
+[13Feb2025 01:52:01.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -371.500000, 7.500000, -2308.500000]
+[13Feb2025 01:52:05.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Simple Dungeon Room]
+[13Feb2025 01:52:45.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -272.500000, 72.500000, -2235.500000]
+[13Feb2025 01:54:33.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1113.500000, 167.500000, -3039.500000]
+[13Feb2025 01:54:41.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1075.500000, 123.500000, -3240.500000]
+[13Feb2025 01:54:52.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1106.500000, 144.500000, -3096.500000]
+[13Feb2025 01:58:42.504] [Worker-Main-74/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[13Feb2025 01:58:52.993] [Worker-Main-71/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[13Feb2025 01:58:57.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -2168.500000, 114.500000, -2615.500000]
+[13Feb2025 01:59:12.266] [Worker-Main-76/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[13Feb2025 01:59:17.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -880.500000, 74.500000, -2937.500000]
+[13Feb2025 01:59:29.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliamDios lost connection: Disconnected
+[13Feb2025 01:59:29.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios left the game
+[13Feb2025 01:59:36.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliamDios[/127.67.90.126:56355] logged in with entity id 24272 at (-888.9704880082411, 64.0, -2936.128693224996)
+[13Feb2025 01:59:36.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios joined the game
+[13Feb2025 01:59:36.515] [Server thread/INFO] [Jade/]: Syncing config to EliamDios (091b65e0-e0ee-3e6c-98c9-315e5dba24b4)
+[13Feb2025 01:59:36.817] [Server thread/INFO] [ping-wheel/]: Channel update: EliamDios -> default
