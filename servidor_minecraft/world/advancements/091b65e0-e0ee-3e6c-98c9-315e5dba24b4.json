@@ -653,6 +653,7 @@
       "minecraft:birch_forest": "2025-02-07 08:08:37 +0000",
       "minecraft:savanna_plateau": "2025-02-10 05:15:46 +0000",
       "minecraft:beach": "2025-02-10 02:59:00 +0000",
+      "minecraft:dark_forest": "2025-02-13 00:58:01 +0000",
       "minecraft:sparse_jungle": "2025-02-07 07:00:17 +0000",
       "minecraft:lukewarm_ocean": "2025-02-07 07:21:24 +0000",
       "minecraft:river": "2025-02-07 07:20:21 +0000",
@@ -5199,6 +5200,7 @@
       "pine_taiga": "2025-02-10 02:16:47 +0000",
       "redstone_caves": "2025-02-10 01:53:25 +0000",
       "scorching_caves": "2025-02-10 06:19:14 +0000",
+      "blackwood_taiga": "2025-02-13 00:58:23 +0000",
       "highland_fields": "2025-02-10 01:50:24 +0000",
       "deciduous_forest": "2025-02-10 03:51:29 +0000",
       "temperate_grove": "2025-02-10 01:52:05 +0000",
@@ -5210,6 +5212,7 @@
     "criteria": {
       "shrubland": "2025-02-10 01:55:04 +0000",
       "pine_taiga": "2025-02-10 02:16:47 +0000",
+      "blackwood_taiga": "2025-02-13 00:58:23 +0000",
       "highland_fields": "2025-02-10 01:50:24 +0000",
       "deciduous_forest": "2025-02-10 03:51:29 +0000",
       "temperate_grove": "2025-02-10 01:52:05 +0000",
@@ -9483,6 +9486,12 @@
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-02-13 00:25:11 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/enter_dark_forest": {
+    "criteria": {
+      "enter_dark_forest": "2025-02-13 00:58:01 +0000"
     },
     "done": true
   },
