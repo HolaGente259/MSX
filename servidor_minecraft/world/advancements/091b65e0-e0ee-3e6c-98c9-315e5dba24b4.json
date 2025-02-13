@@ -2087,6 +2087,7 @@
       "minecraft:spider": "2025-02-10 03:41:45 +0000",
       "minecraft:creeper": "2025-02-07 07:13:54 +0000",
       "minecraft:evoker": "2025-02-13 03:50:26 +0000",
+      "minecraft:zombified_piglin": "2025-02-13 04:29:14 +0000",
       "minecraft:witch": "2025-02-13 03:48:45 +0000",
       "minecraft:husk": "2025-02-10 05:34:05 +0000",
       "minecraft:cave_spider": "2025-02-10 03:46:44 +0000",
@@ -3344,6 +3345,7 @@
       "highland": "2025-02-07 07:53:38 +0000",
       "marsh": "2025-02-07 07:37:17 +0000",
       "clover_patch": "2025-02-07 07:58:37 +0000",
+      "crystalline_chasm": "2025-02-13 04:28:08 +0000",
       "orchard": "2025-02-07 07:58:16 +0000",
       "lavender_forest": "2025-02-07 07:57:54 +0000",
       "coniferous_forest": "2025-02-13 01:57:27 +0000",
@@ -5220,6 +5222,7 @@
       "highland_fields": "2025-02-10 01:50:24 +0000",
       "mountains": "2025-02-13 01:54:33 +0000",
       "deciduous_forest": "2025-02-10 03:51:29 +0000",
+      "infernal_holt": "2025-02-13 04:29:34 +0000",
       "temperate_grove": "2025-02-10 01:52:05 +0000",
       "pine_slopes": "2025-02-13 01:54:53 +0000",
       "prairie": "2025-02-10 05:27:53 +0000"
@@ -10410,6 +10413,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
       "has_salmon": "2025-02-13 02:23:21 +0000"
@@ -10440,6 +10449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-13 04:29:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
@@ -10449,6 +10464,12 @@
   "upgrade_aquatic:recipes/building_blocks/chiseled_driftwood_bookshelf": {
     "criteria": {
       "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
     },
     "done": true
   },
@@ -10494,6 +10515,12 @@
     },
     "done": true
   },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "infernal_holt": "2025-02-13 04:29:34 +0000"
+    },
+    "done": false
+  },
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-02-13 02:57:42 +0000"
@@ -10521,6 +10548,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
     },
     "done": true
   },
@@ -10584,9 +10617,21 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2025-02-13 04:28:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
     },
     "done": true
   },
@@ -10599,6 +10644,12 @@
   "create:recipes/misc/crafting/palettes/scorchia": {
     "criteria": {
       "has_item": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-13 04:28:50 +0000"
     },
     "done": true
   },
@@ -10617,6 +10668,12 @@
   "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-13 04:29:19 +0000"
     },
     "done": true
   },
@@ -10650,6 +10707,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-02-13 02:23:21 +0000"
@@ -10677,6 +10740,12 @@
   "stoneworks:recipes/building_blocks/granite_tile_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-02-13 04:28:08 +0000"
     },
     "done": true
   },
@@ -10713,6 +10782,12 @@
   "stoneworks:recipes/building_blocks/mossy_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
     },
     "done": true
   },
@@ -10776,9 +10851,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_helmet": {
+    "criteria": {
+      "has_item": "2025-02-13 04:29:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_leggings": "2025-02-13 03:57:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
     },
     "done": true
   },
@@ -10794,9 +10887,27 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-13 04:28:08 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/crimson_bookshelf": {
     "criteria": {
       "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-02-13 04:25:37 +0000"
     },
     "done": true
   },
@@ -10842,6 +10953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-13 04:28:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
@@ -10860,6 +10977,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
@@ -10875,6 +10998,12 @@
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_leggings": {
+    "criteria": {
+      "has_item": "2025-02-13 04:29:19 +0000"
     },
     "done": true
   },
@@ -10917,6 +11046,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_boots": {
+    "criteria": {
+      "has_item": "2025-02-13 04:29:19 +0000"
     },
     "done": true
   },
@@ -11022,6 +11157,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-02-13 03:37:45 +0000"
@@ -11061,6 +11202,12 @@
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-02-13 04:12:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-02-13 04:28:08 +0000"
     },
     "done": true
   },
@@ -11172,9 +11319,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-13 04:29:42 +0000"
     },
     "done": true
   },
@@ -11190,9 +11349,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-13 04:28:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-13 04:28:50 +0000"
     },
     "done": true
   },
@@ -11226,6 +11397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-13 04:28:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
@@ -11250,6 +11427,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
@@ -11262,9 +11445,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/chiseled_warped_bookshelf": {
     "criteria": {
       "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
     },
     "done": true
   },
@@ -11346,9 +11541,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-13 04:29:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
     },
     "done": true
   },
@@ -11367,6 +11574,12 @@
   "stoneworks:recipes/building_blocks/granite_tile_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
     },
     "done": true
   },
@@ -11409,6 +11622,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
     },
     "done": true
   },
@@ -11469,6 +11688,12 @@
   "farmersdelight:main/plant_rice": {
     "criteria": {
       "plant_rice": "2025-02-13 02:49:36 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
     },
     "done": true
   },
@@ -11556,6 +11781,12 @@
     },
     "done": true
   },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2025-02-13 04:30:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
@@ -11598,6 +11829,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
       "bypassingthe_expiration_date_0": "2025-02-13 03:37:16 +0000"
@@ -11616,9 +11853,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-13 04:28:50 +0000"
     },
     "done": true
   },
@@ -11649,6 +11898,12 @@
   "stoneworks:recipes/building_blocks/granite_paver_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-13 04:28:08 +0000"
     },
     "done": true
   },
@@ -11718,6 +11973,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-02-13 04:12:59 +0000"
@@ -11739,6 +12000,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
     },
     "done": true
   },

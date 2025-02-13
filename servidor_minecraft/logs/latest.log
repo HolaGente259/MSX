@@ -344,3 +344,171 @@
 [13Feb2025 04:19:19.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
 [13Feb2025 04:19:44.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Spooky Scary Army]
 [13Feb2025 04:20:13.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Boneyard]
+[13Feb2025 04:23:44.372] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Feb2025 04:23:44.372] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003\u0006`\nR",
+  "f_134722_": 39838,
+  "fmlVersion": "NONE"
+}
+[13Feb2025 04:23:44.372] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 180 extra bytes: 
+[13Feb2025 04:23:44.373] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Aw!q# i,Nsos_U _&+/,0/524.ip.gl.ply.gg"
+]
+[13Feb2025 04:23:56.433] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Feb2025 04:23:56.433] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 225,
+  "f_134721_": "",
+  "f_134722_": 221,
+  "fmlVersion": "NONE"
+}
+[13Feb2025 04:23:56.434] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 64 extra bytes: 
+[13Feb2025 04:23:56.434] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "|\\p5AuZ\",'',h+=$#<g5@"
+]
+[13Feb2025 04:23:56.436] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Feb2025 04:23:56.438] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 18,
+  "f_134721_": "",
+  "f_134722_": 5824,
+  "fmlVersion": "NONE"
+}
+[13Feb2025 04:23:56.438] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 157 extra bytes: 
+[13Feb2025 04:23:56.439] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "=$#<g5@3,(/'jkf028/L24.ip.gl.ply.gg"
+]
+[13Feb2025 04:23:56.929] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[13Feb2025 04:23:56.929] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 213,
+  "f_134721_": "",
+  "f_134722_": 209,
+  "fmlVersion": "NONE"
+}
+[13Feb2025 04:23:56.930] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 90 extra bytes: 
+[13Feb2025 04:23:56.930] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "I,P$)]ii|U8,0+/(k#'g93=<5/"
+]
+[13Feb2025 04:25:30.058] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[13Feb2025 04:25:33.905] [Worker-Main-102/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [8 above bottom-0 absolute]
+[13Feb2025 04:25:37.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Nether Depths Upgrade]
+[13Feb2025 04:25:37.837] [Netty Epoll Server IO #2/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 100
+java.util.ConcurrentModificationException: null
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:1013) ~[?:?]
+	at java.util.ArrayList$Itr.next(ArrayList.java:967) ~[?:?]
+	at net.minecraft.network.chat.Component$Serializer.serialize(Component.java:320) ~[server-1.20.1-20230612.114412-srg.jar%23857!/:?]
+	at net.minecraft.network.chat.Component$Serializer.serialize(Component.java:152) ~[server-1.20.1-20230612.114412-srg.jar%23857!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.write(TreeTypeAdapter.java:88) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.toJson(Gson.java:825) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.toJson(Gson.java:795) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.toJson(Gson.java:742) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.toJson(Gson.java:719) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.network.chat.Component$Serializer.m_130703_(Component.java:388) ~[server-1.20.1-20230612.114412-srg.jar%23857!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_130083_(FriendlyByteBuf.java:510) ~[server-1.20.1-20230612.114412-srg.jar%23857!/:?]
+	at net.minecraft.network.protocol.game.ClientboundSystemChatPacket.m_5779_(ClientboundSystemChatPacket.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23857!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23857!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23857!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.m_243087_(Connection.java:224) ~[server-1.20.1-20230612.114412-srg.jar%23857!/:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$8(Connection.java:213) ~[server-1.20.1-20230612.114412-srg.jar%23857!/:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[13Feb2025 04:25:37.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [We Need to Go Deeper]
+[13Feb2025 04:25:37.838] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ClientboundSystemChatPacket caused an error above, printing name & data
+[13Feb2025 04:25:37.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Incendium]
+[13Feb2025 04:25:37.842] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientboundSystemChatPacket[content=translation{key='chat.square_brackets', args=[translation{key='majruszsdifficulty.stages.expert', args=[]}[style={hoverEvent=HoverEvent{action=<action show_text>, value='translation{key='majruszsdifficulty.stages.expert', args=[]}[style={color=green}, siblings=[literal{\n}, translation{key='majruszsdifficulty.stages.expert.started', args=[]}[style={color=white}]]]'}}]]}[style={color=green,clickEvent=ClickEvent{action=RUN_COMMAND, value='advopen majruszsdifficulty:game_stage_expert'}}, siblings=[literal{ }, translation{key='majruszsdifficulty.stages.expert.started', args=[]}[style={color=white}], literal{ }, translation{key='majruszsdifficulty.stages.expert.started', args=[]}[style={color=white}]]], overlay=false]"
+[13Feb2025 04:25:48.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17983ms or 359 ticks behind
+[13Feb2025 04:25:50.451] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.452] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.547] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.556] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.559] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.559] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.559] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.559] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.837] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.837] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.837] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.837] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.853] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.853] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.853] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.859] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.859] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.860] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.860] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.867] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.867] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.867] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.868] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.873] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.873] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.876] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.877] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.879] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.880] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.895] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.895] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.898] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.898] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.899] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.989] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.989] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.989] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:50.989] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:51.007] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:51.036] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
+[13Feb2025 04:25:51.036] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:51.036] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:51.037] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:51.037] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:51.037] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:51.037] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:51.038] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:51.061] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:51.091] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:51.093] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:51.093] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:51.093] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:51.124] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:51.125] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:51.125] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:25:51.125] [Worker-Main-156/WARN] [lithostitched/]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[13Feb2025 04:28:08.058] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[13Feb2025 04:28:08.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Nether Depths Upgrade]
+[13Feb2025 04:28:08.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [We Need to Go Deeper]
+[13Feb2025 04:28:08.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Incendium]
+[13Feb2025 04:29:59.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to Loko384]
+[13Feb2025 04:30:03.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Downer]
+[13Feb2025 04:30:14.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Downer]
+[13Feb2025 04:31:47.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported EliamDios to Loko384]
