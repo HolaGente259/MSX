@@ -538,3 +538,10 @@ java.util.ConcurrentModificationException: null
 [13Feb2025 04:57:12.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -895.500000, 64.500000, -2937.500000]
 [13Feb2025 05:02:31.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Enchanter]
 [13Feb2025 05:03:16.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -766.500000, 65.500000, -2766.500000]
+[13Feb2025 05:03:56.045] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[13Feb2025 05:06:33.445] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-981, y=67, z=-2341}
+[13Feb2025 05:07:00.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -1163.500000, 130.500000, -3165.500000]
+[13Feb2025 05:07:05.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has completed the challenge [The Power of the Sun]
+[13Feb2025 05:07:33.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Hidden in the Depths]
+[13Feb2025 05:10:01.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[13Feb2025 05:10:02.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -891.500000, 64.500000, -2937.500000]
