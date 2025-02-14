@@ -12310,6 +12310,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_slab_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-02-14 07:14:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:got_wood": {
     "criteria": {
       "brimwood_log": "2025-02-14 05:10:24 +0000"
@@ -12334,6 +12340,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_slab": {
+    "criteria": {
+      "has_sculk_stone": "2025-02-14 07:14:02 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/cobbled_gloomslate_slab": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-02-14 06:45:05 +0000"
@@ -12349,6 +12361,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-02-14 06:04:25 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_stairs": {
+    "criteria": {
+      "has_sculk_stone": "2025-02-14 07:14:02 +0000"
     },
     "done": true
   },
@@ -12494,6 +12512,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_stairs_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-02-14 07:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-14 06:25:13 +0000"
@@ -12551,6 +12575,12 @@
   "deeperdarker:recipes/building_blocks/gloomslate_brick_wall_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-02-14 06:45:05 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_wall": {
+    "criteria": {
+      "has_sculk_stone": "2025-02-14 07:14:02 +0000"
     },
     "done": true
   },
@@ -12647,6 +12677,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/smooth_sculk_stone": {
+    "criteria": {
+      "has_sculk_stone": "2025-02-14 07:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-02-14 05:07:48 +0000"
@@ -12698,6 +12734,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-02-14 05:11:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_wall_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-02-14 07:14:02 +0000"
     },
     "done": true
   },
