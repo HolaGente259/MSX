@@ -12184,6 +12184,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-02-14 06:55:52 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:main/enter_otherside": {
     "criteria": {
       "otherside": "2025-02-14 06:44:36 +0000"
@@ -12301,6 +12307,12 @@
   "regions_unexplored:recipes/building_blocks/brimwood_planks": {
     "criteria": {
       "has_logs": "2025-02-14 05:10:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-02-14 06:54:15 +0000"
     },
     "done": true
   },
@@ -12450,7 +12462,10 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
+      "shattered": "2025-02-14 06:46:31 +0000",
       "phantom": "2025-02-14 05:51:04 +0000",
+      "sculk_centipede": "2025-02-14 06:55:24 +0000",
+      "sculk_leech": "2025-02-14 06:50:46 +0000",
       "warden": "2025-02-14 06:29:14 +0000"
     },
     "done": false
@@ -12578,9 +12593,11 @@
   "deeperdarker:main/explore_otherside": {
     "criteria": {
       "overcast_columns": "2025-02-14 06:44:36 +0000",
+      "deeplands": "2025-02-14 06:50:48 +0000",
+      "blooming_caverns": "2025-02-14 06:52:11 +0000",
       "echoing_forest": "2025-02-14 06:45:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {

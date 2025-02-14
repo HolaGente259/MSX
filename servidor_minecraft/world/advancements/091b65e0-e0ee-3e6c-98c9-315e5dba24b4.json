@@ -12932,6 +12932,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 06:56:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 06:56:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 06:56:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 06:56:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 06:56:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 06:56:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 06:56:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 06:56:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 06:56:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 06:56:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 06:56:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-14 06:56:52 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:main/enter_otherside": {
     "criteria": {
       "otherside": "2025-02-14 06:43:40 +0000"
@@ -13058,6 +13130,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-02-14 06:50:57 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/gloomslate_slab": {
     "criteria": {
       "has_gloomslate": "2025-02-14 06:44:47 +0000"
@@ -13067,6 +13145,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-14 06:18:07 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_slab_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-02-14 06:53:08 +0000"
     },
     "done": true
   },
@@ -13103,6 +13187,12 @@
   "stoneworks:recipes/building_blocks/andesite_plate_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-14 06:18:07 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_slab": {
+    "criteria": {
+      "has_sculk_stone": "2025-02-14 06:53:08 +0000"
     },
     "done": true
   },
@@ -13151,6 +13241,12 @@
   "deeperdarker:recipes/building_blocks/gloomslate_wall": {
     "criteria": {
       "has_gloomslate": "2025-02-14 06:44:47 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_stairs": {
+    "criteria": {
+      "has_sculk_stone": "2025-02-14 06:53:08 +0000"
     },
     "done": true
   },
@@ -13344,6 +13440,7 @@
     "criteria": {
       "shattered": "2025-02-14 06:45:44 +0000",
       "phantom": "2025-02-14 05:51:58 +0000",
+      "sculk_centipede": "2025-02-14 06:52:58 +0000",
       "warden": "2025-02-14 06:26:44 +0000"
     },
     "done": false
@@ -13387,6 +13484,12 @@
   "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-14 06:18:07 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_stairs_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-02-14 06:53:08 +0000"
     },
     "done": true
   },
@@ -13480,6 +13583,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_wall": {
+    "criteria": {
+      "has_sculk_stone": "2025-02-14 06:53:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-14 06:18:07 +0000"
@@ -13531,9 +13640,11 @@
   "deeperdarker:main/explore_otherside": {
     "criteria": {
       "overcast_columns": "2025-02-14 06:43:41 +0000",
+      "deeplands": "2025-02-14 06:50:34 +0000",
+      "blooming_caverns": "2025-02-14 06:49:35 +0000",
       "echoing_forest": "2025-02-14 06:45:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
@@ -13586,6 +13697,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-14 06:18:07 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/smooth_sculk_stone": {
+    "criteria": {
+      "has_sculk_stone": "2025-02-14 06:53:08 +0000"
     },
     "done": true
   },
@@ -13682,6 +13799,12 @@
   "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-14 06:18:07 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_wall_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-02-14 06:53:08 +0000"
     },
     "done": true
   },
