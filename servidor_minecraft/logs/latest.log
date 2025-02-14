@@ -4059,3 +4059,12 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [14Feb2025 04:42:06.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was killed by EliamDios using magic
 [14Feb2025 04:42:13.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
 [14Feb2025 04:43:34.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Zombified Piglin
+[14Feb2025 04:43:40.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 04:45:40.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Loko384'/6774, l='ServerLevel[world]', x=-202.34, y=26.00, z=-206.00] died: Loko384 was dragged underground by Dorcel
+[14Feb2025 04:47:40.221] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/10355, l='ServerLevel[world]', x=-876.00, y=31.00, z=-26.00] as it would cause deadlock
+[14Feb2025 04:50:13.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=82, z=-333} BlockPos{x=-67, y=82, z=-333}
+[14Feb2025 04:50:13.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=82, z=-333} BlockPos{x=-67, y=82, z=-333}
+[14Feb2025 04:50:13.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=82, z=-333} BlockPos{x=-67, y=82, z=-333}
+[14Feb2025 04:50:13.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=82, z=-333} BlockPos{x=-67, y=82, z=-333}
+[14Feb2025 04:50:13.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=81, z=-334} BlockPos{x=-67, y=82, z=-333}
+[14Feb2025 04:53:22.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Who is Cutting Onions?]

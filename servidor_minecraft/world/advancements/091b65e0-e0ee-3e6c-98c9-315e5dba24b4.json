@@ -5229,6 +5229,7 @@
       "redstone_caves": "2025-02-10 01:53:25 +0000",
       "scorching_caves": "2025-02-10 06:19:14 +0000",
       "blackwood_taiga": "2025-02-13 00:58:23 +0000",
+      "mycotoxic_undergrowth": "2025-02-14 04:42:26 +0000",
       "highland_fields": "2025-02-10 01:50:24 +0000",
       "mountains": "2025-02-13 01:54:33 +0000",
       "deciduous_forest": "2025-02-10 03:51:29 +0000",
@@ -12052,6 +12053,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "mycotoxic_undergrowth": "2025-02-14 04:42:26 +0000",
       "blackstone_basin": "2025-02-13 04:39:12 +0000",
       "infernal_holt": "2025-02-13 04:29:34 +0000"
     },
@@ -12167,7 +12169,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-02-13 04:42:56 +0000"
+      "minecraft:crimson_forest": "2025-02-13 04:42:56 +0000",
+      "minecraft:nether_wastes": "2025-02-14 04:46:42 +0000"
     },
     "done": false
   },
@@ -12912,6 +12915,12 @@
   "biomemakeover:biomemakeover/mansion": {
     "criteria": {
       "ghost_town": "2025-02-13 05:40:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-02-14 04:43:33 +0000"
     },
     "done": true
   },
