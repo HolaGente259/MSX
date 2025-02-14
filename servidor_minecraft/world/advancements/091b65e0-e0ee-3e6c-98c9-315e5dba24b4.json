@@ -671,6 +671,7 @@
       "minecraft:jungle": "2025-02-13 05:35:48 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-07 07:21:46 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-07 08:08:31 +0000",
+      "minecraft:deep_dark": "2025-02-14 06:08:09 +0000",
       "minecraft:meadow": "2025-02-10 01:50:14 +0000",
       "minecraft:savanna": "2025-02-10 05:15:48 +0000",
       "minecraft:plains": "2025-02-07 07:10:46 +0000"
@@ -12991,9 +12992,27 @@
     },
     "done": true
   },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-02-14 06:09:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_jungle_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-02-14 06:09:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-02-14 04:53:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_cherry_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-02-14 06:09:37 +0000"
     },
     "done": true
   },
@@ -13027,6 +13046,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-14 06:09:57 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/redstone/trapped_river_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
@@ -13045,6 +13070,12 @@
     },
     "done": false
   },
+  "valhelsia_furniture:recipes/decorations/gray_spruce_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-02-14 06:09:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-02-14 04:58:55 +0000"
@@ -13054,6 +13085,18 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-02-14 05:06:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_crimson_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-02-14 06:09:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_acacia_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-02-14 06:09:37 +0000"
     },
     "done": true
   },
@@ -13081,6 +13124,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_birch_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-02-14 06:09:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_dark_oak_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-02-14 06:09:37 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
     "criteria": {
       "has_chaotic_hexahedron": "2025-02-14 05:35:01 +0000"
@@ -13105,6 +13160,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-14 06:08:09 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/trapped_dark_oak_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
@@ -13117,9 +13178,21 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-02-14 06:15:36 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/trapped_acacia_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_warped_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-02-14 06:09:37 +0000"
     },
     "done": true
   },
@@ -13129,9 +13202,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_oak_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-02-14 06:09:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2025-02-14 05:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-14 06:08:24 +0000"
     },
     "done": true
   },
@@ -13150,6 +13235,12 @@
   "woodworks:recipes/redstone/trapped_oak_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_mangrove_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-02-14 06:09:37 +0000"
     },
     "done": true
   },

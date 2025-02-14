@@ -668,6 +668,7 @@
       "minecraft:jungle": "2025-02-14 05:47:26 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-07 07:21:47 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-10 01:49:25 +0000",
+      "minecraft:deep_dark": "2025-02-14 06:07:31 +0000",
       "minecraft:meadow": "2025-02-10 01:50:07 +0000",
       "minecraft:savanna": "2025-02-10 06:09:30 +0000",
       "minecraft:plains": "2025-02-07 07:09:50 +0000"
@@ -12188,6 +12189,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2025-02-14 06:14:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-02-14 05:08:01 +0000"
@@ -12197,6 +12204,12 @@
   "netherexp:recipes/polished_basalt/slab": {
     "criteria": {
       "has_item": "2025-02-14 05:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-14 06:14:00 +0000"
     },
     "done": true
   },
@@ -12236,9 +12249,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-02-14 06:13:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/brimwood_wood": {
     "criteria": {
       "has_log": "2025-02-14 05:10:24 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-02-14 06:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-14 06:10:29 +0000"
     },
     "done": true
   },
@@ -12251,6 +12282,12 @@
   "miners_delight:recipes/cooking/glow_ink_pasta": {
     "criteria": {
       "has_glow_ink_sac": "2025-02-14 06:04:25 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/create_peat_farmland": {
+    "criteria": {
+      "create_peat": "2025-02-14 06:12:46 +0000"
     },
     "done": true
   },
@@ -12302,6 +12339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-02-14 06:14:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-02-14 05:07:48 +0000"
@@ -12311,6 +12354,18 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-02-14 05:11:24 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-14 06:07:31 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2025-02-14 06:05:55 +0000"
     },
     "done": true
   },
@@ -12329,6 +12384,12 @@
   "netherexp:recipes/polished_basalt/wall": {
     "criteria": {
       "has_item": "2025-02-14 05:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-02-14 06:12:49 +0000"
     },
     "done": true
   },

@@ -4175,3 +4175,81 @@ Pos: BlockPos{x=-2593, y=71, z=212}
 [14Feb2025 06:04:48.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
 [14Feb2025 06:05:35.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
 [14Feb2025 06:05:55.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has completed the challenge [Night Vanquisher]
+[14Feb2025 06:07:26.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -894.500000, 64.500000, -2933.500000]
+[14Feb2025 06:07:44.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2621ms or 52 ticks behind
+[14Feb2025 06:08:08.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to Loko384]
+[14Feb2025 06:08:24.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has completed the challenge [It Spreads]
+[14Feb2025 06:09:17.220] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ancient_city took 0 ms
+[14Feb2025 06:09:24.667] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-80}
+[14Feb2025 06:09:25.935] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-77}
+[14Feb2025 06:09:27.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 4720.500000, -51.000000, -2031.500000]
+[14Feb2025 06:09:27.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5303ms or 106 ticks behind
+[14Feb2025 06:09:27.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has reached the goal [A Metropolis of Restless Souls]
+[14Feb2025 06:09:57.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Sneak 100]
+[14Feb2025 06:10:25.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 06:10:25.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has reached the goal [A Metropolis of Restless Souls]
+[14Feb2025 06:10:29.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Sneak 100]
+[14Feb2025 06:10:42.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4741, y=-50, z=-2046} BlockPos{x=4741, y=-51, z=-2045}
+[14Feb2025 06:10:58.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4751, y=-52, z=-2039} BlockPos{x=4751, y=-53, z=-2040}
+[14Feb2025 06:11:04.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4747, y=-50, z=-2032} BlockPos{x=4747, y=-51, z=-2031}
+[14Feb2025 06:11:12.220] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[14Feb2025 06:11:12.220] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003r�F\u0014",
+  "f_134722_": 16824,
+  "fmlVersion": "NONE"
+}
+[14Feb2025 06:11:12.220] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 128 extra bytes: 
+[14Feb2025 06:11:12.221] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "n`\"=?3}IOS >A 4YyG6Lp&+/,0/524.ip.gl.ply.gg"
+]
+[14Feb2025 06:11:12.225] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[14Feb2025 06:11:12.226] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003��\u001a�",
+  "f_134722_": 36052,
+  "fmlVersion": "NONE"
+}
+[14Feb2025 06:11:12.226] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 96 extra bytes: 
+[14Feb2025 06:11:12.226] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+B!Y9\\6 g$G>ja_N#CB+/,0/5"
+]
+[14Feb2025 06:11:13.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4780, y=-51, z=-2020} BlockPos{x=4780, y=-52, z=-2019}
+[14Feb2025 06:11:14.125] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[14Feb2025 06:11:14.126] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003}2��",
+  "f_134722_": 33293,
+  "fmlVersion": "NONE"
+}
+[14Feb2025 06:11:14.126] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 94 extra bytes: 
+[14Feb2025 06:11:14.126] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+\\Ey<\",/'3{xE)f\"Au+/,0/5"
+]
+[14Feb2025 06:11:28.131] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[14Feb2025 06:11:28.132] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 213,
+  "f_134721_": "",
+  "f_134722_": 209,
+  "fmlVersion": "NONE"
+}
+[14Feb2025 06:11:28.132] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 87 extra bytes: 
+[14Feb2025 06:11:28.133] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "bsXCC|3zJul8,0+/$(k#'g93=<5/"
+]
+[14Feb2025 06:11:48.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was obliterated by a sonically-charged shriek
+[14Feb2025 06:11:57.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 4762.500000, -50.500000, -2011.500000]
+[14Feb2025 06:12:28.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Warden
+[14Feb2025 06:12:45.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 4793.500000, -50.500000, -2026.500000]
+[14Feb2025 06:12:46.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Faster Farmland]
+[14Feb2025 06:13:10.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Warden
+[14Feb2025 06:13:45.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 4795.500000, -50.500000, -2026.500000]
+[14Feb2025 06:15:11.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
