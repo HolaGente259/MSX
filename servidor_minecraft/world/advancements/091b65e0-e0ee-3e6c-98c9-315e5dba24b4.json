@@ -648,6 +648,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-02-14 05:44:24 +0000",
       "minecraft:deep_ocean": "2025-02-07 07:22:21 +0000",
       "minecraft:sunflower_plains": "2025-02-07 07:33:02 +0000",
       "minecraft:cherry_grove": "2025-02-13 01:56:30 +0000",
@@ -12979,6 +12980,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-02-14 05:35:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-02-14 04:53:22 +0000"
@@ -13051,9 +13058,21 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-02-14 05:35:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-02-14 05:06:30 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-02-14 05:40:15 +0000"
     },
     "done": true
   },
@@ -13069,6 +13088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-14 05:30:27 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/trapped_acacia_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
@@ -13078,6 +13103,12 @@
   "majruszsenchantments:scholar": {
     "criteria": {
       "has_met_requirement": "2025-02-14 04:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-02-14 05:30:27 +0000"
     },
     "done": true
   },

@@ -2710,6 +2710,7 @@
       "pumpkin_pie": "2025-02-10 02:02:48 +0000",
       "bread": "2025-02-10 01:45:06 +0000",
       "golden_apple": "2025-02-10 05:13:15 +0000",
+      "rotten_flesh": "2025-02-14 05:44:05 +0000",
       "melon_slice": "2025-02-07 07:19:04 +0000",
       "carrot": "2025-02-14 05:15:26 +0000"
     },
@@ -12222,9 +12223,21 @@
     },
     "done": true
   },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-02-14 05:40:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-02-14 05:08:01 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:frosted_caves": {
+    "criteria": {
+      "frosted_caves": "2025-02-14 05:44:24 +0000"
     },
     "done": true
   },

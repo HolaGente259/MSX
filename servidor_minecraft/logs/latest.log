@@ -4127,3 +4127,22 @@ Pos: BlockPos{x=-2593, y=71, z=212}
 [14Feb2025 05:31:38.652] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [14Feb2025 05:33:20.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -956.500000, -53.500000, -3152.500000]
 [14Feb2025 05:33:53.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 05:35:01.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has reached the goal [Chaos Spawner]
+[14Feb2025 05:35:20.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-973, y=-54, z=-3152} BlockPos{x=-973, y=-55, z=-3151}
+[14Feb2025 05:35:20.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-973, y=-54, z=-3152} BlockPos{x=-973, y=-55, z=-3151}
+[14Feb2025 05:39:16.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -894.500000, 64.500000, -2937.500000]
+[14Feb2025 05:40:15.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Need A Map?]
+[14Feb2025 05:40:31.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Fallen Sorcerer]
+[14Feb2025 05:43:53.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-812, y=67, z=-2949} BlockPos{x=-813, y=65, z=-2948}
+[14Feb2025 05:43:53.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-812, y=67, z=-2949} BlockPos{x=-813, y=65, z=-2948}
+[14Feb2025 05:43:53.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-812, y=67, z=-2949} BlockPos{x=-813, y=65, z=-2948}
+[14Feb2025 05:43:56.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-795, y=67, z=-2957} BlockPos{x=-796, y=65, z=-2957}
+[14Feb2025 05:43:56.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-795, y=67, z=-2957} BlockPos{x=-796, y=65, z=-2957}
+[14Feb2025 05:43:56.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-795, y=67, z=-2957} BlockPos{x=-796, y=65, z=-2957}
+[14Feb2025 05:43:57.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-790, y=67, z=-2961} BlockPos{x=-792, y=66, z=-2960}
+[14Feb2025 05:44:10.158] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #bosses_of_mass_destruction:soul_star_target (bosses_of_mass_destruction:lich_tower) took 198 ms
+[14Feb2025 05:44:17.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 4624.500000, 64.000000, -1727.500000]
+[14Feb2025 05:44:17.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4407ms or 88 ticks behind
+[14Feb2025 05:44:24.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Cool, Cool Cave]
+[14Feb2025 05:45:00.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4840ms or 96 ticks behind
+[14Feb2025 05:45:06.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 4636.500000, 92.500000, -1713.500000]
