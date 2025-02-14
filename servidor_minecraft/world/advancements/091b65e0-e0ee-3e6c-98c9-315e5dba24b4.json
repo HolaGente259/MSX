@@ -10418,87 +10418,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "majruszsenchantments:fishing_fanatic": {
     "criteria": {
-      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-13 05:41:56 +0000"
-    },
-    "done": false
-  },
-  "stoneworks:recipes/building_blocks/granite_plates_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
-    "criteria": {
-      "has_item": "2025-02-13 04:28:49 +0000"
+      "has_met_requirement": "2025-02-13 02:22:34 +0000"
     },
     "done": true
   },
@@ -10508,460 +10430,45 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/yellow_fabric_desk_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/crimson_support": {
-    "criteria": {
-      "has_plank": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-13 04:29:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-02-13 04:42:56 +0000"
-    },
-    "done": false
-  },
-  "upgrade_aquatic:recipes/building_blocks/chiseled_driftwood_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/netherite_trapdoor": {
-    "criteria": {
-      "has_netherite_scrap": "2025-02-13 04:36:12 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/blue_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_stool": {
-    "criteria": {
-      "has_gray_wool": "2025-02-13 05:03:45 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_granite_brick_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-02-13 04:05:21 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:eternal_expedition": {
-    "criteria": {
-      "blackstone_basin": "2025-02-13 04:39:12 +0000",
-      "infernal_holt": "2025-02-13 04:29:34 +0000"
-    },
-    "done": false
-  },
-  "valhelsia_furniture:recipes/decorations/green_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2025-02-13 02:57:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-02-13 05:03:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-02-13 03:10:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-02-13 04:36:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_crimson": {
-    "criteria": {
-      "has_item": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/crimson_ladder_from_crimson_planks_sawing": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2025-02-13 03:52:53 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_fabric_desk_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_slab": {
-    "criteria": {
-      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_blue_fabric_desk_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_cherry_chair": {
-    "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_birch_stool": {
-    "criteria": {
-      "has_gray_wool": "2025-02-13 05:03:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_mangrove_chair": {
-    "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_pavers_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "netherdepthsupgrade:main/root": {
-    "criteria": {
-      "entered_nether": "2025-02-13 04:28:08 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/loot_piglin_village": {
-    "criteria": {
-      "incendium:medium": "2025-02-13 04:45:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crimson_window": {
-    "criteria": {
-      "has_ingredient": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/chiseled_dark_oak_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_stool": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_mangrove_stool": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/palettes/scorchia": {
-    "criteria": {
-      "has_item": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-02-13 04:28:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_cherry_chair": {
-    "criteria": {
-      "has_gray_wool": "2025-02-13 05:03:45 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/building_blocks/chiseled_river_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/solar_crystal_chestplate": {
-    "criteria": {
-      "has_item": "2025-02-13 04:29:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-02-13 03:32:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-02-13 02:45:21 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flute": {
-    "criteria": {
-      "has_bamboo": "2025-02-13 03:10:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/light_gray_sleeping_bag": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-02-13 02:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-13 02:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-13 02:23:21 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/scute_shingles": {
+    "criteria": {
+      "has_scute": "2025-02-13 02:30:49 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:angler_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-02-13 02:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2025-02-13 02:30:49 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/scute_block": {
+    "criteria": {
+      "has_scute": "2025-02-13 02:30:49 +0000"
     },
     "done": true
   },
@@ -10971,159 +10478,147 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_crimson_stool": {
+  "miners_delight:recipes/food/baked_squid_smoking": {
     "criteria": {
-      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+      "has_squid": "2025-02-13 02:31:14 +0000"
     },
     "done": true
   },
-  "woodworks:recipes/decorations/crimson_fence_from_crimson_planks_sawing": {
+  "miners_delight:recipes/cooking/takoyaki": {
     "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+      "has_squid": "2025-02-13 02:31:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+  "miners_delight:recipes/food/baked_squid": {
     "criteria": {
-      "has_iron_block": "2025-02-13 03:52:50 +0000"
+      "has_squid": "2025-02-13 02:31:14 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/pink_crimson_chair": {
+  "miners_delight:recipes/food/squid_sandwich": {
     "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+      "has_squid": "2025-02-13 02:31:14 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_jungle_stool": {
+  "miners_delight:recipes/cooking/stuffed_squid": {
     "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
+      "has_any_ingredient": "2025-02-13 02:31:14 +0000"
     },
     "done": true
   },
-  "woodworks:recipes/building_blocks/chiseled_cherry_bookshelf": {
+  "oceansdelight:recipes/oceansdelight/seagrass_salad": {
     "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
+      "has_seagrass": "2025-02-13 02:33:18 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/granite_tile_stairs_from_granite_stonecutting": {
+  "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
+      "has_cooked_chicken": "2025-02-13 02:39:47 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/light_gray_curtain": {
+  "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
-      "has_item": "2025-02-13 05:03:50 +0000"
+      "has_cooked_chicken": "2025-02-13 02:39:47 +0000"
     },
     "done": true
   },
-  "bygonenether:root": {
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
-      "entered_nether": "2025-02-13 04:28:08 +0000"
+      "has_mutton": "2025-02-13 02:45:21 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/granite_tiles_from_granite_stonecutting": {
+  "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
+      "has_mutton": "2025-02-13 02:45:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_banner": {
+  "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
-      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+      "has_cooked_mutton": "2025-02-13 02:45:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+  "farmersdelight:main/plant_rice": {
     "criteria": {
-      "has_porkchop": "2025-02-13 03:32:01 +0000"
+      "plant_rice": "2025-02-13 02:49:36 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_stool": {
+  "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
-      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+      "dismantledto_bones_0": "2025-02-13 02:56:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_carpet": {
+  "celestisynth:recipes/combat/lunar_stone_chestplate": {
     "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+      "has_item": "2025-02-13 02:57:21 +0000"
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/building_blocks/river_bookshelf": {
+  "celestisynth:recipes/misc/lunar_scrap_smelting": {
     "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
+      "has_item": "2025-02-13 02:57:21 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/orange_fabric_desk_lamp": {
+  "celestisynth:recipes/combat/lunar_stone_helmet": {
     "criteria": {
-      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+      "has_item": "2025-02-13 02:57:21 +0000"
     },
     "done": true
   },
-  "woodworks:recipes/building_blocks/crimson_boards_from_crimson_planks_sawing": {
+  "celestisynth:recipes/combat/lunar_stone_leggings": {
     "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+      "has_item": "2025-02-13 02:57:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+  "celestisynth:recipes/combat/lunar_stone_boots": {
     "criteria": {
-      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
+      "has_item": "2025-02-13 02:57:21 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/misc/cooked_hogham": {
+  "celestisynth:recipes/misc/lunar_scrap_blasting": {
     "criteria": {
-      "has_item": "2025-02-13 04:31:24 +0000"
+      "has_item": "2025-02-13 02:57:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+  "lootr:1cart": {
     "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
+      "opened_cart": "2025-02-13 02:57:42 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_granite_bricks_from_granite_stonecutting": {
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
+      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
+      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/smooth_amethyst": {
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
-      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
+      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_warped_chair": {
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_acacia_chair": {
-    "criteria": {
-      "has_gray_wool": "2025-02-13 05:03:45 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/warped_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
+      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
     },
     "done": true
   },
@@ -11139,39 +10634,9 @@
     },
     "done": true
   },
-  "valhelsia_structures:recipes/building_blocks/paper_wall": {
-    "criteria": {
-      "has_bamboo": "2025-02-13 03:10:52 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_slab": {
-    "criteria": {
-      "has_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/lunar_stone_chestplate": {
-    "criteria": {
-      "has_item": "2025-02-13 02:57:21 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/baked_squid_smoking": {
-    "criteria": {
-      "has_squid": "2025-02-13 02:31:14 +0000"
     },
     "done": true
   },
@@ -11181,195 +10646,9 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_crimson_stool": {
-    "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/solar_crystal_helmet": {
-    "criteria": {
-      "has_item": "2025-02-13 04:29:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_leggings": "2025-02-13 03:57:01 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-02-13 03:10:52 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_warped_stool": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rattlesnake": {
-    "criteria": {
-      "killed": "2025-02-13 05:38:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-02-13 04:28:08 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/crimson_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_warped_chair": {
-    "criteria": {
-      "has_gray_wool": "2025-02-13 05:03:45 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_mangrove_chair": {
-    "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:game_stage_expert": {
-    "criteria": {
-      "is_triggered": "2025-02-13 04:25:37 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_crimson_stool": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-02-13 03:50:48 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_tile_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_fabric_desk_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_fabric_desk_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/cherry_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-02-13 04:28:50 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_cherry_stool": {
-    "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_mangrove_chair": {
-    "criteria": {
-      "has_gray_wool": "2025-02-13 05:03:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-02-13 02:23:21 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
     },
     "done": true
   },
@@ -11379,297 +10658,9 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/chiseled_birch_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/solar_crystal_leggings": {
-    "criteria": {
-      "has_item": "2025-02-13 04:29:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-02-13 04:36:20 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_paver_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/oak_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/cooking/takoyaki": {
-    "criteria": {
-      "has_squid": "2025-02-13 02:31:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/netherite_door": {
-    "criteria": {
-      "has_netherite_scrap": "2025-02-13 04:36:12 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/solar_crystal_boots": {
-    "criteria": {
-      "has_item": "2025-02-13 04:29:19 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:protectedby_darkness": {
-    "criteria": {
-      "protectedby_darkness_0": "2025-02-13 04:07:06 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_mangrove_stool": {
-    "criteria": {
-      "has_gray_wool": "2025-02-13 05:03:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/crimson_table": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/decorations/blackstone_stove": {
-    "criteria": {
-      "has_nether_brick": "2025-02-13 04:36:20 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/baked_squid": {
-    "criteria": {
-      "has_squid": "2025-02-13 02:31:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/crimson_desk_drawer": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-02-13 03:57:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-02-13 02:45:21 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-02-13 03:29:07 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/jungle_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-02-13 03:10:52 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-02-13 03:49:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-02-13 03:10:52 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_brick_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/birch_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_stool": {
-    "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-02-13 03:52:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/raw_zinc_block": {
-    "criteria": {
-      "has_item": "2025-02-13 03:10:52 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_warped_stool": {
-    "criteria": {
-      "has_gray_wool": "2025-02-13 05:03:45 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/crimson_slab_from_crimson_planks_sawing": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_blue_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_shingle_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/chiseled_spruce_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/lime_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_fabric_desk_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_fabric_desk_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
     },
     "done": true
   },
@@ -11679,39 +10670,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-02-13 03:14:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-02-13 04:12:59 +0000"
-    },
-    "done": true
-  },
-  "incendium:root": {
-    "criteria": {
-      "requirement": "2025-02-13 04:28:08 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/lime_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/misc/lunar_scrap_smelting": {
-    "criteria": {
-      "has_item": "2025-02-13 02:57:21 +0000"
     },
     "done": true
   },
@@ -11721,39 +10682,285 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/roast_chicken_block": {
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
-      "has_cooked_chicken": "2025-02-13 02:39:47 +0000"
+      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-13 03:10:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-02-13 03:10:52 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/paper_wall": {
+    "criteria": {
+      "has_bamboo": "2025-02-13 03:10:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-13 03:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-13 03:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-02-13 03:10:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-02-13 03:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-02-13 03:10:52 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/decorations/sticky_basket": {
+    "criteria": {
+      "has_cobweb": "2025-02-13 03:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-13 03:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-13 03:14:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-13 03:14:48 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_plates_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_granite_brick_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_pavers_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_tile_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_tiles_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_tile_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_paver_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_brick_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_shingle_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
   },
   "stoneworks:recipes/building_blocks/cobbled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/bamboo_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_leggings": "2025-02-13 03:57:01 +0000"
     },
     "done": true
   },
@@ -11775,153 +10982,15 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/blue_fabric_desk_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/crimson_stairs_from_crimson_planks_sawing": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "suppsquared:recipes/decorations/item_shelf_crimson": {
-    "criteria": {
-      "has_item": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/magical_eye": {
-    "criteria": {
-      "magical_eye": "2025-02-13 03:50:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_mangrove_stool": {
-    "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/granite_plate_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crimson_sign": {
-    "criteria": {
-      "has_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/building_blocks/scute_shingles": {
-    "criteria": {
-      "has_scute": "2025-02-13 02:30:49 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dismantledto_bones": {
-    "criteria": {
-      "dismantledto_bones_0": "2025-02-13 02:56:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_fabric_desk_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-13 04:29:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_chair": {
-    "criteria": {
-      "has_gray_wool": "2025-02-13 05:03:45 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/chiseled_acacia_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-02-13 04:28:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-02-13 04:28:50 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_fabric_desk_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_warped_chair": {
-    "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_door": {
-    "criteria": {
-      "has_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -11937,69 +11006,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-02-13 03:29:59 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/cyan_fabric_desk_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/crimson_desk": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-02-13 04:28:50 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_spruce": {
-    "criteria": {
-      "has_spruce_sign": "2025-02-13 03:56:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/acacia_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
     },
     "done": true
   },
@@ -12009,69 +11018,15 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/cyan_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_cherry_stool": {
-    "criteria": {
-      "has_gray_wool": "2025-02-13 05:03:45 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/chiseled_warped_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
-    },
-    "done": true
-  },
-  "oceansdelight:recipes/oceansdelight/seagrass_salad": {
-    "criteria": {
-      "has_seagrass": "2025-02-13 02:33:18 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_curtain": {
-    "criteria": {
-      "has_item": "2025-02-13 05:03:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_cherry_chair": {
-    "criteria": {
-      "has_gray_wool": "2025-02-13 05:03:45 +0000"
     },
     "done": true
   },
@@ -12093,51 +11048,9 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_birch_stool": {
-    "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_mangrove_chair": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-02-13 03:20:37 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/lunar_stone_helmet": {
-    "criteria": {
-      "has_item": "2025-02-13 02:57:21 +0000"
-    },
-    "done": true
-  },
-  "majruszsenchantments:fishing_fanatic": {
-    "criteria": {
-      "has_met_requirement": "2025-02-13 02:22:34 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -12153,81 +11066,9 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/crimson_seat": {
-    "criteria": {
-      "has_plank": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/red_sleeping_bag": {
-    "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/decorations/sticky_basket": {
-    "criteria": {
-      "has_cobweb": "2025-02-13 03:11:13 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/nether_bricks/red_mixed_nether_bricks": {
-    "criteria": {
-      "has_item": "2025-02-13 04:40:30 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
-    "criteria": {
-      "has_netherite_scrap": "2025-02-13 04:36:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-02-13 04:29:42 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_warped_stool": {
-    "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_granite_brick_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-02-13 02:45:21 +0000"
     },
     "done": true
   },
@@ -12237,51 +11078,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/granite_brick_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_cherry_stool": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_fabric_desk_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/oak_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
     },
     "done": true
   },
@@ -12291,129 +11090,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:angler_treasure_bag": {
-    "criteria": {
-      "bag_opened": "2025-02-13 02:30:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2025-02-13 04:05:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-02-13 04:05:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-02-13 05:03:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_warped_chair": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_button": {
-    "criteria": {
-      "has_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-02-13 03:14:48 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-02-13 04:43:40 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/chiseled_crimson_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:adventure/the_magicians": {
-    "criteria": {
-      "killed_evoker": "2025-02-13 03:50:26 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:main/plant_rice": {
-    "criteria": {
-      "plant_rice": "2025-02-13 02:49:36 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_warped_chair": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/chiseled_bamboo_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
     },
     "done": true
   },
@@ -12423,51 +11102,9 @@
     },
     "done": true
   },
-  "miners_delight:recipes/food/squid_sandwich": {
-    "criteria": {
-      "has_squid": "2025-02-13 02:31:14 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-13 03:32:01 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/sunbird_blessing": {
-    "criteria": {
-      "all_effects": "2025-02-13 05:07:05 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/mangrove_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_chair": {
-    "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-02-13 02:23:21 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/building_blocks/driftwood_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
     },
     "done": true
   },
@@ -12477,105 +11114,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_fabric_desk_lamp": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_cherry_chair": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/chiseled_mangrove_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:horror_underthe_mantle": {
-    "criteria": {
-      "horror_underthe_mantle_0": "2025-02-13 04:03:46 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_upholstered_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/spruce_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/turtle_helmet": {
-    "criteria": {
-      "has_scute": "2025-02-13 02:30:49 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:downer": {
-    "criteria": {
-      "dorcel": "2025-02-13 04:30:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-02-13 05:02:31 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-02-13 03:32:01 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_mangrove_chair": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
     },
     "done": true
   },
@@ -12591,33 +11132,87 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+  "stoneworks:recipes/building_blocks/granite_shingle_wall_from_granite_stonecutting": {
     "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
+      "has_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
+  "stoneworks:recipes/building_blocks/granite_plate_stairs_from_granite_stonecutting": {
     "criteria": {
-      "has_planks": "2025-02-13 04:44:57 +0000"
+      "has_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+  "stoneworks:recipes/building_blocks/granite_paver_stairs_from_granite_stonecutting": {
     "criteria": {
-      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
+      "has_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/cyan_crimson_chair": {
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_crimson_chair": {
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-13 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-02-13 03:20:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-02-13 03:29:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-13 03:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-13 03:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-13 03:32:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-13 03:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-13 03:32:01 +0000"
     },
     "done": true
   },
@@ -12633,75 +11228,51 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+  "galosphere:recipes/building_blocks/amethyst_slab": {
     "criteria": {
-      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
+      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_birch_stool": {
+  "galosphere:recipes/building_blocks/smooth_amethyst": {
     "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
+      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/red_crimson_chair": {
+  "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
     "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+  "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
     "criteria": {
-      "has_stone_types_limestone": "2025-02-13 03:07:27 +0000"
+      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
+  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
     "criteria": {
-      "has_quartz": "2025-02-13 04:28:50 +0000"
+      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/granite_shingle_wall_from_granite_stonecutting": {
+  "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
     "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
+      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/lime_fabric_desk_lamp": {
+  "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
-      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/granite_plate_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_jungle_stool": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_chair": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
     },
     "done": true
   },
@@ -12711,15 +11282,1186 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_cherry_chair": {
+  "galosphere:recipes/building_blocks/amethyst_stairs": {
     "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
+      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/granite_paver_stairs_from_granite_stonecutting": {
+  "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
+      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-02-13 03:49:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-02-13 03:50:26 +0000"
+    },
+    "done": false
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-02-13 03:50:27 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "magical_eye": "2025-02-13 03:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-13 03:50:48 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/illunite_shard": {
+    "criteria": {
+      "get_stew": "2025-02-13 03:51:19 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/chiseled_driftwood_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_dark_oak_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/chiseled_river_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_cherry_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/river_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/cherry_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_birch_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/jungle_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_spruce_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/bamboo_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_acacia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/acacia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_bamboo_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_mangrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/chiseled_jungle_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-13 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-13 03:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-13 03:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-02-13 03:52:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-02-13 03:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-02-13 03:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-02-13 03:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-02-13 03:57:52 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-02-13 04:03:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-02-13 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-02-13 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-13 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-02-13 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:protectedby_darkness": {
+    "criteria": {
+      "protectedby_darkness_0": "2025-02-13 04:07:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-02-13 04:12:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-13 04:12:59 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-02-13 04:25:37 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2025-02-13 04:28:08 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-02-13 04:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-13 04:28:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-02-13 04:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-13 04:28:08 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-02-13 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-13 04:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-13 04:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-13 04:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-13 04:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-13 04:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-13 04:28:50 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-13 04:29:19 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_helmet": {
+    "criteria": {
+      "has_item": "2025-02-13 04:29:19 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_leggings": {
+    "criteria": {
+      "has_item": "2025-02-13 04:29:19 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_boots": {
+    "criteria": {
+      "has_item": "2025-02-13 04:29:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "blackstone_basin": "2025-02-13 04:39:12 +0000",
+      "infernal_holt": "2025-02-13 04:29:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-13 04:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-13 04:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-13 04:29:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2025-02-13 04:30:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2025-02-13 04:31:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-13 04:36:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-13 04:36:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-13 04:36:12 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-13 04:36:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-02-13 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_stove": {
+    "criteria": {
+      "has_nether_brick": "2025-02-13 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/red_mixed_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-02-13 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-13 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-02-13 04:42:56 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-02-13 04:43:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/crimson_support": {
+    "criteria": {
+      "has_plank": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_item": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/crimson_ladder_from_crimson_planks_sawing": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/crimson_fence_from_crimson_planks_sawing": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/crimson_boards_from_crimson_planks_sawing": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/crimson_table": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/crimson_desk_drawer": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/crimson_slab_from_crimson_planks_sawing": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/crimson_stairs_from_crimson_planks_sawing": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_crimson": {
+    "criteria": {
+      "has_item": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/crimson_desk": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/crimson_seat": {
+    "criteria": {
+      "has_plank": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
@@ -12735,69 +12477,9 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-02-13 04:28:08 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_curtain": {
-    "criteria": {
-      "has_item": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/lunar_stone_leggings": {
-    "criteria": {
-      "has_item": "2025-02-13 02:57:21 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_acacia_chair": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
   "woodworks:recipes/redstone/crimson_button_from_crimson_planks_sawing": {
     "criteria": {
       "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/chiseled_jungle_bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_stairs": {
-    "criteria": {
-      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "biomemakeover:biomemakeover/mansion": {
-    "criteria": {
-      "ghost_town": "2025-02-13 05:40:30 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-02-13 03:16:32 +0000"
     },
     "done": true
   },
@@ -12813,87 +12495,135 @@
     },
     "done": true
   },
-  "endrem:main/root": {
-    "criteria": {
-      "magical_eye": "2025-02-13 03:50:27 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_cherry_chair": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_warped_chair": {
-    "criteria": {
-      "has_gray_wool": "2025-02-13 05:03:45 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_acacia_chair": {
-    "criteria": {
-      "has_red_wool": "2025-02-13 05:40:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "biomemakeover:biomemakeover/illunite_shard": {
-    "criteria": {
-      "get_stew": "2025-02-13 03:51:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-02-13 03:38:26 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/lunar_stone_boots": {
-    "criteria": {
-      "has_item": "2025-02-13 02:57:21 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-02-13 04:12:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
+  "valhelsia_furniture:recipes/decorations/black_crimson_chair": {
     "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
+      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
     },
     "done": true
   },
-  "woodworks:recipes/building_blocks/dark_oak_bookshelf": {
+  "incendium:misc/loot_piglin_village": {
     "criteria": {
-      "has_book": "2025-02-13 03:52:03 +0000"
+      "incendium:medium": "2025-02-13 04:45:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "has_glowstone_dust": "2025-02-13 03:50:11 +0000"
+      "enchanted_item": "2025-02-13 05:02:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_birch_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_cherry_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_crimson_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_acacia_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_warped_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_mangrove_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_warped_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_cherry_stool": {
+    "criteria": {
+      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_curtain": {
+    "criteria": {
+      "has_item": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_cherry_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-02-13 05:03:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_warped_chair": {
+    "criteria": {
+      "has_gray_wool": "2025-02-13 05:03:45 +0000"
     },
     "done": true
   },
@@ -12909,81 +12639,279 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
-    "criteria": {
-      "has_netherrack": "2025-02-13 04:28:49 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/chicken_sandwich": {
-    "criteria": {
-      "has_cooked_chicken": "2025-02-13 02:39:47 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_crimson_chair": {
-    "criteria": {
-      "has_crimson_planks": "2025-02-13 04:44:57 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/lapis_bricks": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-02-13 03:14:48 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-13 03:16:32 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/building_blocks/scute_block": {
-    "criteria": {
-      "has_scute": "2025-02-13 02:30:49 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2025-02-13 03:37:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2025-02-13 03:10:52 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/misc/lunar_scrap_blasting": {
-    "criteria": {
-      "has_item": "2025-02-13 02:57:21 +0000"
-    },
-    "done": true
-  },
   "valhelsia_structures:recipes/decorations/gray_sleeping_bag": {
     "criteria": {
       "has_gray_wool": "2025-02-13 05:03:45 +0000"
     },
     "done": true
   },
-  "miners_delight:recipes/cooking/stuffed_squid": {
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_stool": {
     "criteria": {
-      "has_any_ingredient": "2025-02-13 02:31:14 +0000"
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_mangrove_stool": {
     "criteria": {
-      "fried_egg": "2025-02-13 04:05:21 +0000"
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_curtain": {
+    "criteria": {
+      "has_item": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_warped_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_crimson_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_cherry_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_warped_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_warped_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_cherry_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_mangrove_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_birch_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_jungle_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_acacia_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_cherry_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-13 05:03:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-02-13 05:07:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-02-13 05:38:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_cherry_chair": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_jungle_stool": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_warped_chair": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_crimson_stool": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_mangrove_chair": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_cherry_stool": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_stool": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_warped_chair": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_birch_stool": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/red_sleeping_bag": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_warped_stool": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_chair": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_cherry_chair": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_curtain": {
+    "criteria": {
+      "has_item": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_acacia_chair": {
+    "criteria": {
+      "has_red_wool": "2025-02-13 05:40:21 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/mansion": {
+    "criteria": {
+      "ghost_town": "2025-02-13 05:40:30 +0000"
     },
     "done": true
   },
