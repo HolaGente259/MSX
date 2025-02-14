@@ -2093,6 +2093,7 @@
       "minecraft:spider": "2025-02-10 03:41:45 +0000",
       "minecraft:creeper": "2025-02-07 07:13:54 +0000",
       "minecraft:evoker": "2025-02-13 03:50:26 +0000",
+      "minecraft:phantom": "2025-02-14 05:51:58 +0000",
       "minecraft:zombified_piglin": "2025-02-13 04:29:14 +0000",
       "minecraft:witch": "2025-02-13 03:48:45 +0000",
       "minecraft:wither_skeleton": "2025-02-14 04:51:19 +0000",
@@ -5230,11 +5231,13 @@
     "criteria": {
       "shrubland": "2025-02-10 01:55:04 +0000",
       "pine_taiga": "2025-02-10 02:16:47 +0000",
+      "frozen_tundra": "2025-02-14 06:04:52 +0000",
       "redstone_caves": "2025-02-10 01:53:25 +0000",
       "scorching_caves": "2025-02-10 06:19:14 +0000",
       "blackwood_taiga": "2025-02-13 00:58:23 +0000",
       "mycotoxic_undergrowth": "2025-02-14 04:42:26 +0000",
       "highland_fields": "2025-02-10 01:50:24 +0000",
+      "frozen_pine_taiga": "2025-02-14 05:55:11 +0000",
       "mountains": "2025-02-13 01:54:33 +0000",
       "deciduous_forest": "2025-02-10 03:51:29 +0000",
       "blackstone_basin": "2025-02-13 04:39:12 +0000",
@@ -5249,8 +5252,10 @@
     "criteria": {
       "shrubland": "2025-02-10 01:55:04 +0000",
       "pine_taiga": "2025-02-10 02:16:47 +0000",
+      "frozen_tundra": "2025-02-14 06:04:52 +0000",
       "blackwood_taiga": "2025-02-13 00:58:23 +0000",
       "highland_fields": "2025-02-10 01:50:24 +0000",
+      "frozen_pine_taiga": "2025-02-14 05:55:11 +0000",
       "mountains": "2025-02-13 01:54:33 +0000",
       "deciduous_forest": "2025-02-10 03:51:29 +0000",
       "temperate_grove": "2025-02-10 01:52:05 +0000",
@@ -13034,6 +13039,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-02-14 05:51:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-02-14 04:58:55 +0000"
@@ -13043,6 +13054,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-02-14 05:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-14 05:52:58 +0000"
     },
     "done": true
   },
@@ -13139,6 +13156,12 @@
   "woodworks:recipes/redstone/trapped_birch_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-14 05:52:58 +0000"
     },
     "done": true
   },

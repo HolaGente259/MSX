@@ -648,6 +648,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-02-14 05:51:08 +0000",
       "minecraft:deep_ocean": "2025-02-07 07:22:21 +0000",
       "minecraft:sunflower_plains": "2025-02-07 07:33:01 +0000",
       "minecraft:birch_forest": "2025-02-07 08:09:06 +0000",
@@ -2705,6 +2706,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-14 05:19:40 +0000",
       "cooked_beef": "2025-02-13 02:49:59 +0000",
+      "baked_potato": "2025-02-14 06:01:27 +0000",
       "cooked_chicken": "2025-02-14 05:46:37 +0000",
       "cooked_mutton": "2025-02-07 07:38:27 +0000",
       "apple": "2025-02-10 05:33:40 +0000",
@@ -3613,6 +3615,7 @@
       "minecraft:magma_cube": "2025-02-14 05:10:56 +0000",
       "minecraft:spider": "2025-02-10 03:35:08 +0000",
       "minecraft:creeper": "2025-02-10 02:20:18 +0000",
+      "minecraft:phantom": "2025-02-14 05:51:04 +0000",
       "minecraft:zombified_piglin": "2025-02-13 04:47:44 +0000",
       "minecraft:witch": "2025-02-07 07:39:43 +0000",
       "minecraft:wither_skeleton": "2025-02-14 05:08:44 +0000",
@@ -5339,6 +5342,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-02-10 01:55:10 +0000",
+      "frozen_tundra": "2025-02-14 06:05:02 +0000",
       "redstone_caves": "2025-02-10 01:53:24 +0000",
       "scorching_caves": "2025-02-10 06:19:38 +0000",
       "mycotoxic_undergrowth": "2025-02-14 04:42:27 +0000",
@@ -5354,6 +5358,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2025-02-10 01:55:10 +0000",
+      "frozen_tundra": "2025-02-14 06:05:02 +0000",
       "highland_fields": "2025-02-10 01:50:14 +0000",
       "deciduous_forest": "2025-02-10 03:51:26 +0000",
       "temperate_grove": "2025-02-10 01:52:02 +0000",
@@ -12189,6 +12194,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/polished_basalt/slab": {
+    "criteria": {
+      "has_item": "2025-02-14 05:52:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/brimwood_planks": {
     "criteria": {
       "has_logs": "2025-02-14 05:10:24 +0000"
@@ -12213,6 +12224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-02-14 06:04:25 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/brimwood_shrub": {
     "criteria": {
       "has_brimwood_sapling": "2025-02-14 05:10:24 +0000"
@@ -12225,9 +12242,33 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-02-14 05:51:04 +0000"
+    },
+    "done": false
+  },
+  "miners_delight:recipes/cooking/glow_ink_pasta": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-02-14 06:04:25 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/acacia_shrub": {
     "criteria": {
       "has_acacia_sapling": "2025-02-14 05:49:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-02-14 05:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-14 05:52:53 +0000"
     },
     "done": true
   },
@@ -12246,6 +12287,12 @@
   "yungscavebiomes:frosted_caves": {
     "criteria": {
       "frosted_caves": "2025-02-14 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt_bricks/polished_basalt_bricks": {
+    "criteria": {
+      "has_planks": "2025-02-14 05:52:54 +0000"
     },
     "done": true
   },
@@ -12276,6 +12323,30 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-02-14 05:11:02 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/wall": {
+    "criteria": {
+      "has_item": "2025-02-14 05:52:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-14 05:53:46 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-02-14 05:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-14 05:52:53 +0000"
     },
     "done": true
   },

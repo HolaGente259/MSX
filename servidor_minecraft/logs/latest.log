@@ -4165,3 +4165,13 @@ Pos: BlockPos{x=-2593, y=71, z=212}
 [14Feb2025 05:53:31.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3156ms or 63 ticks behind
 [14Feb2025 05:53:53.196] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Loko384'/44523, l='ServerLevel[world]', x=4646.70, y=79.00, z=-1717.29] died: Loko384 was slain by Loko384
 [14Feb2025 05:54:14.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Loko384'/44271, l='ServerLevel[world]', x=4664.09, y=88.06, z=-1745.48] died: Loko384 was slain by EliamDios
+[14Feb2025 06:00:29.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was pummeled by Night Lich
+[14Feb2025 06:00:38.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 06:01:29.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 06:02:12.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -898.500000, 64.500000, -2934.500000]
+[14Feb2025 06:02:46.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 4656.500000, 87.500000, -1743.500000]
+[14Feb2025 06:04:10.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 4649.500000, 86.500000, -1746.500000]
+[14Feb2025 06:04:34.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 06:04:48.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 06:05:35.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[14Feb2025 06:05:55.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has completed the challenge [Night Vanquisher]
