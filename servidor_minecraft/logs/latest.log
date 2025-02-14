@@ -4045,3 +4045,17 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
   "H)\"(PdF|Zfih9"
 ]
 [14Feb2025 04:22:56.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has completed the challenge [Scholar]
+[14Feb2025 04:35:48.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loko384[/127.133.119.214:44135] logged in with entity id 1799 at (-3569.910954758489, 118.5, -1016.0566785480515)
+[14Feb2025 04:35:48.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 joined the game
+[14Feb2025 04:35:48.551] [Server thread/INFO] [Jade/]: Syncing config to Loko384 (3bf84b8b-38e4-36e4-9466-bc45342fedf3)
+[14Feb2025 04:35:51.042] [Server thread/INFO] [ping-wheel/]: Channel update: Loko384 -> default
+[14Feb2025 04:36:31.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: The difficulty has been set to Hard]
+[14Feb2025 04:36:51.918] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[14Feb2025 04:37:20.216] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[14Feb2025 04:39:30.593] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [8 above bottom-0 absolute]
+[14Feb2025 04:40:45.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was killed by EliamDios using magic
+[14Feb2025 04:40:47.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Loko384'/4960, l='ServerLevel[world]', x=-174.30, y=84.31, z=-329.66] died: Loko384 was slain by EliamDios
+[14Feb2025 04:40:59.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 04:42:06.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was killed by EliamDios using magic
+[14Feb2025 04:42:13.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 04:43:34.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Zombified Piglin
