@@ -2717,6 +2717,7 @@
       "golden_apple": "2025-02-10 05:13:15 +0000",
       "rotten_flesh": "2025-02-14 05:44:05 +0000",
       "melon_slice": "2025-02-07 07:19:04 +0000",
+      "golden_carrot": "2025-02-14 06:28:21 +0000",
       "carrot": "2025-02-14 05:15:26 +0000"
     },
     "done": false
@@ -12185,73 +12186,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 06:25:49 +0000"
+      "log_spam_fixer": "2025-02-14 06:35:49 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 06:25:49 +0000"
+      "log_spam_fixer": "2025-02-14 06:35:49 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 06:25:49 +0000"
+      "log_spam_fixer": "2025-02-14 06:35:49 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 06:25:49 +0000"
+      "log_spam_fixer": "2025-02-14 06:35:49 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 06:25:49 +0000"
+      "log_spam_fixer": "2025-02-14 06:35:49 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 06:25:49 +0000"
+      "log_spam_fixer": "2025-02-14 06:35:49 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 06:25:49 +0000"
+      "log_spam_fixer": "2025-02-14 06:35:49 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 06:25:49 +0000"
+      "log_spam_fixer": "2025-02-14 06:35:49 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 06:25:49 +0000"
+      "log_spam_fixer": "2025-02-14 06:35:49 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 06:25:49 +0000"
+      "log_spam_fixer": "2025-02-14 06:35:49 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 06:25:49 +0000"
+      "log_spam_fixer": "2025-02-14 06:35:49 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-14 06:25:49 +0000"
+      "log_spam_fixer": "2025-02-14 06:35:49 +0000"
     },
     "done": false
   },
@@ -12288,6 +12289,12 @@
   "netherexp:recipes/polished_basalt/slab": {
     "criteria": {
       "has_item": "2025-02-14 05:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-02-14 06:34:26 +0000"
     },
     "done": true
   },
@@ -12375,6 +12382,18 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-02-14 06:29:14 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-02-14 06:29:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-02-14 06:10:29 +0000"
@@ -12389,7 +12408,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-02-14 05:51:04 +0000"
+      "phantom": "2025-02-14 05:51:04 +0000",
+      "warden": "2025-02-14 06:29:14 +0000"
     },
     "done": false
   },
@@ -12465,9 +12485,27 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/soul_torch_from_soul_chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-14 06:34:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-14 06:25:13 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-02-14 06:26:52 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-14 06:34:26 +0000"
     },
     "done": true
   },
@@ -12525,6 +12563,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-02-14 06:29:20 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/polished_basalt/wall": {
     "criteria": {
       "has_item": "2025-02-14 05:52:54 +0000"
@@ -12546,6 +12590,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-02-14 06:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-14 06:35:10 +0000"
     },
     "done": true
   },
