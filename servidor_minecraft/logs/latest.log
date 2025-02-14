@@ -4146,3 +4146,22 @@ Pos: BlockPos{x=-2593, y=71, z=212}
 [14Feb2025 05:44:24.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Cool, Cool Cave]
 [14Feb2025 05:45:00.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4840ms or 96 ticks behind
 [14Feb2025 05:45:06.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 4636.500000, 92.500000, -1713.500000]
+[14Feb2025 05:45:39.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24244ms or 484 ticks behind
+[14Feb2025 05:46:00.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4185ms or 83 ticks behind
+[14Feb2025 05:46:44.847] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1340, y=81, z=648}
+[14Feb2025 05:47:35.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -895.500000, 64.500000, -2935.500000]
+[14Feb2025 05:47:41.067] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-714, y=40, z=-3461}
+[14Feb2025 05:47:44.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loko384 moved wrongly!
+[14Feb2025 05:49:19.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to Loko384]
+[14Feb2025 05:49:52.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has completed the challenge [Praise the Sun]
+[14Feb2025 05:50:55.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 4651.500000, 88.500000, -1734.500000]
+[14Feb2025 05:51:07.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 05:52:42.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was doomed to fall by Zombie
+[14Feb2025 05:52:47.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 05:53:02.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Zombie
+[14Feb2025 05:53:05.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 05:53:14.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Zombie
+[14Feb2025 05:53:25.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 05:53:31.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3156ms or 63 ticks behind
+[14Feb2025 05:53:53.196] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Loko384'/44523, l='ServerLevel[world]', x=4646.70, y=79.00, z=-1717.29] died: Loko384 was slain by Loko384
+[14Feb2025 05:54:14.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Loko384'/44271, l='ServerLevel[world]', x=4664.09, y=88.06, z=-1745.48] died: Loko384 was slain by EliamDios
