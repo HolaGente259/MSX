@@ -12931,9 +12931,21 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-02-14 05:28:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-02-14 05:15:42 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_warped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
     },
     "done": true
   },
@@ -12979,6 +12991,36 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/trapped_bamboo_closet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2025-02-14 05:28:56 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/trapped_driftwood_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/trapped_river_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-02-14 04:58:55 +0000"
@@ -12991,9 +13033,45 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-14 05:22:49 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_jungle_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_crimson_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-02-14 05:06:30 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_mangrove_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_dark_oak_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_acacia_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
     },
     "done": true
   },
@@ -13003,9 +13081,33 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/trapped_cherry_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-02-14 05:06:35 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_oak_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_birch_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_spruce_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
     },
     "done": true
   },

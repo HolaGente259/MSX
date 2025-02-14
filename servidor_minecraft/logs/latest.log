@@ -4120,3 +4120,10 @@ Pos: BlockPos{x=-2593, y=71, z=212}
 [14Feb2025 05:21:52.968] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/31470, l='ServerLevel[world]', x=-354.00, y=31.00, z=-382.00] as it would cause deadlock
 [14Feb2025 05:22:49.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Ol' Betsy]
 [14Feb2025 05:24:01.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported Loko384 to EliamDios]
+[14Feb2025 05:28:41.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -3540.500000, 74.500000, -1083.500000]
+[14Feb2025 05:28:42.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Dripstone Everywhere]
+[14Feb2025 05:28:56.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [A Disgusting Worm]
+[14Feb2025 05:29:07.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2618ms or 52 ticks behind
+[14Feb2025 05:31:38.652] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[14Feb2025 05:33:20.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -956.500000, -53.500000, -3152.500000]
+[14Feb2025 05:33:53.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
