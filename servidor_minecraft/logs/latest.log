@@ -4262,3 +4262,13 @@ Pos: BlockPos{x=-2593, y=71, z=212}
 [14Feb2025 06:29:14.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has completed the challenge [Phantom Thief]
 [14Feb2025 06:29:49.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Master of Silence]
 [14Feb2025 06:35:10.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has completed the challenge [It Spreads]
+[14Feb2025 06:36:52.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Warden
+[14Feb2025 06:37:10.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 4690.500000, -50.500000, -2088.500000]
+[14Feb2025 06:42:49.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 06:43:40.953] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
+[14Feb2025 06:43:40.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Below the Bedrock]
+[14Feb2025 06:43:41.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3133ms or 62 ticks behind
+[14Feb2025 06:44:02.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was obliterated by a sonically-charged shriek
+[14Feb2025 06:44:36.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Below the Bedrock]
+[14Feb2025 06:44:36.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 06:45:41.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 4724.500000, 26.500000, -1998.500000]

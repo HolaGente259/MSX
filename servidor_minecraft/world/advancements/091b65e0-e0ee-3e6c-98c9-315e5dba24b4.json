@@ -12932,6 +12932,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-02-14 06:43:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-02-14 06:18:06 +0000"
@@ -13052,6 +13058,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/gloomslate_slab": {
+    "criteria": {
+      "has_gloomslate": "2025-02-14 06:44:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-14 06:18:07 +0000"
@@ -13124,9 +13136,21 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/smooth_gloomslate": {
+    "criteria": {
+      "has_gloomslate": "2025-02-14 06:44:47 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
     "criteria": {
       "obtain_chaotic_hexahedron": "2025-02-14 05:35:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_wall": {
+    "criteria": {
+      "has_gloomslate": "2025-02-14 06:44:47 +0000"
     },
     "done": true
   },
@@ -13217,6 +13241,12 @@
   "woodworks:recipes/redstone/trapped_bamboo_closet": {
     "criteria": {
       "has_tripwire_hook": "2025-02-14 05:21:51 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_stairs_from_gloomslate_stonecutting": {
+    "criteria": {
+      "has_gloomslate": "2025-02-14 06:44:47 +0000"
     },
     "done": true
   },
@@ -13312,6 +13342,7 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
+      "shattered": "2025-02-14 06:45:44 +0000",
       "phantom": "2025-02-14 05:51:58 +0000",
       "warden": "2025-02-14 06:26:44 +0000"
     },
@@ -13431,6 +13462,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/gloomslate_slab_from_gloomslate_stonecutting": {
+    "criteria": {
+      "has_gloomslate": "2025-02-14 06:44:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-02-14 05:22:49 +0000"
@@ -13491,9 +13528,22 @@
     },
     "done": true
   },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "overcast_columns": "2025-02-14 06:43:41 +0000",
+      "echoing_forest": "2025-02-14 06:45:41 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_heart_of_the_deep": "2025-02-14 06:33:13 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_wall_from_gloomslate_stonecutting": {
+    "criteria": {
+      "has_gloomslate": "2025-02-14 06:44:47 +0000"
     },
     "done": true
   },
@@ -13668,6 +13718,12 @@
   "valhelsia_furniture:recipes/decorations/gray_warped_table": {
     "criteria": {
       "has_gray_carpet": "2025-02-14 06:09:37 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_stairs": {
+    "criteria": {
+      "has_gloomslate": "2025-02-14 06:44:47 +0000"
     },
     "done": true
   },
