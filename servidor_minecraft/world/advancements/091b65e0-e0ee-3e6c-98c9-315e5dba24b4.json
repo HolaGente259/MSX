@@ -12915,5 +12915,11 @@
     },
     "done": true
   },
+  "majruszsenchantments:scholar": {
+    "criteria": {
+      "has_met_requirement": "2025-02-14 04:22:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
