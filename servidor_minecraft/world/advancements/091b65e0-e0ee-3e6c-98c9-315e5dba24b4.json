@@ -6071,7 +6071,10 @@
   },
   "too_many_bows:master_bow_collector": {
     "criteria": {
-      "ironclad_bow": "2025-02-10 03:10:56 +0000"
+      "ironclad_bow": "2025-02-10 03:10:56 +0000",
+      "spectral_whisper": "2025-02-14 05:12:48 +0000",
+      "solar_bow": "2025-02-14 05:15:25 +0000",
+      "vitality_weaver": "2025-02-14 05:12:53 +0000"
     },
     "done": false
   },
@@ -12922,81 +12925,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:09:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:09:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:09:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:09:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:09:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:09:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:09:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:09:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:09:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:09:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:09:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:09:55 +0000"
-    },
-    "done": false
-  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-02-14 05:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-14 05:15:42 +0000"
     },
     "done": true
   },
@@ -13015,6 +12952,12 @@
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-02-14 04:53:22 +0000"
+    },
+    "done": true
+  },
+  "blazegear:obtain_brimsteel_ingot": {
+    "criteria": {
+      "brimsteel_ingot": "2025-02-14 05:12:55 +0000"
     },
     "done": true
   },

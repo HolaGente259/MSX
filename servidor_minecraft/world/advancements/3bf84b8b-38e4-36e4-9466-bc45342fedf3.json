@@ -2702,6 +2702,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-14 05:19:40 +0000",
       "cooked_beef": "2025-02-13 02:49:59 +0000",
       "cooked_mutton": "2025-02-07 07:38:27 +0000",
       "apple": "2025-02-10 05:33:40 +0000",
@@ -2709,7 +2710,8 @@
       "pumpkin_pie": "2025-02-10 02:02:48 +0000",
       "bread": "2025-02-10 01:45:06 +0000",
       "golden_apple": "2025-02-10 05:13:15 +0000",
-      "melon_slice": "2025-02-07 07:19:04 +0000"
+      "melon_slice": "2025-02-07 07:19:04 +0000",
+      "carrot": "2025-02-14 05:15:26 +0000"
     },
     "done": false
   },
@@ -3605,6 +3607,7 @@
       "minecraft:blaze": "2025-02-14 05:07:56 +0000",
       "minecraft:skeleton": "2025-02-10 03:40:45 +0000",
       "minecraft:hoglin": "2025-02-13 04:47:16 +0000",
+      "minecraft:magma_cube": "2025-02-14 05:10:56 +0000",
       "minecraft:spider": "2025-02-10 03:35:08 +0000",
       "minecraft:creeper": "2025-02-10 02:20:18 +0000",
       "minecraft:zombified_piglin": "2025-02-13 04:47:44 +0000",
@@ -7458,7 +7461,9 @@
   },
   "too_many_bows:master_bow_collector": {
     "criteria": {
-      "ironclad_bow": "2025-02-10 03:09:38 +0000"
+      "ironclad_bow": "2025-02-10 03:09:38 +0000",
+      "solar_bow": "2025-02-14 05:11:52 +0000",
+      "vitality_weaver": "2025-02-14 05:11:18 +0000"
     },
     "done": false
   },
@@ -12169,15 +12174,51 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-02-14 05:11:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-02-14 05:08:01 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/brimwood_planks": {
+    "criteria": {
+      "has_logs": "2025-02-14 05:10:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "brimwood_log": "2025-02-14 05:10:24 +0000"
+    },
+    "done": false
+  },
   "majruszsdifficulty:kill_yourself": {
     "criteria": {
       "kill_yourself": "2025-02-14 05:09:25 +0000"
+    },
+    "done": true
+  },
+  "blazegear:obtain_brimsteel_ingot": {
+    "criteria": {
+      "brimsteel_ingot": "2025-02-14 05:11:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_shrub": {
+    "criteria": {
+      "has_brimwood_sapling": "2025-02-14 05:10:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_wood": {
+    "criteria": {
+      "has_log": "2025-02-14 05:10:24 +0000"
     },
     "done": true
   },
@@ -12196,6 +12237,24 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-02-14 05:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-14 05:11:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item": "2025-02-14 05:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-14 05:11:02 +0000"
     },
     "done": true
   },

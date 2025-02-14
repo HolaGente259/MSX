@@ -4112,3 +4112,11 @@ Pos: BlockPos{x=-2593, y=71, z=212}
 [14Feb2025 05:12:24.971] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
 [14Feb2025 05:12:28.073] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
 [14Feb2025 05:12:55.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Hot to the Touch]
+[14Feb2025 05:14:36.320] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[14Feb2025 05:15:42.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Take Aim]
+[14Feb2025 05:16:58.204] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[14Feb2025 05:17:16.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to Loko384]
+[14Feb2025 05:17:24.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -896.500000, 64.500000, -2938.500000]
+[14Feb2025 05:21:52.968] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/31470, l='ServerLevel[world]', x=-354.00, y=31.00, z=-382.00] as it would cause deadlock
+[14Feb2025 05:22:49.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Ol' Betsy]
+[14Feb2025 05:24:01.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported Loko384 to EliamDios]
