@@ -4068,3 +4068,19 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [14Feb2025 04:50:13.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=82, z=-333} BlockPos{x=-67, y=82, z=-333}
 [14Feb2025 04:50:13.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-66, y=81, z=-334} BlockPos{x=-67, y=82, z=-333}
 [14Feb2025 04:53:22.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Who is Cutting Onions?]
+[14Feb2025 04:57:17.775] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/18742, l='ServerLevel[world]', x=-2087.00, y=31.00, z=51.00] as it would cause deadlock
+[14Feb2025 04:57:34.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=17, z=-310} BlockPos{x=44, y=20, z=-306}
+[14Feb2025 04:57:34.209] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=17, z=-310} BlockPos{x=44, y=20, z=-306}
+[14Feb2025 04:58:55.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Spooky Scary Skeleton]
+[14Feb2025 04:59:15.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Straddle My Ol' Saddle]
+[14Feb2025 05:00:12.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-110, y=156, z=-392} BlockPos{x=-112, y=153, z=-392}
+[14Feb2025 05:00:16.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-111, y=152, z=-391} BlockPos{x=-110, y=152, z=-391}
+[14Feb2025 05:00:16.304] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-111, y=152, z=-391} BlockPos{x=-110, y=152, z=-391}
+[14Feb2025 05:00:16.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-111, y=152, z=-391} BlockPos{x=-110, y=152, z=-391}
+[14Feb2025 05:00:16.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-111, y=152, z=-391} BlockPos{x=-110, y=152, z=-391}
+[14Feb2025 05:00:27.138] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theinkarena:natural_ink_titan but it was marked as removed already
+[14Feb2025 05:01:47.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -2019.500000, 77.500000, -140.500000]
+[14Feb2025 05:02:06.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to -2530.500000, 96.500000, 247.500000]
+[14Feb2025 05:02:45.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has completed the challenge [Scholar]
+[14Feb2025 05:03:43.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loko384 lost connection: Disconnected
+[14Feb2025 05:03:43.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 left the game

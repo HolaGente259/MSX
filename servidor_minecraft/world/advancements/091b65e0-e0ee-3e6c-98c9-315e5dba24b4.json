@@ -2093,6 +2093,7 @@
       "minecraft:evoker": "2025-02-13 03:50:26 +0000",
       "minecraft:zombified_piglin": "2025-02-13 04:29:14 +0000",
       "minecraft:witch": "2025-02-13 03:48:45 +0000",
+      "minecraft:wither_skeleton": "2025-02-14 04:51:19 +0000",
       "minecraft:husk": "2025-02-10 05:34:05 +0000",
       "minecraft:cave_spider": "2025-02-10 03:46:44 +0000",
       "minecraft:piglin": "2025-02-13 04:32:58 +0000",
@@ -3353,6 +3354,7 @@
       "clover_patch": "2025-02-07 07:58:37 +0000",
       "old_growth_woodland": "2025-02-13 05:34:58 +0000",
       "crystalline_chasm": "2025-02-13 04:28:08 +0000",
+      "withered_abyss": "2025-02-14 04:58:31 +0000",
       "orchard": "2025-02-07 07:58:16 +0000",
       "lavender_forest": "2025-02-07 07:57:54 +0000",
       "coniferous_forest": "2025-02-13 01:57:27 +0000",
@@ -12918,9 +12920,39 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-02-14 04:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-14 04:53:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-02-14 04:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-14 04:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-14 04:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-14 04:58:55 +0000"
     },
     "done": true
   },
