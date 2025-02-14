@@ -4253,3 +4253,7 @@ Pos: BlockPos{x=-2593, y=71, z=212}
 [14Feb2025 06:13:10.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Warden
 [14Feb2025 06:13:45.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 4795.500000, -50.500000, -2026.500000]
 [14Feb2025 06:15:11.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 06:17:33.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was obliterated by a sonically-charged shriek
+[14Feb2025 06:19:14.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Faster Farmland]
+[14Feb2025 06:19:17.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 06:24:57.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to Loko384]
