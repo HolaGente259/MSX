@@ -3602,12 +3602,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-10 02:23:58 +0000",
+      "minecraft:blaze": "2025-02-14 05:07:56 +0000",
       "minecraft:skeleton": "2025-02-10 03:40:45 +0000",
       "minecraft:hoglin": "2025-02-13 04:47:16 +0000",
       "minecraft:spider": "2025-02-10 03:35:08 +0000",
       "minecraft:creeper": "2025-02-10 02:20:18 +0000",
       "minecraft:zombified_piglin": "2025-02-13 04:47:44 +0000",
       "minecraft:witch": "2025-02-07 07:39:43 +0000",
+      "minecraft:wither_skeleton": "2025-02-14 05:08:44 +0000",
       "minecraft:husk": "2025-02-10 06:25:51 +0000",
       "minecraft:cave_spider": "2025-02-10 03:45:32 +0000",
       "minecraft:piglin": "2025-02-13 04:29:17 +0000",
@@ -11993,78 +11995,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:02:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:02:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:02:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:02:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:02:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:02:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:02:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:02:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:02:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:02:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:02:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-14 05:02:56 +0000"
-    },
-    "done": false
-  },
   "biomemakeover:biomemakeover/enter_dark_forest": {
     "criteria": {
       "enter_dark_forest": "2025-02-13 05:42:12 +0000"
@@ -12086,6 +12016,24 @@
   "betterarcheology:recipes/bomb": {
     "criteria": {
       "has_item": "2025-02-13 05:42:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-02-14 04:39:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/brimwood_sapling_from_brimwood_shrub": {
+    "criteria": {
+      "has_brimwood_shrub": "2025-02-14 04:42:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-02-14 04:48:19 +0000"
     },
     "done": true
   },
@@ -12119,21 +12067,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-02-14 04:48:19 +0000"
-    },
-    "done": true
-  },
   "celestisynth:recipes/combat/solar_crystal_helmet": {
     "criteria": {
       "has_item": "2025-02-14 04:50:13 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
-    "criteria": {
-      "has_rose_quartz_chunk": "2025-02-14 04:39:29 +0000"
     },
     "done": true
   },
@@ -12197,12 +12133,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/brimwood_sapling_from_brimwood_shrub": {
-    "criteria": {
-      "has_brimwood_shrub": "2025-02-14 04:42:22 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/red_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-02-14 04:50:13 +0000"
@@ -12221,12 +12151,6 @@
     },
     "done": true
   },
-  "majruszsenchantments:scholar": {
-    "criteria": {
-      "has_met_requirement": "2025-02-14 05:02:45 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/lime_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-02-14 04:50:13 +0000"
@@ -12236,6 +12160,42 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-02-14 04:50:13 +0000"
+    },
+    "done": true
+  },
+  "majruszsenchantments:scholar": {
+    "criteria": {
+      "has_met_requirement": "2025-02-14 05:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-14 05:08:01 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2025-02-14 05:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-14 05:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-14 05:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-02-14 05:07:48 +0000"
     },
     "done": true
   },

@@ -4084,3 +4084,31 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [14Feb2025 05:02:45.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has completed the challenge [Scholar]
 [14Feb2025 05:03:43.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loko384 lost connection: Disconnected
 [14Feb2025 05:03:43.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 left the game
+[14Feb2025 05:06:30.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [A Terrible Fortress]
+[14Feb2025 05:06:35.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Into Fire]
+[14Feb2025 05:07:12.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loko384[/127.133.119.214:59849] logged in with entity id 26414 at (-879.3207001495633, 62.0, -2935.0281623117776)
+[14Feb2025 05:07:12.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 joined the game
+[14Feb2025 05:07:12.337] [Server thread/INFO] [Jade/]: Syncing config to Loko384 (3bf84b8b-38e4-36e4-9466-bc45342fedf3)
+[14Feb2025 05:07:14.904] [Server thread/INFO] [ping-wheel/]: Channel update: Loko384 -> default
+[14Feb2025 05:07:48.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 05:07:48.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [A Terrible Fortress]
+[14Feb2025 05:08:52.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Zombified Piglin
+[14Feb2025 05:08:53.068] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[14Feb2025 05:08:53.068] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[14Feb2025 05:08:53.068] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[14Feb2025 05:08:53.069] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[14Feb2025 05:08:53.069] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[14Feb2025 05:09:00.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 05:09:25.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[14Feb2025 05:09:25.792] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Loko384'/26990, l='ServerLevel[world]', x=-2565.45, y=73.00, z=198.41] died: Loko384 was shot by Loko384
+[14Feb2025 05:10:24.386] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{regions_unexplored:brimwood_log}[axis=x]
+Tool: 1 bone
+Pos: BlockPos{x=-2593, y=71, z=212}
+[14Feb2025 05:10:34.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[14Feb2025 05:11:21.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Hot to the Touch]
+[14Feb2025 05:12:11.025] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[14Feb2025 05:12:21.742] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[14Feb2025 05:12:24.971] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[14Feb2025 05:12:28.073] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[14Feb2025 05:12:55.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Hot to the Touch]
